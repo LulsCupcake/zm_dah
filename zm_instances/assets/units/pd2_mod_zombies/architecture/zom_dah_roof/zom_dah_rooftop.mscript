@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<modelscript>
+    <object3d name="rp_root" mode="add">
+		<parent root="true" />
+    </object3d>
+    <object3d name="a_box_002" mode="add">
+        <parent name="rp_root" />
+		<position x="1460" y="0" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_003" mode="add">
+        <parent name="rp_root" />
+		<position x="1130" y="0" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_004" mode="add">
+        <parent name="rp_root" />
+		<position x="1130" y="430" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_005" mode="add">
+        <parent name="rp_root" />
+		<position x="0" y="1200" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_006" mode="add">
+        <parent name="rp_root" />
+		<position x="625" y="1200" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_007" mode="add">
+        <parent name="rp_root" />
+		<position x="2000" y="600" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_008" mode="add">
+        <parent name="rp_root" />
+		<position x="2000" y="1200" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_009" mode="add">
+        <parent name="rp_root" />
+		<position x="1600" y="600" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_010" mode="add">
+        <parent name="rp_root" />
+		<position x="1600" y="1200" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_011" mode="add">
+        <parent name="rp_root" />
+		<position x="2500" y="600" z="0" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_012" mode="add">
+        <parent name="rp_root" />
+		<position x="1600" y="600" z="300" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_013" mode="add">
+        <parent name="rp_root" />
+		<position x="2000" y="600" z="600" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_014" mode="add">
+        <parent name="rp_root" />
+		<position x="2500" y="0" z="400" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+    <object3d name="a_box_015" mode="add">
+        <parent name="rp_root" />
+		<position x="2500" y="600" z="400" />
+		<rotation w="1" x="0" y="0" z="0" />
+    </object3d>
+</modelscript>

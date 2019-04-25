@@ -1,0 +1,10 @@
+<materials version="3">
+	<material name="mtl_decal" render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE" version="2">
+		<variable value="dimlight" type="scalar" name="intensity"/>
+		<diffuse_texture file="guis/textures/pd2/blackmarket/icons/weapons/outline/lemming"/>
+    </material>
+    <material name="mtl_glow"	render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE" version="2">
+        <variable value="dimlight" type="scalar" name="intensity"/>
+        <diffuse_texture file="units/payday2/props/bnk_prop_kitchen_cabinets/bnk_prop_kitchen_glow_df"/>
+    </material>
+</materials>

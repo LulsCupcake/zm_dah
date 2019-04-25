@@ -1,0 +1,111 @@
+<table>
+	<unit>
+		<sequence editable_state="true" name="'show'" triggable="true">
+			<graphic_group name="'decal'" visibility="true"/>
+			<interaction enabled="true"/>
+		</sequence>
+		<sequence editable_state="true" name="'hide'" triggable="true">
+			<graphic_group name="'decal'" visibility="false"/>
+			<interaction enabled="false"/>
+		</sequence>
+		
+		<sequence editable_state="false" name="'seq_decal_wide'" triggable="false">
+			<object enabled="false" name="'g_decal'"/>
+			<object enabled="true" name="'g_decal_wide'"/>
+		</sequence>
+		<sequence editable_state="false" name="'seq_decal'" triggable="false">
+			<object enabled="true" name="'g_decal'"/>
+			<object enabled="false" name="'g_decal_wide'"/>
+		</sequence>
+
+
+		<sequence editable_state="true" name="'interact'" triggable="true"/>
+
+
+		<sequence editable_state="true" name="'wpn_ray'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_ray'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_ray'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_b682'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_joceline'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_b682'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_mosin'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_mosin'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_mosin'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_m14'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_m14'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_m14'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_raygun_free'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_free_raygun'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_raygun'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_raygun'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_raygun'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_raygun'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_r870'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_r870'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_r870'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_57'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_57'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_57'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_ump45'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_ump45'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_ump45'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_m37'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_m37'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_m37'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_tec9'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_tec9'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_tec9'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_mp9'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_mp9'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_mp9'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_ak47'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_ak47'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_ak47'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_fal'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_fal'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_fal'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_mp40'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_mp40'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_mp40'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_garand'" triggable="true">
+			<run_sequence name="'seq_decal_wide'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_garand'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_garand'"/>
+		</sequence>
+		<sequence editable_state="true" name="'wpn_nades'" triggable="true">
+			<run_sequence name="'seq_decal'"/>
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_nades'"/>
+			<material_config name="'units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_nades'"/>
+		</sequence>
+	</unit>
+</table>

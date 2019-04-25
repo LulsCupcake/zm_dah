@@ -1,0 +1,7 @@
+{
+	"heist_zm_instances_name":"ZM Debug",
+	"heist_zm_instances_brief":"A developer debug map.",
+	"hud_key_doubletap":"Doubletap Elevator Key",
+	"zm_key_doubletap":"Doubletap Elevator Key",
+	"zm_key_use_doubletap":"INTERACT"
+}

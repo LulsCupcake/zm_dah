@@ -1,0 +1,602 @@
+<table>
+	<editor_groups/>
+	<instances>
+		<table continent="world" folder="levels/instances/mods/zm_gameplay_controller/world" index_size="1000" name="zm_gameplay_controller_001" position="0 0 0" rotation="-0 0 -0 -1" script="default" start_index="0"/>
+	</instances>
+	<statics>
+		<table>
+			<unit_data _prev_pos="0 400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_c" name_id="zom_dah_floor_outer_c_001" position="0 400 0" rotation="0 0 0 -1" unit_id="100000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_c" name_id="zom_dah_floor_edge_c_002" position="400 400 0" rotation="0 0 0 -1" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 -400 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_c" name_id="zom_dah_floor_edge_c_003" position="800 400 0" rotation="0 0 0 -1" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_d" name_id="zom_dah_floor_outer_d_001" position="1600 800 0" rotation="0 0 0 -1" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_inner_d" name_id="zom_dah_floor_inner_d_001" position="800 1200 0" rotation="0 0 0 -1" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_4x4m" name_id="zom_dah_floor_parquet_4x4m_001" position="800 800 0" rotation="0 0 0 -1" unit_id="100005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_4x4m" name_id="zom_dah_floor_parquet_4x4m_002" position="400 800 0" rotation="0 0 0 -1" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_4x4m" name_id="zom_dah_floor_parquet_4x4m_003" position="400 1200 0" rotation="0 0 0 -1" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_d" name_id="zom_dah_floor_edge_d_001" position="0 800 0" rotation="0 0 0 -1" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_d" name_id="zom_dah_floor_edge_d_002" position="0 1200 0" rotation="0 0 0 -1" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_a" name_id="zom_dah_floor_outer_a_001" position="0 1600 0" rotation="0 0 0 -1" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_a" name_id="zom_dah_floor_edge_a_003" position="400 1600 0" rotation="0 0 0 -1" unit_id="100011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_b" name_id="zom_dah_floor_outer_b_002" position="800 1600 0" rotation="0 0 0 -1" unit_id="100012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_a" name_id="zom_dah_floor_edge_a_005" position="1200 1200 0" rotation="0 0 0 -1" unit_id="100013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 800 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_b" name_id="zom_dah_floor_edge_b_004" position="1600 800 400" rotation="0 0 0 -1" unit_id="100018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 800 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_b" name_id="zom_dah_floor_edge_b_005" position="1600 1200 400" rotation="0 0 0 -1" unit_id="100019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_b" name_id="zom_dah_floor_outer_b_004" position="1600 1600 400" rotation="0 0 0 -1" unit_id="100020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_a" name_id="zom_dah_floor_outer_a_003" position="1200 1600 400" rotation="0 0 0 -1" unit_id="100021"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_d" name_id="zom_dah_floor_outer_d_003" position="1600 400 400" rotation="0 0 0 -1" unit_id="100022"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1200 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_001" only_visible_in_editor="true" position="400 1200 800" rotation="1 0 0 -4.37114e-008" unit_id="100023">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1200 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 -800 -5.21321e-005" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_002" only_visible_in_editor="true" position="800 1200 800" rotation="1 0 0 -4.37114e-008" unit_id="100024">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1200 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_003" only_visible_in_editor="true" position="400 800 800" rotation="1 0 0 -4.37114e-008" unit_id="100025">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 -400 -2.6066e-005" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_004" only_visible_in_editor="true" position="800 800 800" rotation="1 0 0 -4.37114e-008" unit_id="100026">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 800 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_005" only_visible_in_editor="true" position="400 400 800" rotation="1 0 0 -4.37114e-008" unit_id="100027">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 400 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_006" only_visible_in_editor="true" position="800 400 800" rotation="1 0 0 -4.37114e-008" unit_id="100028">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 400 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_007" only_visible_in_editor="true" position="1200 400 800" rotation="1 0 0 -4.37114e-008" unit_id="100029">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 -400 -2.6066e-005" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_008" only_visible_in_editor="true" position="1200 800 800" rotation="1 0 0 -4.37114e-008" unit_id="100030">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1200 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 -800 -5.21321e-005" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_009" only_visible_in_editor="true" position="1200 1200 800" rotation="1 0 0 -4.37114e-008" unit_id="100031">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 400 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_010" only_visible_in_editor="true" position="1600 400 800" rotation="1 0 0 -4.37114e-008" unit_id="100032">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 800 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 -400 -2.6066e-005" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_011" only_visible_in_editor="true" position="1600 800 800" rotation="1 0 0 -4.37114e-008" unit_id="100033">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 -800 -5.21321e-005" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_012" only_visible_in_editor="true" position="1600 1200 800" rotation="1 0 0 -4.37114e-008" unit_id="100034">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_wide_4m" name_id="zom_dah_doorway_wide_4m_001" position="200 1600 0" rotation="0 0 0 -1" unit_id="100035"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_wide_4m" name_id="zom_dah_doorway_wide_4m_005" position="1600 1600 400" rotation="0 0 0 -1" unit_id="100039"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 1100 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 -1 -4.37114e-008" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_wide_4m" name_id="zom_dah_doorway_wide_4m_007" position="600 1600 0" rotation="0 0 1 4.37114e-008" unit_id="100044"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 800 400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_elevator_4m" name_id="zom_dah_doorway_elevator_4m_001" position="2000 1000 400" rotation="0 0 0.707107 -0.707107" unit_id="100037"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 400 400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_elevator_4m" name_id="zom_dah_doorway_elevator_4m_002" position="2000 400 400" rotation="0 0 0.707107 -0.707107" unit_id="100038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-25 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x8m" name_id="zom_dah_window_4x8m_001" position="-25 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100040"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-25 400 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x8m" name_id="zom_dah_window_4x8m_002" position="-25 400 0" rotation="0 0 -0.707107 -0.707107" unit_id="100041"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-25 800 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="800 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x8m" name_id="zom_dah_window_4x8m_004" position="-25 800 0" rotation="0 0 -0.707107 -0.707107" unit_id="100050"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 -25 0" _prev_rot="0 0 1 -0" continent="world" local_pos="800 0 -400" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x8m" name_id="zom_dah_window_4x8m_006" position="1200 -25 0" rotation="0 0 1 -0" unit_id="100052"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 -25 0" _prev_rot="0 0 1 -0" continent="world" local_pos="1200 0 -400" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x8m" name_id="zom_dah_window_4x8m_007" position="800 -25 0" rotation="0 0 1 -0" unit_id="100053"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 -25 0" _prev_rot="0 0 1 -0" continent="world" local_pos="1600 0 -400" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x8m" name_id="zom_dah_window_4x8m_008" position="400 -25 0" rotation="0 0 1 -0" unit_id="100054"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_001" position="800 1600 0" rotation="0 0 0 -1" unit_id="100055"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_2x4m" name_id="zom_dah_wall_2x4m_001" position="600 1600 0" rotation="0 0 0 -1" unit_id="100042"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_2x4m" name_id="zom_dah_wall_2x4m_002" position="0 1600 0" rotation="0 0 0 -1" unit_id="100043"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_003" position="2000 1600 400" rotation="0 0 0.707107 -0.707107" unit_id="100056"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 -25 400" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_005" position="2000 -25 400" rotation="0 0 1 -0" unit_id="100058"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 700 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_006" position="1600 400 0" rotation="0 0 0.707107 -0.707107" unit_id="100059"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 400 0" _prev_rot="0 0 1 -0" continent="world" local_pos="0 400 0" local_rot="0 0 -0.707107 0.707107" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_007" position="2000 400 0" rotation="0 0 1 0" unit_id="100060"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_d" name_id="zom_dah_floor_outer_d_002" position="1200 400 0" rotation="0 0 0 -1" unit_id="100015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_inner_c" name_id="zom_dah_floor_inner_c_001" position="1200 800 0" rotation="0 0 0 -1" unit_id="100016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_b" name_id="zom_dah_floor_outer_b_005" position="1600 1200 0" rotation="0 0 0 -1" unit_id="100014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 -25 0" _prev_rot="0 0 1 -0" continent="world" local_pos="400 0 -400" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x8m" name_id="zom_dah_window_4x8m_009" position="1600 -25 0" rotation="0 0 1 -0" unit_id="100017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1600 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 400 0" local_rot="0 0 -0.707107 0.707107" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_010" position="1200 1600 0" rotation="0 0 0.707107 -0.707107" unit_id="100064"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_011" position="1600 1200 0" rotation="0 0 0 -1" unit_id="100065"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_b" name_id="zom_dah_window_4x4m_b_001" position="800 1600 400" rotation="0 0 0 -1" unit_id="100051"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_b" name_id="zom_dah_window_4x4m_b_002" position="400 1600 400" rotation="0 0 0 -1" unit_id="100067"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_b" name_id="zom_dah_window_4x4m_b_003" position="0 1600 400" rotation="0 0 0 -1" unit_id="100068"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_a" name_id="zom_dah_window_4x4m_a_001" position="1200 1600 400" rotation="0 0 0 -1" unit_id="100069"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="675 1575 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="375 -8.92868e-005 -300" local_rot="0 0 0 1" name="units/payday2/architecture/lux/lux_int_stairs1_100x200x125m_a_bottom" name_id="lux_int_stairs1_100x200x125m_a_bottom_001" position="675 1525 0" rotation="0 0 1 4.37114e-008" unit_id="100070"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1575 100" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="250 -0.000100215 -200" local_rot="0 0 0 1" name="units/payday2/architecture/lux/lux_int_stairs1_100x200x125m_a" name_id="lux_int_stairs1_100x200x125m_a_001" position="800 1525 100" rotation="0 0 1 4.37114e-008" unit_id="100071"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1050 1575 300" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lux/lux_int_stairs1_100x200x125m_a_top" name_id="lux_int_stairs1_100x200x125m_a_top_002" position="1050 1525 300" rotation="0 0 1 4.37114e-008" unit_id="100073"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="925 1575 200" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="125 -0.000111142 -100" local_rot="0 0 8.74228e-008 1" name="units/payday2/architecture/lux/lux_int_stairs1_100x200x125m_a" name_id="lux_int_stairs1_100x200x125m_a_003" position="925 1525 200" rotation="0 0 1 -4.37114e-008" unit_id="100072"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_wide_4m" name_id="zom_dah_doorway_wide_4m_003" position="1200 1200 0" rotation="0 0 0 -1" unit_id="100062"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 400 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_corner_025x4m" name_id="zom_dah_wall_corner_025x4m_001" position="1600 400 0" rotation="0 0 0.707107 -0.707107" unit_id="100080"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_corner_025x4m" name_id="zom_dah_wall_corner_025x4m_002" position="1200 1200 0" rotation="0 0 0 -1" unit_id="100081"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_2x4m" name_id="zom_dah_wall_2x4m_003" position="200 1600 0" rotation="0 0 -1 4.37114e-008" unit_id="100082"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 1600 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_2x4m" name_id="zom_dah_wall_2x4m_004" position="800 1600 0" rotation="0 0 1 -4.37114e-008" unit_id="100083"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 1600 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="400 4.76837e-005 0" local_rot="0 0 1 -5.96046e-008" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_a" name_id="zom_dah_window_4x4m_a_002" position="0 1600 0" rotation="0 0 -0.707107 -0.707107" unit_id="100084"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 2000 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 1 -5.96046e-008" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_a" name_id="zom_dah_window_4x4m_a_003" position="0 2000 0" rotation="0 0 -0.707107 -0.707107" unit_id="100085"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 2400 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_009" position="800 2400 0" rotation="0 0 0.707107 -0.707107" unit_id="100086"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 2000 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_013" position="800 2000 0" rotation="0 0 0.707107 -0.707107" unit_id="100087"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 2400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_014" position="400 2400 0" rotation="0 0 0 -1" unit_id="100088"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 2800 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_015" position="0 2400 0" rotation="0 0 0 -1" unit_id="100089"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 2400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="1600 400 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_b" name_id="zom_dah_floor_outer_b_007" position="1600 2400 400" rotation="0 0 0 -1" unit_id="100092"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 2400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 400 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_a" name_id="zom_dah_floor_outer_a_006" position="0 2400 400" rotation="0 0 0 -1" unit_id="100093"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 2400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_a" name_id="zom_dah_floor_edge_a_001" position="400 2400 400" rotation="0 0 0 -1" unit_id="100094"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 2000 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_c" name_id="zom_dah_floor_edge_c_001" position="400 2000 400" rotation="0 0 0 -1" unit_id="100090"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 2400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_a" name_id="zom_dah_floor_edge_a_002" position="800 2400 400" rotation="0 0 0 -1" unit_id="100095"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 2000 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_c" name_id="zom_dah_floor_edge_c_004" position="800 2000 400" rotation="0 0 0 -1" unit_id="100096"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 2400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_a" name_id="zom_dah_floor_edge_a_004" position="1200 2400 400" rotation="0 0 0 -1" unit_id="100097"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 2000 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 -400 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_c" name_id="zom_dah_floor_edge_c_005" position="1200 2000 400" rotation="0 0 0 -1" unit_id="100098"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 2000 400" _prev_rot="0 0 0 -1" continent="world" local_pos="1600 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_d" name_id="zom_dah_floor_outer_d_004" position="1600 2000 400" rotation="0 0 0 -1" unit_id="100091"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 2000 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_c" name_id="zom_dah_floor_outer_c_003" position="0 2000 400" rotation="0 0 0 -1" unit_id="100099"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1600 400" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_a" name_id="zom_dah_window_4x4m_a_004" position="400 1600 400" rotation="0 0 1 4.37114e-008" unit_id="100103"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_wide_4m" name_id="zom_dah_doorway_wide_4m_006" position="2000 1600 400" rotation="0 0 -1 4.37114e-008" unit_id="100104"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1600 400" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_a" name_id="zom_dah_window_4x4m_a_005" position="800 1600 400" rotation="0 0 1 -4.37114e-008" unit_id="100100"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1600 400" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_a" name_id="zom_dah_window_4x4m_a_006" position="1200 1600 400" rotation="0 0 1 -4.37114e-008" unit_id="100101"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1600 400" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_a" name_id="zom_dah_window_4x4m_a_007" position="1600 1600 400" rotation="0 0 1 -4.37114e-008" unit_id="100102"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-25 1600 400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_a" name_id="zom_dah_window_4x4m_a_012" position="-25 1600 400" rotation="0 0 -0.707107 -0.707107" unit_id="100119"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-25 2000 400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="2000 0 400" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_window_4x4m_a" name_id="zom_dah_window_4x4m_a_013" position="-25 2000 400" rotation="0 0 -0.707107 -0.707107" unit_id="100120"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 800 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_elevator_4m" name_id="zom_dah_doorway_elevator_4m_003" position="2000 1000 0" rotation="0 0 0.707107 -0.707107" unit_id="100066"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1200 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_2x4m" name_id="zom_dah_wall_2x4m_005" position="2000 1200 0" rotation="0 0 0.707107 -0.707107" unit_id="100036"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1200 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_2x4m" name_id="zom_dah_wall_2x4m_006" position="2000 600 0" rotation="0 0 0.707107 -0.707107" unit_id="100121"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1200 400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_2x4m" name_id="zom_dah_wall_2x4m_007" position="2000 1200 400" rotation="0 0 0.707107 -0.707107" unit_id="100057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1200 400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_2x4m" name_id="zom_dah_wall_2x4m_008" position="2000 600 400" rotation="0 0 0.707107 -0.707107" unit_id="100122"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 2000 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_c" name_id="zom_dah_floor_outer_c_004" position="0 2000 0" rotation="0 0 0 -1" unit_id="100045"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 2400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 400 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_a" name_id="zom_dah_floor_outer_a_002" position="0 2400 0" rotation="0 0 0 -1" unit_id="100046"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 2000 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_d" name_id="zom_dah_floor_outer_d_005" position="400 2000 0" rotation="0 0 0 -1" unit_id="100047"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 2400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 400 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_b" name_id="zom_dah_floor_outer_b_001" position="400 2400 0" rotation="0 0 0 -1" unit_id="100048"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_d" name_id="zom_dah_floor_outer_d_006" position="1600 1600 0" rotation="0 0 0 -1" unit_id="100123"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 2000 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_c" name_id="zom_dah_floor_outer_c_005" position="1200 1600 0" rotation="0 0 0 -1" unit_id="100124"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 2400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 400 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_a" name_id="zom_dah_floor_outer_a_004" position="1200 2000 0" rotation="0 0 0 -1" unit_id="100125"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 2400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 400 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_b" name_id="zom_dah_floor_outer_b_003" position="1600 2000 0" rotation="0 0 0 -1" unit_id="100126"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_016" position="1200 1200 0" rotation="0 0 -0.707107 -0.707107" unit_id="100127"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_017" position="1200 1600 0" rotation="0 0 -0.707107 -0.707107" unit_id="100128"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 2000 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_018" position="1200 2000 0" rotation="0 0 -5.96046e-008 -1" unit_id="100129"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 2000 0" _prev_rot="0 0 -5.96046e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_019" position="1600 2000 0" rotation="0 0 -5.96046e-008 -1" unit_id="100130"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 2000 0" _prev_rot="0 0 -5.96046e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_020" position="2000 2000 0" rotation="0 0 0.707107 -0.707107" unit_id="100131"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1600 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_021" position="2000 1600 0" rotation="0 0 0.707107 -0.707107" unit_id="100132"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_022" position="2000 1200 0" rotation="0 0 -1 4.37114e-008" unit_id="100133"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_wide_4m" name_id="zom_dah_doorway_wide_4m_008" position="1600 1200 0" rotation="0 0 -1 4.37114e-008" unit_id="100134"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_roof/zom_dah_rooftop" name_id="zom_dah_rooftop_001" position="0 0 800" rotation="0 0 0 -1" unit_id="100135"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 700 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_door_metal/gen_prop_door_metal" name_id="gen_prop_door_metal_001" position="1600 700 800" rotation="0 0 -0.707107 -0.707107" unit_id="100105"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3100 -100 1450" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_building_logo_gg/dah_prop_building_logo_gg" name_id="dah_prop_building_logo_gg_001" position="3100 -100 1450" rotation="-0 0 -0 -1" unit_id="100106"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-25 1200 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_002" position="-25 1200 0" rotation="0 0 -0.707107 -0.707107" unit_id="100049"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-25 1600 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_wall_4x4m" name_id="zom_dah_wall_4x4m_004" position="-25 1600 800" rotation="0.707107 -0.707107 3.09086e-008 3.09086e-008" unit_id="100107"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1575 200 250" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_sign_garnet/dah_prop_garnet_sign_01" name_id="dah_prop_garnet_sign_01_002" position="1575 200 250" rotation="0 0 0.707107 -0.707107" unit_id="100108"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1500 100 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_sofa/off_prop_officehigh_couch_grey" name_id="off_prop_officehigh_couch_grey_001" position="1500 100 0" rotation="0 0 0.743145 -0.669131" unit_id="100109"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1500 300 0" _prev_rot="0 0 0.67559 -0.737277" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_sofa/off_prop_officehigh_couch_grey" name_id="off_prop_officehigh_couch_grey_002" position="1500 300 0" rotation="0 0 0.67559 -0.737277" unit_id="100110"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1025 1315 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_props_glass_screens/dah_props_glass_screen" name_id="dah_props_glass_screen_001" position="1025 1315 0" rotation="0 0 0.707107 -0.707107" unit_id="100111"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="765 1315 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="int_seq_destroy_glass_16" name="units/pd2_dlc_dah/props/dah_props_glass_screens/dah_props_glass_screen" name_id="dah_props_glass_screen_002" position="765 1315 0" rotation="0 0 0.707107 -0.707107" unit_id="100112"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1468.47 498.119 765.995" _prev_rot="-0.0061734 0.010707 0.25784 -0.966109" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_pines/vehicles/pna_vehicle_cessna_crashed/pna_vehicle_cessna_crashed_whole" name_id="pna_vehicle_cessna_crashed_whole_001" position="1468.47 498.119 765.995" rotation="-0.0061734 0.010707 0.25784 -0.966109" unit_id="100113"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1656.44 599.122 800" _prev_rot="0 0 0.688355 -0.725374" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/street/trash_pile/trash_pile_concrete_big" name_id="trash_pile_concrete_big_003" position="1656.44 599.122 800" rotation="0 0 0.688355 -0.725374" unit_id="100116"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1766.78 404.629 800" _prev_rot="0 0 0.688355 -0.725374" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/street/trash_pile/trash_pile_concrete_big" name_id="trash_pile_concrete_big_004" position="1766.78 404.629 800" rotation="0 0 0.688355 -0.725374" unit_id="100117"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1444.76 558.533 800" _prev_rot="0 0 0.275637 -0.961262" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/street/trash_pile/trash_pile_concrete_big" name_id="trash_pile_concrete_big_005" position="1444.76 558.533 800" rotation="0 0 0.275637 -0.961262" unit_id="100118"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="717.569 394.178 800" _prev_rot="-0 0 -0 -1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/street/trash_pile/trash_pile_metallic_big" name_id="trash_pile_metallic_big_001" position="717.569 394.178 800" rotation="-0 0 -0 -1" unit_id="100114"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1627.12 394.306 800" _prev_rot="0 0 0.731354 -0.681998" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/street/trash_pile/trash_pile_metallic_big" name_id="trash_pile_metallic_big_002" position="1627.12 394.306 800" rotation="0 0 0.731354 -0.681998" unit_id="100115"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1975 500 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="wpn_b682" name="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" name_id="decalJoco" position="1975 500 525" rotation="0 0 -0.707107 -0.707107" unit_id="100136"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2025 300 400" _prev_rot="0 0 1 -0" continent="world" local_pos="-0.00012207 1.06717e-011 0" local_rot="0 0 -4.37114e-008 1" name="units/payday2/architecture/hcm/hcm_int_elevator_cage_a" name_id="hcm_int_elevator_cage_a_001" position="2025 300 400" rotation="0 0 1 -0" unit_id="100137"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 300 400" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_int_elevator_cage_a" name_id="hcm_int_elevator_cage_a_002" position="2000 900 400" rotation="0 0 1 -0" unit_id="100138"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2078.73 198.105 400" _prev_rot="0 0 0.737277 -0.67559" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive" name_id="zm_perk_machine_quickrevive_001" position="2078.73 198.105 400" rotation="0 0 0.737277 -0.67559" unit_id="100139"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2025 300 400" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_door_open" name="units/payday2/architecture/hcm/hcm_int_wall_2m_b_wood_elevator" name_id="hcm_int_wall_2m_b_wood_elevator_001" position="2025 300 400" rotation="0 0 1 4.37114e-008" unit_id="100140"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2025 300 400" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_int_wall_2m_b_wood_elevator" name_id="hcm_int_wall_2m_b_wood_elevator_002" position="2025 900 400" rotation="0 0 1 -4.37114e-008" unit_id="100141"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="175 1100 800" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/hospital/props/rooftop/acvent/acvent05" name_id="acvent05_001" position="175 1100 800" rotation="-0 0 -0 -1" unit_id="100142"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1100 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/hospital/props/rooftop/acvent/acvent05" name_id="acvent05_002" position="800 1100 800" rotation="0 0 0 -1" unit_id="100143"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1475 1100 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/hospital/props/rooftop/acvent/acvent05" name_id="acvent05_003" position="1425 1100 800" rotation="0 0 0 -1" unit_id="100144"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1775 1195 1135" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/lcm_prop_rooftop/lcm_prop_rooftop_vent" name_id="lcm_prop_rooftop_vent_001" position="1775 1195 1135" rotation="-0 0 -0 -1" unit_id="100145"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1775 1195 1135" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/lcm_prop_rooftop/lcm_prop_rooftop_vent" name_id="lcm_prop_rooftop_vent_002" position="1975 1195 1135" rotation="0 0 0 -1" unit_id="100146"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="456.785 433.088 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_001" only_exists_in_editor="true" position="481.785 449.088 800" rotation="0 0 0 -1" unit_id="100147"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="581.785 349.088 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_002" only_exists_in_editor="true" position="581.785 349.088 800" rotation="0 0 0 -1" unit_id="100148"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="581.785 349.088 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_003" only_exists_in_editor="true" position="581.785 249.088 800" rotation="0 0 0 -1" unit_id="100149"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="481.785 349.088 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_004" only_exists_in_editor="true" position="481.785 349.088 800" rotation="0 0 0 -1" unit_id="100150"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="481.785 149.088 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_005" only_exists_in_editor="true" position="481.785 249.088 800" rotation="0 0 0 -1" unit_id="100151"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 925 1225" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="wpn_ray" name="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" name_id="decalRay" position="2000 925 1225" rotation="0 0 -0.707107 -0.707107" unit_id="100152"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 600 800" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_001" only_visible_in_editor="true" position="2000 600 800" rotation="0 0 1 0" unit_id="100061"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 600 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="400 0 0" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_002" only_visible_in_editor="true" position="1600 600 800" rotation="0 0 0.707107 -0.707107" unit_id="100063"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1633.14 385.934 800" _prev_rot="0 0 0.833886 -0.551937" continent="world" local_pos="366.862 214.066 0" local_rot="0 0 0.551937 0.833886" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_003" only_visible_in_editor="true" position="1633.14 385.934 800" rotation="0 0 0.833886 -0.551937" unit_id="100074"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1594.07 293.883 800" _prev_rot="0 0 0.833886 -0.551937" continent="world" local_pos="405.935 306.117 0" local_rot="0 0 0.551937 0.833886" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_004" only_visible_in_editor="true" position="1594.07 293.883 800" rotation="0 0 0.833886 -0.551937" unit_id="100075"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 600 1200" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_005" only_visible_in_editor="true" position="2000 600 1200" rotation="0 0 1 -0" unit_id="100076"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 600 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="400 0 0" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_006" only_visible_in_editor="true" position="1600 600 1200" rotation="0 0 0.707107 -0.707107" unit_id="100077"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1633.14 385.934 800" _prev_rot="0 0 0.833886 -0.551937" continent="world" local_pos="366.862 214.066 0" local_rot="0 0 0.551937 0.833886" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_007" only_visible_in_editor="true" position="1633.14 385.934 1200" rotation="0 0 0.833886 -0.551937" unit_id="100078"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1594.07 293.883 800" _prev_rot="0 0 0.833886 -0.551937" continent="world" local_pos="405.935 306.117 0" local_rot="0 0 0.551937 0.833886" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_008" only_visible_in_editor="true" position="1594.07 293.883 1200" rotation="0 0 0.833886 -0.551937" unit_id="100079"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 600 1600" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 400" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_009" only_visible_in_editor="true" position="2000 600 1600" rotation="0 0 1 0" unit_id="100153"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 600 1600" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="400 0 0" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_010" only_visible_in_editor="true" position="1600 600 1600" rotation="0 0 0.707107 -0.707107" unit_id="100154"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1633.14 385.934 1600" _prev_rot="0 0 0.833886 -0.551937" continent="world" local_pos="366.862 214.066 0" local_rot="0 0 0.551937 0.833886" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_011" only_visible_in_editor="true" position="1633.14 385.934 1600" rotation="0 0 0.833886 -0.551937" unit_id="100155"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1594.07 293.883 1600" _prev_rot="0 0 0.833886 -0.551937" continent="world" local_pos="405.935 306.117 0" local_rot="0 0 0.551937 0.833886" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_012" only_visible_in_editor="true" position="1594.07 293.883 1600" rotation="0 0 0.833886 -0.551937" unit_id="100156"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1200 1400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_013" only_visible_in_editor="true" position="2000 1200 1400" rotation="0 0 0.707107 -0.707107" unit_id="100157"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1200 1800" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-400 0 400" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_014" only_visible_in_editor="true" position="2000 1200 1800" rotation="0 0 0.707107 -0.707107" unit_id="100158"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 800 1400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_015" only_visible_in_editor="true" position="2000 800 1400" rotation="0 0 0.707107 -0.707107" unit_id="100159"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 800 1800" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 400" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_016" only_visible_in_editor="true" position="2000 800 1800" rotation="0 0 0.707107 -0.707107" unit_id="100160"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 1400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_017" only_visible_in_editor="true" position="1600 1200 1400" rotation="0 0 0 -1" unit_id="100161"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 1800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 400" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_018" only_visible_in_editor="true" position="1600 1200 1800" rotation="0 0 0 -1" unit_id="100162"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1200 1400" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_019" only_visible_in_editor="true" position="1200 1200 1400" rotation="0 0 0 -1" unit_id="100163"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1200 1800" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 400" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_020" only_visible_in_editor="true" position="1200 1200 1800" rotation="0 0 0 -1" unit_id="100164"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1200 1400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_021" only_visible_in_editor="true" position="800 1200 1400" rotation="0 0 0 -1" unit_id="100165"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1200 1800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 400" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_022" only_visible_in_editor="true" position="800 1200 1800" rotation="0 0 0 -1" unit_id="100166"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 1400" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_023" only_visible_in_editor="true" position="400 1200 1400" rotation="0 0 0 -1" unit_id="100167"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 1800" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 400" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_024" only_visible_in_editor="true" position="400 1200 1800" rotation="0 0 0 -1" unit_id="100168"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 1200 1400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_025" only_visible_in_editor="true" position="0 1200 1400" rotation="0 0 0 -1" unit_id="100169"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1200 1800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 400" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_026" only_visible_in_editor="true" position="0 1200 1800" rotation="0 0 0 -1" unit_id="100170"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1200 1400" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_027" only_visible_in_editor="true" position="-400 1200 1400" rotation="0 0 0 -1" unit_id="100171"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1200 1800" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 400" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_028" only_visible_in_editor="true" position="-400 1200 1800" rotation="0 0 0 -1" unit_id="100172"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3.49691e-005 800 800" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 -400 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_8x32m" name_id="dev_bag_collision_8x32m_001" only_visible_in_editor="true" position="-6.99382e-005 1200 800" rotation="0 0 -1 4.37114e-008" unit_id="100173"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3.49691e-005 800 800" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_8x32m" name_id="dev_bag_collision_8x32m_002" only_visible_in_editor="true" position="-3.49691e-005 800 800" rotation="0 0 1 -4.37114e-008" unit_id="100174"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="700 0 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_8x32m" name_id="dev_bag_collision_8x32m_003" only_visible_in_editor="true" position="800 0 800" rotation="0 0 0.707107 -0.707107" unit_id="100175"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3.49691e-005 0 800" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_8x32m" name_id="dev_bag_collision_8x32m_004" only_visible_in_editor="true" position="3.49691e-005 0 800" rotation="0 0 0.707107 -0.707107" unit_id="100176"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
