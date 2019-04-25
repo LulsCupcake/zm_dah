@@ -1,4 +1,13 @@
 <table directory="assets">
+	<add path="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door" type="unit">
+		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door_nm" unload="true"/>
+	</add>
 	<add path="units/pd2_mod_zombies/dev_tools/contour_blocker_4x4x4m/contour_blocker_4x4x4m" type="unit">
 		<material_config force="true" path="units/pd2_mod_zombies/dev_tools/contour_blocker_4x4x4m/contour_blocker_4x4x4m" unload="true"/>
 		<model force="true" path="units/pd2_mod_zombies/dev_tools/contour_blocker_4x4x4m/contour_blocker_4x4x4m" unload="true"/>
@@ -309,7 +318,8 @@
 		<object force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
 		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
-		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal_glow" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal_glow_blue" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal_glow_red" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_zombies/equipment/zom_power_ups/zom_max_ammo/zom_max_ammo" type="unit">
 		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_power_ups/zom_max_ammo/zom_max_ammo" unload="true"/>

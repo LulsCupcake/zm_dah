@@ -12,10 +12,14 @@
 		<sequence editable_state="false" name="'seq_decal_wide'" triggable="false">
 			<object enabled="false" name="'g_decal'"/>
 			<object enabled="true" name="'g_decal_wide'"/>
+			<object enabled="false" name="'g_glow'"/>
+			<object enabled="true" name="'g_glow_wide'"/>
 		</sequence>
 		<sequence editable_state="false" name="'seq_decal'" triggable="false">
 			<object enabled="true" name="'g_decal'"/>
 			<object enabled="false" name="'g_decal_wide'"/>
+			<object enabled="true" name="'g_glow'"/>
+			<object enabled="false" name="'g_glow_wide'"/>
 		</sequence>
 
 

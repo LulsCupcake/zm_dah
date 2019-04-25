@@ -15,6 +15,7 @@
 			<object name="g_decal" enabled="true" shadow_caster="false"/>
 			<object name="g_decal_wide" enabled="false" shadow_caster="false"/>
 			<object name="g_glow" enabled="true" shadow_caster="false"/>
+			<object name="g_glow_wide" enabled="false" shadow_caster="false"/>
 		</graphic_group>
 	</graphics>
 </dynamic_object>

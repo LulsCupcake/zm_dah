@@ -112,7 +112,7 @@
 		<table>
 			<unit_data _prev_pos="1200 400 800" _prev_rot="1 0 0 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_spot/light_spot" name_id="light_spot_007" only_visible_in_editor="true" position="1200 400 800" rotation="1 0 0 4.37114e-008" unit_id="100029">
 				<lights>
-					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="searchlight" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="900" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="50" spot_angle_end="75" spot_angle_start="43"/>
 				</lights>
 				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
 			</unit_data>
@@ -497,7 +497,7 @@
 			<unit_data _prev_pos="481.785 149.088 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_005" only_exists_in_editor="true" position="481.785 249.088 800" rotation="0 0 0 -1" unit_id="100151"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2000 925 1225" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="wpn_ray" name="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" name_id="decalRay" position="2000 925 1225" rotation="0 0 -0.707107 -0.707107" unit_id="100152"/>
+			<unit_data _prev_pos="2000 825 1225" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="wpn_ray" name="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" name_id="decalRay" position="2000 825 1225" rotation="0 0 -0.707107 -0.707107" unit_id="100152"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2000 600 800" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m_bag" name_id="dev_collision_4m_bag_001" only_visible_in_editor="true" position="2000 600 800" rotation="0 0 1 0" unit_id="100061"/>
@@ -615,6 +615,106 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="1432.9 173.237 785" _prev_rot="-0.12886 -0.695266 0.12886 -0.695266" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m_bag" name_id="dev_collision_1m_bag_005" only_visible_in_editor="true" position="1432.9 173.237 785" rotation="-0.194905 -0.679715 0.194905 -0.679715" unit_id="100183"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 800 125" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_on_ai_graph="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="wpn_mosin" name="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" name_id="zom_weapon_decal_001" position="0 800 125" rotation="0 0 0.707107 -0.707107" unit_id="100184"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1000 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_close_door" name="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door" name_id="zom_security_door_001" position="2000 1000 0" rotation="0 0 1 -4.37114e-008" unit_id="100185"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="900 1250 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_sofa/off_prop_officehigh_sofa_3seater_grey" name_id="off_prop_officehigh_sofa_3seater_grey_001" position="900 1250 0" rotation="-0 0 -0 -1" unit_id="100186"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1100 1250 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vegetation/com_veg_plant_green/com_veg_plant_green_potted" name_id="com_veg_plant_green_potted_001" position="1125 1275 0" rotation="0 0 0 -1" unit_id="100187"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="700 1275 0" _prev_rot="0 0 0.92388 -0.382683" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vegetation/com_veg_plant_green/com_veg_plant_green_potted" name_id="com_veg_plant_green_potted_002" position="700 1275 0" rotation="0 0 0.92388 -0.382683" unit_id="100188"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1886 0 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_shelf_modern/lxa_prop_livingroom_shelf_modern_double" name_id="lxa_prop_livingroom_shelf_modern_double_001" position="1886 0 400" rotation="-0 0 -0 -1" unit_id="100189"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1895 45 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="6.4833 -39.7865 -62" local_rot="0 0 0.902585 0.430511" mesh_variation="" name="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_wenge_drawers" name_id="off_prop_officehigh_desk_wenge_drawers_001" position="1895 45 400" rotation="-0 0 -0 -1" unit_id="100190"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1675 6 400" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_wenge_drawers" name_id="off_prop_officehigh_desk_wenge_drawers_002" position="1675 6 400" rotation="0 0 1 4.37114e-008" unit_id="100191"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1886 0 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_shelf_modern/lxa_prop_livingroom_shelf_modern_double_props" name_id="lxa_prop_livingroom_shelf_modern_double_props_001" position="1886 0 400" rotation="0 0 0 -1" unit_id="100192"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1955 20 460" _prev_rot="0 0 0.956305 0.292372" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_dah/props/dah_prop_desk_lamp/dah_prop_desk_lamp" name_id="dah_prop_desk_lamp_002" position="1955 20 460" rotation="0 0 0.956305 0.292372" unit_id="100193">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="4" far_range="100" multiplier="@ID3385027996510d31@" name="lo_omni" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1930 25 462" _prev_rot="0 0 0.902585 -0.430511" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show" name="units/pd2_mod_zombies/equipment/zom_perk_key/zm_perk_key_doubletap/zm_perk_key_doubletap" name_id="zm_perk_key_doubletap_001" position="1930 25 462" rotation="0 0 0.902585 -0.430511" unit_id="100194"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3600 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_a" name_id="zom_dah_floor_outer_a_005" position="-3600 1600 0" rotation="0 0 0 -1" unit_id="100195"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3200 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_b" name_id="zom_dah_floor_outer_b_006" position="-3200 1600 0" rotation="0 0 0 -1" unit_id="100196"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2800 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_c" name_id="zom_dah_floor_outer_c_002" position="-2800 1600 0" rotation="0 0 0 -1" unit_id="100197"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2400 1600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_outer_d" name_id="zom_dah_floor_outer_d_007" position="-2400 1600 0" rotation="0 0 0 -1" unit_id="100198"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3600 1100 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 -500 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_inner_a" name_id="zom_dah_floor_inner_a_001" position="-3600 1100 0" rotation="0 0 0 -1" unit_id="100199"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3200 1100 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_inner_b" name_id="zom_dah_floor_inner_b_001" position="-3200 1100 0" rotation="0 0 0 -1" unit_id="100200"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2800 1100 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 -500 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_inner_c" name_id="zom_dah_floor_inner_c_002" position="-2800 1100 0" rotation="0 0 0 -1" unit_id="100201"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2400 1100 0" _prev_rot="0 0 0 -1" continent="world" local_pos="400 -500 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_inner_d" name_id="zom_dah_floor_inner_d_002" position="-2400 1100 0" rotation="0 0 0 -1" unit_id="100202"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3600 600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 -1000 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_a" name_id="zom_dah_floor_edge_a_006" position="-3600 600 0" rotation="0 0 0 -1" unit_id="100203"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3200 600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 -1000 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_b" name_id="zom_dah_floor_edge_b_001" position="-3200 600 0" rotation="0 0 0 -1" unit_id="100204"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2800 600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_b" name_id="zom_dah_floor_edge_b_002" position="-2800 600 0" rotation="0 0 0 -1" unit_id="100205"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2400 600 0" _prev_rot="0 0 0 -1" continent="world" local_pos="400 -1000 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_edge_d" name_id="zom_dah_floor_edge_d_003" position="-2400 600 0" rotation="0 0 0 -1" unit_id="100206"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3600 100 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 -1500 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_4x4m" name_id="zom_dah_floor_parquet_4x4m_004" position="-3600 100 0" rotation="0 0 0 -1" unit_id="100207"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/backdrops/scrapers/night/backdrop_diamond_heist" name_id="backdrop_diamond_heist_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100208"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-800 -5600 4400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="swat" name="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref" name_id="helicopter_cops_ref_001" position="-800 -5600 4400" rotation="0 0 0 -1" unit_id="100209">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.580392" enabled="false" falloff_exponent="4" far_range="150" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1704.24 -15276.3 9200" _prev_rot="0 0 0.173648 -0.984808" continent="world" local_pos="-904.24 -12076.3 4800" local_rot="0 0 -0.173648 0.984808" mesh_variation="swat" name="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref" name_id="helicopter_cops_ref_002" position="-1704.24 -17676.3 9200" rotation="0 0 0.173648 -0.984808" unit_id="100210">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.580392" enabled="false" falloff_exponent="4" far_range="150" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="4400 -12000 6800" _prev_rot="0 0 0.0348989 -0.999391" continent="world" local_pos="5200 -8800 2400" local_rot="0 0 -0.0348989 0.999391" mesh_variation="swat" name="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref" name_id="helicopter_cops_ref_003" position="4400 -14400 6800" rotation="0 0 0.0348989 -0.999391" unit_id="100211">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.580392" enabled="false" falloff_exponent="4" far_range="150" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
 		</table>
 	</statics>
 	<values>
