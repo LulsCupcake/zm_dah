@@ -1396,6 +1396,7 @@
 		<unit force="true" path="units/test/jocke/oneplanetorulethemall" unload="true"/>
 	</add>
 	<add path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" type="unit">
+<<<<<<< HEAD
 		<material_config force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
 		<object force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
 		<unit force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
@@ -1414,6 +1415,11 @@
 		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprints_05" unload="true"/>
 		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprints_05" unload="true"/>
 		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01" unload="true"/>
+=======
+		<unit force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
+		<object force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
+		<material_config force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
+>>>>>>> b53b1b4a76db53c037ef58e6fd3227fba2168c89
 	</add>
 	<movie path="movies/ascension"/>
 	<sequence_manager path="units/sora/shoot_at_trigger/shoot_at_shared"/>
