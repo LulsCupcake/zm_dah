@@ -173,6 +173,7 @@
 			<value_node value="levels/instances/unique/hox_estate_escape_heli/world/world"/>
 			<value_node value="levels/narratives/classics/dah/props/props"/>
 			<value_node value="levels/narratives/vlad/pines/world/world"/>
+			<value_node value="levels/narratives/locke/tag/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

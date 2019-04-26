@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/world/props/alaska/axe/axe_fire" orientation_object="rp_axe_fire" />
+  <bodies>
+    <body name="static_body" enabled="true" template="static">
+      <object name="rp_axe_fire" />
+      <object name="c_axe_fire" collision_type="box" />
+    </body>
+  </bodies>
+  
+  <decal_surfaces default_material="wood" static="true">
+    <decal_mesh name="g_axe_fire" enabled="true" material="wood" />
+  </decal_surfaces>
+  
+  <graphics>
+    <object name="g_axe_fire" enabled="true" />
+  </graphics>
+</dynamic_object>

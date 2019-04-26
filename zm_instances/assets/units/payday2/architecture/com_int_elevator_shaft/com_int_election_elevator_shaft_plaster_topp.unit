@@ -1,0 +1,6 @@
+<unit type="gen" slot="1" >
+    <object file="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_shaft_plaster_topp" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>
