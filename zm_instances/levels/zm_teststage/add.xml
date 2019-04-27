@@ -1396,30 +1396,15 @@
 		<unit force="true" path="units/test/jocke/oneplanetorulethemall" unload="true"/>
 	</add>
 	<add path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" type="unit">
-<<<<<<< HEAD
 		<material_config force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
 		<object force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
 		<unit force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
 	</add>
-	<add path="units/world/props/alaska/axe/axe_fire" type="unit">
-		<material_config force="true" path="units/world/props/alaska/axe/axe_fire" unload="true"/>
-		<object force="true" path="units/world/props/alaska/axe/axe_fire" unload="true"/>
-		<unit force="true" path="units/world/props/alaska/axe/axe_fire" unload="true"/>
-	</add>
-	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_smear_02" type="unit">
-		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01" unload="true"/>
-		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_smear_02" unload="true"/>
-		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_smear_02" unload="true"/>
-	</add>
-	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprints_05" type="unit">
-		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprints_05" unload="true"/>
-		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprints_05" unload="true"/>
-		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01" unload="true"/>
-=======
-		<unit force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
-		<object force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
-		<material_config force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
->>>>>>> b53b1b4a76db53c037ef58e6fd3227fba2168c89
+	<add path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" type="unit">
+		<unit force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
+		<object force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
+		<material_config force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
 	</add>
 	<movie path="movies/ascension"/>
 	<sequence_manager path="units/sora/shoot_at_trigger/shoot_at_shared"/>
