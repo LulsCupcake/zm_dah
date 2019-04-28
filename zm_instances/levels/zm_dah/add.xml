@@ -124,6 +124,13 @@
 		<object force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_4x4m" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_4x4m" unload="true"/>
 	</add>
+	<add path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_hole" type="unit">
+		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/zom_dah" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_hole" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_hole" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_hole" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_hole" unload="true"/>
+	</add>
 	<add path="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_wide_4m" type="unit">
 		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/zom_dah" unload="true"/>
 		<model force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_wide_4m" unload="true"/>

@@ -352,7 +352,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		action_text_id = "zm_buy_weapon",
 		start_active = false,
 		axis = "y",
-		timer = 4
+		timer = 0.5
 	}
 
 	self.zm_activate_song_invisible = {

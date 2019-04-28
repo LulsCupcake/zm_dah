@@ -1,31 +1,64 @@
 <table>
 	<unit>
+		<!--VARIABLES-->
+		<variables>
+			<var_level value="0"/>
+		</variables>
+		
+		<!--FILTERS-->
+		<filter name="'filter_level_classics'">
+			<check value="vars.var_level == 0"/>
+		</filter>
+		<filter name="'filter_level_dah'">
+			<check value="vars.var_level == 1"/>
+		</filter>
+		
+		
+		<!--INTERACTION & VISIBILITY-->
 		<sequence editable_state="true" name="'show'" triggable="true">
 			<graphic_group name="'decal'" visibility="true"/>
-			<interaction enabled="true"/>
 		</sequence>
 		<sequence editable_state="true" name="'hide'" triggable="true">
 			<graphic_group name="'decal'" visibility="false"/>
+		</sequence>
+		
+		<sequence editable_state="true" name="'disable_interaction'" triggable="true">
+			<interaction enabled="true"/>
+		</sequence>
+		<sequence editable_state="true" name="'enable_interaction'" triggable="true">
 			<interaction enabled="false"/>
 		</sequence>
 		
 		<sequence editable_state="false" name="'seq_decal_wide'" triggable="false">
-			<object enabled="false" name="'g_decal'"/>
-			<object enabled="true" name="'g_decal_wide'"/>
-			<object enabled="false" name="'g_glow'"/>
-			<object enabled="true" name="'g_glow_wide'"/>
+			<object enabled="false"	name="'g_decal'"/>
+			<object enabled="true"	name="'g_decal_wide'"/>
+			<object enabled="false"	name="'g_glow'"/>
+			<object enabled="true"	name="'g_glow_wide'"/>
 		</sequence>
 		<sequence editable_state="false" name="'seq_decal'" triggable="false">
-			<object enabled="true" name="'g_decal'"/>
-			<object enabled="false" name="'g_decal_wide'"/>
-			<object enabled="true" name="'g_glow'"/>
-			<object enabled="false" name="'g_glow_wide'"/>
+			<object enabled="true"	name="'g_decal'"/>
+			<object enabled="false"	name="'g_decal_wide'"/>
+			<object enabled="true"	name="'g_glow'"/>
+			<object enabled="false"	name="'g_glow_wide'"/>
 		</sequence>
-
 
 		<sequence editable_state="true" name="'interact'" triggable="true"/>
 
+		<!--SET LEVEL-->
+		<sequence editable_state="true" name="'set_level_classics'" triggable="true">
+			<set_variables var_level="0"/>
+		</sequence>
+		<sequence editable_state="true" name="'set_level_dah'" triggable="true">
+			<set_variables var_level="1"/>
+		</sequence>
 
+		<!--RANDOM WEAPON-->
+		<sequence editable_state="true" name="'wpn_random'" triggable="true">
+			<run_sequence filter="'filter_level_classics'"	name=" 'wpn_'..pick('mosin','mp40','garand')"/>
+			<run_sequence filter="'filter_level_dah'"		name=" 'wpn_'..pick('raygun','ray','b682','mosin','m14','r870','57','ump45','m37','tec9','mp9','ak47','fal','mp40','garand')"/>
+		</sequence>
+		
+		<!--PICKING WEAPON-->
 		<sequence editable_state="true" name="'wpn_ray'" triggable="true">
 			<run_sequence name="'seq_decal_wide'"/>
 			<function extension="'interaction'" function="'set_tweak_data'" param1="'zm_wall_buy_ray'"/>
