@@ -3,6 +3,25 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 	self.pick_lock_hard_no_skill.timer = 7
 	
 
+	self.zm_call_elevator = {
+		zm_interaction = true,
+		zm_elevator = true,
+		points_cost = 250,
+		start_active = false,
+		interact_distance = 125,
+		timer = 0.5
+	}
+	
+	
+	self.zm_unlock_elevator = {
+		zm_interaction = true,
+		zm_elevator = true,
+		points_cost = 750,
+		start_active = false,
+		interact_distance = 125,
+		timer = 0.5
+	}
+	
 	self.zm_free_points_25 = {
 		zm_interaction = true,
 		points_cost = -25,

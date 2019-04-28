@@ -10,7 +10,7 @@
     </object3d>
     <object3d name="a_box_003" mode="add">
         <parent name="rp_root" />
-		<position x="90" y="0" z="280" />
+		<position x="75" y="0" z="280" />
 		<rotation w="1" x="0" y="0" z="0" />
     </object3d>
 	

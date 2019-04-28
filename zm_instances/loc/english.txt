@@ -1,6 +1,10 @@
 {
-	"heist_zm_instances_name":"ZM Debug",
-	"heist_zm_instances_brief":"A developer debug map.",
+	"heist_zm_instances_name":"[CONFIDENTIAL]",
+	"heist_zm_instances_brief":"[CONFIDENTIAL]",
+	"heist_zm_dah_name":"[CONFIDENTIAL]",
+	"heist_zm_dah_brief":"[CONFIDENTIAL]",
+	"heist_zm_dah_elevator_name":"[CONFIDENTIAL]",
+	"heist_zm_dah_elevator_brief":"[CONFIDENTIAL]",
 	"hud_key_doubletap":"Doubletap Elevator Key",
 	"zm_key_doubletap":"Doubletap Elevator Key",
 	"zm_key_use_doubletap":"INTERACT"

@@ -1,0 +1,49 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="-5 0 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="doors_open" name="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" name_id="tag_int_elevator_001" position="-5 0 0" rotation="-0 0 -0 -1" unit_id="100000">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.921569 0.67451 0.737255" enabled="true" falloff_exponent="4" far_range="300" multiplier="@ID8badd0cc6ca7cc05@" name="ls_light" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5 0 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="true" local_pos="95 0 0" local_rot="0 0 0 1" mesh_variation="doors_open" name="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" name_id="tag_int_elevator_doors_001" position="-5 0 0" rotation="0 0 0 -1" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-342 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-342 0 0" local_rot="0 0 0.707107 0.707107" mesh_variation="disable_interaction" name="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap" name_id="zm_perk_machine_doubletap_001" position="-342 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-325 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-325 0 0" local_rot="0 0 0.707107 0.707107" mesh_variation="disable_interaction" name="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog" name_id="zm_perk_machine_juggernog_001" position="-325 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-330 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-330 0 0" local_rot="0 0 0.707107 0.707107" mesh_variation="disable_interaction" name="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive" name_id="zm_perk_machine_quickrevive_001" position="-330 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-335 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-335 0 0" local_rot="0 0 0.707107 0.707107" mesh_variation="disable_interaction" name="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola" name_id="zm_perk_machine_speedcola_001" position="-335 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -200 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_elevator_4m" name_id="zom_dah_doorway_elevator_4m_001" position="0 -200 0" rotation="0 0 -0.707107 -0.707107" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 301.5" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="black_on_light_orange" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_001" position="0 0 301.5" rotation="0 0 -0.707107 -0.707107" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10 200 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision/dev_collision_4x3m" name_id="doorwayCollision" only_visible_in_editor="true" position="10 200 0" rotation="0 0 1 -4.37114e-008" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 -100 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m" name_id="dev_nav_splitter_1x3m_001" only_exists_in_editor="true" position="0 -100 0" rotation="0 0 0 -1" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -100 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m" name_id="dev_nav_splitter_1x3m_002" only_exists_in_editor="true" position="0 0 0" rotation="0 0 0 -1" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -200 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="hide" name="units/pd2_mod_zombies/dev_tools/contour_blocker_4x4x4m/contour_blocker_4x4x4m" name_id="contour_blocker" position="0 -200 0" rotation="0 0 -0.707107 -0.707107" unit_id="100011"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

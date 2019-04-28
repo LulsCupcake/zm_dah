@@ -19,21 +19,26 @@
             <object name="c_box_013" collision_type="box" padding="-2.5" />
             <object name="c_box_014" collision_type="box" padding="-2.5" />
             <object name="c_box_015" collision_type="box" padding="-2.5" />
+            <object name="c_box_016" collision_type="box" padding="-2.5" />
+            <object name="c_box_017" collision_type="box" padding="-2.5" />
+            <object name="c_box_018" collision_type="box" padding="-2.5" />
+            <object name="c_box_019" collision_type="box" padding="-2.5" />
+            <object name="c_box_020" collision_type="box" padding="-2.5" />
+            <object name="c_box_021" collision_type="box" padding="-2.5" />
+            <object name="c_box_022" collision_type="box" padding="-2.5" />
         </body>
     </bodies>
 	<decal_surfaces default_material="plaster">
-		<decal_mesh name="g_roof" enabled="true" material="plaster" />
 		<decal_mesh name="g_ceiling" enabled="true" material="sheet_metal" />
 		<decal_mesh name="g_trim" enabled="true" material="sheet_metal" />
-		<decal_mesh name="g_roof" enabled="true" material="sheet_metal" />
-		<decal_mesh name="g_ext" enabled="true" material="sheet_metal" />
+		<decal_mesh name="g_roof" enabled="true" material="concrete" />
+		<decal_mesh name="g_ext" enabled="true" material="concrete" />
 	</decal_surfaces>
 	<graphics>
 		<graphic_group name="graphics" culling_object="co_culling" enabled="true">
 			<object name="g_roof" enabled="true" shadow_caster="true"/>
 			<object name="g_ceiling" enabled="true" shadow_caster="true"/>
 			<object name="g_trim" enabled="true" shadow_caster="true"/>
-			<object name="g_roof" enabled="true" shadow_caster="true"/>
 			<object name="g_ext" enabled="true" shadow_caster="true"/>
 		</graphic_group>
 	</graphics>

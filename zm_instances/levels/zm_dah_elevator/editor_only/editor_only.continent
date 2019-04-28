@@ -1,0 +1,17 @@
+<table>
+	<editor_groups/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="0 -200 0" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_001" position="0 -200 0" rotation="-0 0 -0 -1" unit_id="200000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 0" _prev_rot="-0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_001" position="800 800 0" rotation="-0 0 -0 -1" unit_id="200001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1900 0" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_002" position="800 1900 0" rotation="0 0 0 -1" unit_id="200002"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

@@ -5,6 +5,24 @@
 		<object force="true" path="units/pd2_mod_zombies/architecture/zom_bonus_rooms/zom_room_barn" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_bonus_rooms/zom_room_barn" unload="true"/>
 	</add>
+	<add path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_corner_4m" type="unit">
+		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/zom_dah" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_corner_4m" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_corner_4m" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_corner_4m" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_edge_4m" type="unit">
+		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/zom_dah" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_edge_4m" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_edge_4m" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_edge_4m" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_4m" type="unit">
+		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/zom_dah" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_4m" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_4m" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/ceiling/zom_dah_ceiling_4m" unload="true"/>
+	</add>
 	<add path="units/pd2_mod_zombies/architecture/zom_dah_vault/zom_dah_vault" type="unit">
 		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_dah_vault/zom_dah_vault" unload="true"/>
 		<model force="true" path="units/pd2_mod_zombies/architecture/zom_dah_vault/zom_dah_vault" unload="true"/>
@@ -1399,15 +1417,57 @@
 		<material_config force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
 		<object force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
 		<unit force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
-		<unit force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
-		<object force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
-		<material_config force="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" unload="true"/>
 	</add>
 	<add path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" type="unit">
-		<unit force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
-		<object force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
 		<material_config force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
+		<object force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
 		<sequence_manager force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_1" type="unit">
+		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_1" unload="true"/>
+		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_1" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_1" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_2" type="unit">
+		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_2" unload="true"/>
+		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_2" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_2" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_4" type="unit">
+		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_4" unload="true"/>
+		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_4" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_4" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_02" type="unit">
+		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01" unload="true"/>
+		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_02" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_02" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_06" type="unit">
+		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01" unload="true"/>
+		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_06" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_06" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_08" type="unit">
+		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01" unload="true"/>
+		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_08" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_08" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_01" type="unit">
+		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01" unload="true"/>
+		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_01" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_01" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_05" type="unit">
+		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01" unload="true"/>
+		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_05" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_05" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_11" type="unit">
+		<material_config force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01" unload="true"/>
+		<object force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_11" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_11" unload="true"/>
 	</add>
 	<movie path="movies/ascension"/>
 	<sequence_manager path="units/sora/shoot_at_trigger/shoot_at_shared"/>

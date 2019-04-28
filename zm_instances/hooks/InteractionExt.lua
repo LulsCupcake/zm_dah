@@ -139,6 +139,24 @@ function BaseInteractionExt:selected(player, locator, hand_id)
 			end
 		end
 
+		--Is a ZM Elevator Interaction?
+		if self._tweak_data.zm_elevator then
+			text = "Hold " .. managers.localization:btn_macro("interact") .. " to call "
+			local path_type = "the elevator"
+			
+			if self._tweak_data.custom_path then
+				path_type = self._tweak_data.custom_path
+			end
+
+			if current_money >= cost then
+				text = text .. path_type
+				text = text .. " [Cost : " .. cost .. "]"
+			else
+				local points_needed = cost - current_money
+				text = "You need " .. points_needed .. " more points to call " .. path_type
+			end
+		end
+
 		--Is a ZM Trap Interaction?
 		if self._tweak_data.zm_trap then
 			text = "Hold " .. managers.localization:btn_macro("interact") .. " to activate "

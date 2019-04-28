@@ -11,12 +11,12 @@
         </body>
     </bodies>
 	<decal_surfaces default_material="plaster">
-		<decal_mesh name="g_main" enabled="true" material="plaster" />
+		<decal_mesh name="g_wall" enabled="true" material="plaster" />
 		<decal_mesh name="g_trim" enabled="true" material="sheet_metal" />
 	</decal_surfaces>
 	<graphics>
 		<graphic_group name="graphics" culling_object="co_culling" enabled="true">
-			<object name="g_main" enabled="true" shadow_caster="true"/>
+			<object name="g_wall" enabled="true" shadow_caster="true"/>
 			<object name="g_trim" enabled="true" shadow_caster="true"/>
 		</graphic_group>
 	</graphics>

@@ -1,0 +1,24 @@
+<generic_scriptdata type="table">
+	<entry key="ambience_enabled" type="boolean" value="true"/>
+	<entry key="default_ambience" type="string" value="ambience_ext_downtown_windy_day"/>
+	<entry key="default_environment" type="string" value="acoustics_wilderness_forest"/>
+	<entry key="default_occasional" type="string" value="occasionals_halloween_2016"/>
+	<entry key="sound_area_emitters" type="table">
+	</entry>
+	<entry key="sound_emitters" type="table">
+		<entry index="1" type="table">
+			<entry key="emitter_event" type="string" value=""/>
+			<entry key="name" type="string" value="snd_rumble"/>
+			<entry key="position" type="vector3" value="839.124 80.9163 -300"/>
+			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+		</entry>
+		<entry index="2" type="table">
+			<entry key="emitter_event" type="string" value=""/>
+			<entry key="name" type="string" value=""/>
+			<entry key="position" type="vector3" value="0 0 0"/>
+			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+		</entry>
+	</entry>
+	<entry key="sound_environments" type="table">
+	</entry>
+</generic_scriptdata>

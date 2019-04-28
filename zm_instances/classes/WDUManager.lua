@@ -355,7 +355,7 @@ function WDUManager:_on_wdu_map()
         return false
     end
     
-    if managers.job:current_level_id() == "zm_teststage" then
+    if managers.job:current_level_id() == "zm_dah" then
         return true
     end
 

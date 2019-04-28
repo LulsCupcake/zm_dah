@@ -1,0 +1,1139 @@
+<table>
+	<editor_groups/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="6674.44 -41391.1 7779.14" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/backdrops/scrapers/night/backdrop_diamond_heist" name_id="backdrop_diamond_heist_002" position="6674.44 -38591.1 7779.14" rotation="0 0 0.707107 -0.707107" unit_id="300000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2775.6 10708.9 -10420.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-52100 -9450.04 -18200" local_rot="0 0 0.707107 0.707107" name="core/units/light_omni/light_omni" name_id="light_omni_006" only_visible_in_editor="true" position="-2775.6 13508.9 -10420.9" rotation="0 0 0 -1" unit_id="300001">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.466667 0.843137 0.788235" enabled="true" falloff_exponent="1" far_range="1500" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="100" spot_angle_end="-1" spot_angle_start="-1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5375.6 11008.9 -11120.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-52400 -12050 -18900" local_rot="0 0 0.707107 0.707107" name="core/units/light_omni/light_omni" name_id="light_omni_007" only_visible_in_editor="true" position="-5375.6 13808.9 -11120.9" rotation="0 0 0 -1" unit_id="300002">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.807843 0.611765 0.317647" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="100" spot_angle_end="-1" spot_angle_start="-1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5375.6 10308.9 -11120.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-51700 -12050 -18900" local_rot="0 0 0.707107 0.707107" name="core/units/light_omni/light_omni" name_id="light_omni_008" only_visible_in_editor="true" position="-5375.6 13108.9 -11120.9" rotation="0 0 0 -1" unit_id="300003">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.807843 0.611765 0.317647" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="100" spot_angle_end="-1" spot_angle_start="-1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-16878.2 -12011.1 -7905.4" _prev_rot="-0.21644 5.96046e-008 0.976296 -8.9407e-008" continent="bdrop" local_pos="-29380 -23552.6 -15684.5" local_rot="0.153046 0.153046 -0.690345 0.690346" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_green" name_id="dah_prop_bkdrp_light_decal_v3_green_001" position="-16878.2 -9211.1 -7905.4" rotation="-0.21644 5.96046e-008 0.976296 -8.9407e-008" unit_id="300004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-23787.6 8168.9 -3597.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-49560 -30462 -11377" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_001" position="-23787.6 10968.9 -3597.9" rotation="0 0 0 -1" unit_id="300005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-18987.6 8168.9 -3597.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-49560 -25662 -11377" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_002" position="-18987.6 10968.9 -3597.9" rotation="0 0 0 -1" unit_id="300006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-27175.6 -29291.1 -27320.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-12100 -33850 -35100" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_06" name_id="dah_ext_bdrop_strip_03_building_06_001" position="-27175.6 -26491.1 -27320.9" rotation="0 0 0.707107 -0.707107" unit_id="300007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32323.6 33389.9 2458.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-74781 -38998 -5321" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_003" position="-32323.6 36189.9 2458.14" rotation="0 0 0 -1" unit_id="300008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-29475.6 -9691.2 -25720.9" _prev_rot="0 0 1 -9.23872e-007" continent="bdrop" local_pos="-31699.9 -36150 -33500" local_rot="0 0 -0.707106 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_03" name_id="dah_ext_bdrop_strip_02_building_03_001" position="-29475.6 -6891.2 -25720.9" rotation="0 0 1 -9.23872e-007" unit_id="300009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-20175.6 -50791.1 -27720.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="9399.95 -26850 -35500" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_09" name_id="dah_ext_bdrop_strip_04_building_09_001" position="-20175.6 -47991.1 -27720.9" rotation="0 0 1 8.9407e-008" unit_id="300010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-19475.6 -30891.1 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-10500 -26150 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_10" name_id="dah_ext_bdrop_strip_02_building_10_001" position="-19475.6 -28091.1 -27720.9" rotation="0 0 0 -1" unit_id="300011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12375.6 -66991.1 -21120.9" _prev_rot="0 0 1 -6.55651e-007" continent="bdrop" local_pos="25600 -19050 -28900" local_rot="0 0 -0.707106 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_06" name_id="dah_ext_bdrop_strip_02_building_06_001" position="-12375.6 -64191.1 -21120.9" rotation="0 0 1 -6.55651e-007" unit_id="300012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-30987.6 31968.9 -3597.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-73360 -37662 -11377" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_004" position="-30987.6 34768.9 -3597.9" rotation="0 0 0 -1" unit_id="300013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-19575.6 -19691.1 -27720.9" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-21700 -26250 -35500" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_06" name_id="dah_ext_bdrop_strip_02_building_06_002" position="-19575.6 -16891.1 -27720.9" rotation="0 0 1 -8.9407e-008" unit_id="300014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-16975.6 -24391.1 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-17000 -23650 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_09" name_id="dah_ext_bdrop_strip_01_building_09_001" position="-16975.6 -21591.1 -27720.9" rotation="0 0 0 -1" unit_id="300015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32275.6 2908.9 -27320.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-44300 -38950 -35100" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_02" name_id="dah_ext_bdrop_strip_06_building_02_001" position="-32275.6 5708.9 -27320.9" rotation="0 0 0.707107 -0.707107" unit_id="300016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-26336.6 38759.9 2546.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-80151 -33011 -5233" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_005" position="-26336.6 41559.9 2546.14" rotation="0 0 0 -1" unit_id="300017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-11375.6 -60691.1 -26420.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="19300 -18050 -34200" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_04" name_id="dah_ext_bdrop_strip_02_building_04_001" position="-11375.6 -57891.1 -26420.9" rotation="0 0 -0.707107 -0.707107" unit_id="300018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-17575.6 -13391.1 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-28000 -24250 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_06" name_id="dah_ext_bdrop_strip_03_building_06_002" position="-17575.6 -10591.1 -27720.9" rotation="0 0 0 -1" unit_id="300019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5940.7 17826.7 -2857.2" _prev_rot="0 0 0.0958458 -0.995396" continent="bdrop" local_pos="-59217.8 -12615.1 -10636.3" local_rot="0 0 0.636078 0.771625" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_006" position="-5940.7 20626.7 -2857.2" rotation="0 0 0.0958458 -0.995396" unit_id="300020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-20075.6 -3891.1 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-37500 -26750 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_01" name_id="dah_ext_bdrop_strip_06_building_01_001" position="-20075.6 -1091.1 -27720.9" rotation="0 0 0 -1" unit_id="300021"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5839.6 27499.9 4324.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-68891 -12514 -3455" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_007" position="-5839.6 30299.9 4324.14" rotation="0 0 0 -1" unit_id="300022"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-24775.6 4308.9 -27020.9" _prev_rot="0 0 0.707106 -0.707107" continent="bdrop" local_pos="-45700 -31450 -34800" local_rot="0 0 7.7486e-007 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_17" name_id="dah_ext_bdrop_strip_01_building_17_001" position="-24775.6 7108.9 -27020.9" rotation="0 0 0.707106 -0.707107" unit_id="300023"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2090.56 17871.9 -2857.2" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-59263 -8765 -10636.3" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_008" position="-2090.56 20671.9 -2857.2" rotation="0 0 0 -1" unit_id="300024"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-26087.6 38568.9 -3597.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-79960 -32762 -11377" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_009" position="-26087.6 41368.9 -3597.9" rotation="0 0 0 -1" unit_id="300025"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5375.6 -28991.1 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-12400 -12050 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_01" name_id="dah_ext_bdrop_strip_04_building_01_001" position="-5375.6 -26191.1 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300026"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1875.56 20908.9 -2520.9" _prev_rot="1.21819e-035 0 -0.707107 -0.707106" continent="bdrop" local_pos="-62300 -8550 -10300" local_rot="-8.61391e-036 -8.61391e-036 1 -6.55651e-007" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_sign_star" name_id="dah_ext_sign_star_001" position="-1875.56 23708.9 -2520.9" rotation="1.21819e-035 0 -0.707107 -0.707106" unit_id="300027"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3317.2 -38972.6 -27720.9" _prev_rot="0 0 1 -9.23872e-007" continent="bdrop" local_pos="-2418.5 -9991.64 -35500" local_rot="0 0 -0.707106 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_12" name_id="dah_ext_bdrop_strip_04_building_12_001" position="-3317.2 -36172.6 -27720.9" rotation="0 0 1 -9.23872e-007" unit_id="300028"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="424.438 -50891.1 -25420.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="9499.96 -6250 -33200" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_05" name_id="dah_ext_bdrop_strip_04_building_05_001" position="424.438 -48091.1 -25420.9" rotation="0 0 -0.707107 -0.707107" unit_id="300029"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5701.6 32933.9 4324.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-74325 -12376 -3455" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_010" position="-5701.6 35733.9 4324.14" rotation="0 0 0 -1" unit_id="300030"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="298.44 27633.9 4324.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-69025 -6376 -3455" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_011" position="298.44 30433.9 4324.14" rotation="0 0 0 -1" unit_id="300031"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-17075.6 5408.9 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-46800 -23750 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_02" name_id="dah_ext_bdrop_strip_04_building_02_001" position="-17075.6 8208.9 -27720.9" rotation="0 0 0 -1" unit_id="300032"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-21866.9 11123.6 -27720.9" _prev_rot="0 0 -0.382683 -0.92388" continent="bdrop" local_pos="-52514.7 -28541.3 -35500" local_rot="0 0 0.923879 0.382684" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_07" name_id="dah_ext_bdrop_strip_02_building_07_001" position="-21866.9 13923.6 -27720.9" rotation="0 0 -0.382683 -0.92388" unit_id="300033"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5522.44 21013.9 1497.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-62405 -1152 -6282" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_012" position="5522.44 23813.9 1497.14" rotation="0 0 0 -1" unit_id="300034"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1795.46 25001.6 -2857.2" _prev_rot="0 0 0.0958458 -0.995396" continent="bdrop" local_pos="-66392.7 -8469.9 -10636.3" local_rot="0 0 0.636078 0.771625" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_013" position="-1795.46 27801.6 -2857.2" rotation="0 0 0.0958458 -0.995396" unit_id="300035"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5675.6 -9391.1 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-32000 -12350 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_01" name_id="dah_ext_bdrop_strip_04_building_01_002" position="-5675.6 -6591.1 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300036"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-31317.1 21425.5 -27720.9" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-62816.6 -37991.5 -35500" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_05" name_id="dah_ext_bdrop_strip_04_building_05_002" position="-31317.1 24225.5 -27720.9" rotation="0 0 0.92388 0.382683" unit_id="300037"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="924.438 -23491.1 -27720.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="-17900 -5750 -35500" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_05_building_01" name_id="dah_ext_bdrop_strip_05_building_01_001" position="924.438 -20691.1 -27720.9" rotation="0 0 1 8.9407e-008" unit_id="300038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="298.44 32933.9 4324.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-74325 -6376 -3455" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_014" position="298.44 35733.9 4324.14" rotation="0 0 0 -1" unit_id="300039"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-775.559 -14491.1 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-26900 -7450 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_05_building_01" name_id="dah_ext_bdrop_strip_05_building_01_002" position="-775.559 -11691.1 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300040"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-11375.6 9208.9 -27820.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_road" name_id="dah_ext_road_001" position="-11375.6 9208.9 -27820.9" rotation="-0 0 -0 -1" unit_id="300041"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4075.6 -3891.1 -27720.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-37500 -10750 -35500" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_07" name_id="dah_ext_bdrop_strip_01_building_07_001" position="-4075.6 -1091.1 -27720.9" rotation="0 0 0.707107 -0.707107" unit_id="300042"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5528.44 27175.9 1497.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-68567 -1146 -6282" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_015" position="5528.44 29975.9 1497.14" rotation="0 0 0 -1" unit_id="300043"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10922.4 21013.9 1497.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-62405 4248 -6282" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_016" position="10922.4 23813.9 1497.14" rotation="0 0 0 -1" unit_id="300044"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4475.6 -391.102 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-41000 -11150 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_18" name_id="dah_ext_bdrop_strip_01_building_18_001" position="-4475.6 2408.9 -27720.9" rotation="0 0 0 -1" unit_id="300045"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5875.6 3408.9 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-44800 -12550 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_27" name_id="dah_ext_bdrop_strip_01_building_27_001" position="-5875.6 6208.9 -27720.9" rotation="0 0 0 -1" unit_id="300046"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7024.44 -22391.1 -27720.9" _prev_rot="0 0 -8.04663e-007 -1" continent="bdrop" local_pos="-19000 349.996 -35500" local_rot="0 0 0.707107 0.707106" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_05" name_id="dah_ext_bdrop_strip_04_building_05_003" position="7024.44 -19591.1 -27720.9" rotation="0 0 -8.04663e-007 -1" unit_id="300047"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-19237.5 21275.5 -27720.9" _prev_rot="0 0 0.92388 -0.382683" continent="bdrop" local_pos="-62666.6 -25911.9 -35500" local_rot="0 0 -0.382684 0.923879" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_22" name_id="dah_ext_bdrop_strip_01_building_22_001" position="-19237.5 24075.5 -27720.9" rotation="0 0 0.92388 -0.382683" unit_id="300048"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10922.4 27175.9 1497.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-68567 4248 -6282" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_017" position="10922.4 29975.9 1497.14" rotation="0 0 0 -1" unit_id="300049"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5524.44 -75591.1 -27320.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="34200 -1150 -35100" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_06" name_id="dah_ext_bdrop_strip_03_building_06_003" position="5524.44 -72791.1 -27320.9" rotation="0 0 -0.707107 -0.707107" unit_id="300050"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-23207.8 28352.4 -27320.9" _prev_rot="0 0 -0.382684 -0.923879" continent="bdrop" local_pos="-69743.5 -29882.2 -35100" local_rot="0 0 0.92388 0.382683" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_04" name_id="dah_ext_bdrop_strip_02_building_04_002" position="-23207.8 31152.4 -27320.9" rotation="0 0 -0.382684 -0.923879" unit_id="300051"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="28295.4 -34405.1 -10757.3" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-6986 21621 -18536.4" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_blue" name_id="dah_prop_bkdrp_light_decal_v3_blue_001" position="28295.4 -31605.1 -10757.3" rotation="0 0 0 -1" unit_id="300052"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="28295.4 -32905.1 -10757.3" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-8486 21621 -18536.4" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_blue" name_id="dah_prop_bkdrp_light_decal_v3_blue_002" position="28295.4 -30105.1 -10757.3" rotation="0 0 0 -1" unit_id="300053"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1573.67 2850 -29443.5" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-44241.1 -8248.11 -37222.6" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_19" name_id="dah_ext_bdrop_strip_01_building_19_001" position="-1573.67 5650 -29443.5" rotation="0 0 0.707107 -0.707107" unit_id="300054"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13424.5 -44291.1 -27520.9" _prev_rot="0 0 -0.707107 -0.707106" continent="bdrop" local_pos="2900 6750.03 -35300" local_rot="0 0 1 -6.55651e-007" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_03" name_id="dah_ext_bdrop_strip_02_building_03_002" position="13424.5 -41491.1 -27520.9" rotation="0 0 -0.707107 -0.707106" unit_id="300055"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11524.4 -51691.1 -28920.9" _prev_rot="0 0 -0.707107 -0.707106" continent="bdrop" local_pos="10300 4850 -36700" local_rot="0 0 1 -6.55651e-007" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_05" name_id="dah_ext_bdrop_strip_04_building_05_004" position="11524.4 -48891.1 -28920.9" rotation="0 0 -0.707107 -0.707106" unit_id="300056"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-29730.9 36654.3 -25620.9" _prev_rot="0 0 0.923879 -0.382685" continent="bdrop" local_pos="-78045.4 -36405.3 -33400" local_rot="0 0 -0.382682 0.92388" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_04" name_id="dah_ext_bdrop_strip_06_building_04_001" position="-29730.9 39454.3 -25620.9" rotation="0 0 0.923879 -0.382685" unit_id="300057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4275.6 11808.9 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-53200 -10950 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_01" name_id="dah_ext_bdrop_strip_02_building_01_001" position="-4275.6 14608.9 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300058"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2024.44 3408.9 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-44800 -4650 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_23" name_id="dah_ext_bdrop_strip_01_building_23_001" position="2024.44 6208.9 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300059"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="29499.4 -31427.1 -10757.3" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-9964 22825 -18536.4" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_blue" name_id="dah_prop_bkdrp_light_decal_v3_blue_003" position="29499.4 -28627.1 -10757.3" rotation="0 0 0.707107 -0.707107" unit_id="300060"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="18124.4 -37991.1 -25620.9" _prev_rot="0 0 -0.707108 -0.707106" continent="bdrop" local_pos="-3400 11450 -33400" local_rot="0 0 1 -1.40071e-006" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_04" name_id="dah_ext_bdrop_strip_06_building_04_002" position="18124.4 -35191.1 -25620.9" rotation="0 0 -0.707108 -0.707106" unit_id="300061"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="31099.4 -31427.1 -10757.3" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-9964 24425 -18536.4" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_blue" name_id="dah_prop_bkdrp_light_decal_v3_blue_004" position="31099.4 -28627.1 -10757.3" rotation="0 0 0.707107 -0.707107" unit_id="300062"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="31350.4 -31427.1 -10757.3" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-9964 24676 -18536.4" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v4_blue" name_id="dah_prop_bkdrp_light_decal_v4_blue_001" position="31350.4 -28627.1 -10757.3" rotation="0 0 0.707107 -0.707107" unit_id="300063"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3575.6 21608.9 -24620.9" _prev_rot="0 0 -0.707107 -0.707106" continent="bdrop" local_pos="-63000 -10250 -32400" local_rot="0 0 1 -6.55651e-007" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_06" name_id="dah_ext_bdrop_strip_02_building_06_003" position="-3575.6 24408.9 -24620.9" rotation="0 0 -0.707107 -0.707106" unit_id="300064"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="32799.4 -31427.1 -10757.3" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-9964 26125 -18536.4" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_blue" name_id="dah_prop_bkdrp_light_decal_v3_blue_005" position="32799.4 -28627.1 -10757.3" rotation="0 0 0.707107 -0.707107" unit_id="300065"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7424.44 2908.9 -27720.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-44300 749.994 -35500" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_06" name_id="dah_ext_bdrop_strip_03_building_06_004" position="7424.44 5708.9 -27720.9" rotation="0 0 0.707107 -0.707107" unit_id="300066"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2624.44 10808.9 -27720.9" _prev_rot="0 0 1 -9.23872e-007" continent="bdrop" local_pos="-52200 -4050 -35500" local_rot="0 0 -0.707106 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_07" name_id="dah_ext_bdrop_strip_01_building_07_002" position="2624.44 13608.9 -27720.9" rotation="0 0 1 -9.23872e-007" unit_id="300067"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="17524.4 -23991.1 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-17400 10850 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_16" name_id="dah_ext_bdrop_strip_04_building_16_001" position="17524.4 -21191.1 -27720.9" rotation="0 0 0 -1" unit_id="300068"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="14324.4 -10491.1 -27720.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="-30900 7650 -35500" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_01" name_id="dah_ext_bdrop_strip_06_building_01_002" position="14324.4 -7691.1 -27720.9" rotation="0 0 1 8.9407e-008" unit_id="300069"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-20375.6 37508.9 -27020.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="-78900 -27050 -34800" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_27" name_id="dah_ext_bdrop_strip_01_building_27_002" position="-20375.6 40308.9 -27020.9" rotation="0 0 1 8.9407e-008" unit_id="300070"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4175.6 32208.9 -23220.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-73600 -10850 -31000" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_10" name_id="dah_ext_bdrop_strip_01_building_10_001" position="-4175.6 35008.9 -23220.9" rotation="0 0 0 -1" unit_id="300071"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="14024.4 2908.9 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-44300 7350 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_12" name_id="dah_ext_bdrop_strip_02_building_12_001" position="14024.4 5708.9 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300072"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="16824.4 47208.9 10481.6" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire" name_id="dah_skyline_spire_001" position="16824.4 47208.9 10481.6" rotation="0 0 0 -1" unit_id="300073"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-26775.6 44608.9 -29420.9" _prev_rot="0 0 0.92388 -0.382683" continent="bdrop" local_pos="-86000 -33450 -37200" local_rot="0 0 -0.382684 0.923879" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_19" name_id="dah_ext_bdrop_strip_01_building_19_002" position="-26775.6 47408.9 -29420.9" rotation="0 0 0.92388 -0.382683" unit_id="300074"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6324.44 22708.9 -26020.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-64100 -350 -33800" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_10" name_id="dah_ext_bdrop_strip_01_building_10_002" position="6324.44 25508.9 -26020.9" rotation="0 0 -0.707107 -0.707107" unit_id="300075"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11824.5 13308.9 -27720.9" _prev_rot="0 0 -0.707108 -0.707106" continent="bdrop" local_pos="-54700 5150.02 -35500" local_rot="0 0 1 -1.40071e-006" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_12" name_id="dah_ext_bdrop_strip_04_building_12_002" position="11824.5 16108.9 -27720.9" rotation="0 0 -0.707108 -0.707106" unit_id="300076"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-22875.6 46908.9 -27720.9" _prev_rot="0 0 0.382683 -0.92388" continent="bdrop" local_pos="-88300 -29550 -35500" local_rot="0 0 0.382684 0.923879" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_23" name_id="dah_ext_bdrop_strip_01_building_23_002" position="-22875.6 49708.9 -27720.9" rotation="0 0 0.382683 -0.92388" unit_id="300077"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="29224.4 -47491.1 -27820.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="6100 22550 -35600" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_05" name_id="dah_ext_bdrop_strip_04_building_05_005" position="29224.4 -44691.1 -27820.9" rotation="0 0 0 -1" unit_id="300078"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="28024.4 -20991.1 -27320.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-20400 21350 -35100" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_06" name_id="dah_ext_bdrop_strip_03_building_06_005" position="28024.4 -18191.1 -27320.9" rotation="0 0 0 -1" unit_id="300079"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="31524.4 -35591.1 -26420.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-5800 24850 -34200" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_08" name_id="dah_ext_bdrop_strip_04_building_08_001" position="31524.4 -32791.1 -26420.9" rotation="0 0 -0.707107 -0.707107" unit_id="300080"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1424.44 39408.9 -21520.9" _prev_rot="0 0 -0.707107 -0.707106" continent="bdrop" local_pos="-80800 -5250 -29300" local_rot="0 0 1 -6.55651e-007" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_06" name_id="dah_ext_bdrop_strip_02_building_06_004" position="1424.44 42208.9 -21520.9" rotation="0 0 -0.707107 -0.707106" unit_id="300081"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="27324.4 -11591.1 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-29800 20650 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_10" name_id="dah_ext_bdrop_strip_02_building_10_002" position="27324.4 -8791.1 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300082"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-26975.6 51008.9 -30520.9" _prev_rot="0 0 0.382683 -0.92388" continent="bdrop" local_pos="-92400 -33650 -38300" local_rot="0 0 0.382684 0.923879" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_07" name_id="dah_ext_bdrop_strip_01_building_07_003" position="-26975.6 53808.9 -30520.9" rotation="0 0 0.382683 -0.92388" unit_id="300083"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="24824.4 -91.1016 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-41300 18150 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_01" name_id="dah_ext_bdrop_strip_06_building_01_003" position="24824.4 2708.9 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300084"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="22624.4 13508.9 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-54900 15950 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_10" name_id="dah_ext_bdrop_strip_02_building_10_003" position="22624.4 16308.9 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300085"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="36824.4 -23591.1 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-17800 30150 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_01" name_id="dah_ext_bdrop_strip_06_building_01_004" position="36824.4 -20791.1 -27720.9" rotation="0 0 0 -1" unit_id="300086"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="56623.4 -68756.1 2922.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="27365 49949 -4857" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_018" position="56623.4 -65956.1 2922.14" rotation="0 0 0 -1" unit_id="300087"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="23324.4 20808.9 -26020.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-62200 16650 -33800" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_09" name_id="dah_ext_bdrop_strip_02_building_09_001" position="23324.4 23608.9 -26020.9" rotation="0 0 0 -1" unit_id="300088"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="17824.4 29908.9 -25220.9" _prev_rot="0 0 -0.707107 -0.707106" continent="bdrop" local_pos="-71300 11150 -33000" local_rot="0 0 1 -6.55651e-007" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_17" name_id="dah_ext_bdrop_strip_04_building_17_001" position="17824.4 32708.9 -25220.9" rotation="0 0 -0.707107 -0.707106" unit_id="300089"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="38624.4 -10491.1 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-30900 31950 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_14" name_id="dah_ext_bdrop_strip_04_building_14_001" position="38624.4 -7691.1 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300090"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="25024.4 29808.9 -21720.9" _prev_rot="0 0 0.707106 -0.707107" continent="bdrop" local_pos="-71200 18350 -29500" local_rot="0 0 7.7486e-007 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_06" name_id="dah_ext_bdrop_strip_02_building_06_005" position="25024.4 32608.9 -21720.9" rotation="0 0 0.707106 -0.707107" unit_id="300091"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13124.4 37908.9 -29120.9" _prev_rot="0 0 0.707106 -0.707107" continent="bdrop" local_pos="-79300 6450 -36900" local_rot="0 0 7.7486e-007 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_12" name_id="dah_ext_bdrop_strip_04_building_12_003" position="13124.4 40708.9 -29120.9" rotation="0 0 0.707106 -0.707107" unit_id="300092"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="33224.4 12608.9 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-54000 26550 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_14" name_id="dah_ext_bdrop_strip_04_building_14_002" position="33224.4 15408.9 -27720.9" rotation="0 0 0 -1" unit_id="300093"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="47224.4 -37191.1 -28020.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-4200 40550 -35800" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_05_building_10" name_id="dah_ext_bdrop_strip_05_building_10_001" position="47224.4 -34391.1 -28020.9" rotation="0 0 -0.707107 -0.707107" unit_id="300094"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="39424.4 3108.9 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-44500 32750 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_07" name_id="dah_ext_bdrop_strip_01_building_07_004" position="39424.4 5908.9 -27720.9" rotation="0 0 0 -1" unit_id="300095"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="47082.4 33156.9 4304.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-74548 40408 -3475" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_019" position="47082.4 35956.9 4304.14" rotation="0 0 0 -1" unit_id="300096"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="45724.4 -16691.1 -29820.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-24700 39050 -37600" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_05_building_01" name_id="dah_ext_bdrop_strip_05_building_01_003" position="45724.4 -13891.1 -29820.9" rotation="0 0 -0.707107 -0.707107" unit_id="300097"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="49624.4 -22409.1 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-18982 42950 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_16" name_id="dah_ext_bdrop_strip_04_building_16_002" position="49624.4 -19609.1 -27720.9" rotation="0 0 0 -1" unit_id="300098"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="46832.4 37622.9 4363.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-79014 40158 -3416" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_020" position="46832.4 40422.9 4363.14" rotation="0 0 0 -1" unit_id="300099"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9124.31 53308.8 -27320.9" _prev_rot="0 0 1 -1.01328e-006" continent="bdrop" local_pos="-94699.9 2449.87 -35100" local_rot="0 0 -0.707106 0.707108" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_08" name_id="dah_ext_bdrop_strip_01_building_08_001" position="9124.31 56108.8 -27320.9" rotation="0 0 1 -1.01328e-006" unit_id="300100"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="51932.5 -35399.7 -29520.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-5991.4 45258.1 -37300" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_04" name_id="dah_ext_bdrop_strip_06_building_04_003" position="51932.5 -32599.7 -29520.9" rotation="0 0 0.707107 -0.707107" unit_id="300101"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="16824.4 45308.9 -29820.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-86700 10150 -37600" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_13" name_id="dah_ext_bdrop_strip_04_building_13_001" position="16824.4 48108.9 -29820.9" rotation="0 0 0 -1" unit_id="300102"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="52679.4 37358.9 11404.1" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-78750 46005 3625" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_021" position="52679.4 40158.9 11404.1" rotation="0 0 0 -1" unit_id="300103"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="48324.4 -3191.1 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-38200 41650 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_01" name_id="dah_ext_bdrop_strip_04_building_01_003" position="48324.4 -391.102 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300104"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="47082.4 33156.9 -5795.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-74548 40408 -13575" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_022" position="47082.4 35956.9 -5795.9" rotation="0 0 0 -1" unit_id="300105"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="47024.4 2108.9 -27720.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-43500 40350 -35500" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_07" name_id="dah_ext_bdrop_strip_01_building_07_005" position="47024.4 4908.9 -27720.9" rotation="0 0 -0.707107 -0.707107" unit_id="300106"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="53832.4 33556.9 4304.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-74948 47158 -3475" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_023" position="53832.4 36356.9 4304.14" rotation="0 0 0 -1" unit_id="300107"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="52670.4 37337.9 4812.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-78729 45996 -2967" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2" name_id="dah_skyline_spire_small_v2_001" position="52670.4 40137.9 4812.14" rotation="0 0 0 -1" unit_id="300108"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="46832.4 37622.9 -5736.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-79014 40158 -13516" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_024" position="46832.4 40422.9 -5736.9" rotation="0 0 0 -1" unit_id="300109"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="33724.4 21908.9 -35420.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-63300 27050 -43200" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_02" name_id="dah_ext_bdrop_strip_06_building_02_002" position="33724.4 24708.9 -35420.9" rotation="0 0 -0.707107 -0.707107" unit_id="300110"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="56724.4 -68791.1 -27220.9" _prev_rot="0 0 -0.707107 -0.707106" continent="bdrop" local_pos="27400 50050 -35000" local_rot="0 0 1 -6.55651e-007" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_07" name_id="dah_ext_bdrop_strip_04_building_07_001" position="56724.4 -65991.1 -27220.9" rotation="0 0 -0.707107 -0.707106" unit_id="300111"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="52524.4 708.898 -27320.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-42100 45850 -35100" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_06" name_id="dah_ext_bdrop_strip_03_building_06_006" position="52524.4 3508.9 -27320.9" rotation="0 0 0 -1" unit_id="300112"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="45424.4 21308.9 -26720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-62700 38750 -34500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_16" name_id="dah_ext_bdrop_strip_04_building_16_003" position="45424.4 24108.9 -26720.9" rotation="0 0 0 -1" unit_id="300113"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="50024.4 10508.9 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-51900 43350 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_01" name_id="dah_ext_bdrop_strip_06_building_01_005" position="50024.4 13308.9 -27720.9" rotation="0 0 0 -1" unit_id="300114"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="53832.4 33556.9 -5795.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-74948 47158 -13575" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_025" position="53832.4 36356.9 -5795.9" rotation="0 0 0 -1" unit_id="300115"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="32124.4 44408.9 -26120.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-85800 25450 -33900" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_10" name_id="dah_ext_bdrop_strip_04_building_10_001" position="32124.4 47208.9 -26120.9" rotation="0 0 0.707107 -0.707107" unit_id="300116"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="57424.4 -1291.1 -27520.9" _prev_rot="0 0 1 -9.23872e-007" continent="bdrop" local_pos="-40100 50750 -35300" local_rot="0 0 -0.707106 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_03" name_id="dah_ext_bdrop_strip_02_building_03_003" position="57424.4 1508.9 -27520.9" rotation="0 0 1 -9.23872e-007" unit_id="300117"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="63824.4 -22391.1 -27820.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-19000 57150 -35600" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_05" name_id="dah_ext_bdrop_strip_04_building_05_006" position="63824.4 -19591.1 -27820.9" rotation="0 0 0 -1" unit_id="300118"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="39124.4 41108.9 -26920.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-82500 32450 -34700" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_18" name_id="dah_ext_bdrop_strip_01_building_18_002" position="39124.4 43908.9 -26920.9" rotation="0 0 -0.707107 -0.707107" unit_id="300119"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="63724.4 -9691.1 -27820.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="-31700 57050 -35600" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_01" name_id="dah_ext_bdrop_strip_06_building_01_006" position="63724.4 -6891.1 -27820.9" rotation="0 0 1 8.9407e-008" unit_id="300120"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="67624.4 -60291.1 -27320.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="18900 60950 -35100" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_01" name_id="dah_ext_bdrop_strip_03_building_01_001" position="67624.4 -57491.1 -27320.9" rotation="0 0 0.707107 -0.707106" unit_id="300121"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="54024.4 12608.9 -34120.9" _prev_rot="0 0 1 -9.23872e-007" continent="bdrop" local_pos="-54000 47349.9 -41900" local_rot="0 0 -0.707106 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_05_building_08" name_id="dah_ext_bdrop_strip_05_building_08_001" position="54024.4 15408.9 -34120.9" rotation="0 0 1 -9.23872e-007" unit_id="300122"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="71024.4 -37291.1 -26120.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-4100 64350 -33900" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_14" name_id="dah_ext_bdrop_strip_04_building_14_003" position="71024.4 -34491.1 -26120.9" rotation="0 0 0 -1" unit_id="300123"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9624.44 76309 -27820.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-117700 2950 -35600" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_01" name_id="dah_ext_bdrop_strip_02_building_01_002" position="9624.44 79109 -27820.9" rotation="0 0 0 -1" unit_id="300124"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="33724.4 62509 -27420.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-103900 27050 -35200" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_10" name_id="dah_ext_bdrop_strip_02_building_10_004" position="33724.4 65309 -27420.9" rotation="0 0 0 -1" unit_id="300125"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="39324.4 57708.9 -27520.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-99100 32650 -35300" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_14" name_id="dah_ext_bdrop_strip_04_building_14_004" position="39324.4 60508.9 -27520.9" rotation="0 0 0 -1" unit_id="300126"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="53018.4 37650.2 -29220.9" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-79041.3 46344 -37000" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_07" name_id="dah_ext_bdrop_strip_02_building_07_002" position="53018.4 40450.2 -29220.9" rotation="0 0 0.92388 0.382683" unit_id="300127"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="50724.4 45208.9 -26120.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-86600 44050 -33900" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_17" name_id="dah_ext_bdrop_strip_04_building_17_002" position="50724.4 48008.9 -26120.9" rotation="0 0 0 -1" unit_id="300128"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="76324.4 -37091.1 -36020.9" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-4300 69650 -43800" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_05" name_id="dah_ext_bdrop_strip_03_building_05_001" position="76324.4 -34291.1 -36020.9" rotation="0 0 1 -8.9407e-008" unit_id="300129"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="62924.4 -102291 -38820.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="60900 56250 -46600" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_05" name_id="dah_ext_bdrop_strip_03_building_05_002" position="62924.4 -99491.1 -38820.9" rotation="0 0 -0.707107 -0.707107" unit_id="300130"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="51724.4 56408.9 -26420.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-97800 45050 -34200" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_08" name_id="dah_ext_bdrop_strip_04_building_08_002" position="51724.4 59208.9 -26420.9" rotation="0 0 -0.707107 -0.707107" unit_id="300131"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="64124.4 35008.9 -28720.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-76400 57450 -36500" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_10" name_id="dah_ext_bdrop_strip_02_building_10_005" position="64124.4 37808.9 -28720.9" rotation="0 0 0.707107 -0.707107" unit_id="300132"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="30624.4 75909 -35320.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="-117300 23950 -43100" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_15" name_id="dah_ext_bdrop_strip_04_building_15_001" position="30624.4 78709 -35320.9" rotation="0 0 1 8.9407e-008" unit_id="300133"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="88824.4 -20991.1 -25620.9" _prev_rot="0 0 -7.7486e-007 -1" continent="bdrop" local_pos="-20400 82150 -33400" local_rot="0 0 0.707107 0.707106" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_06" name_id="dah_ext_bdrop_strip_02_building_06_006" position="88824.4 -18191.1 -25620.9" rotation="0 0 -7.7486e-007 -1" unit_id="300134"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="84624.4 12108.9 -27320.9" _prev_rot="0 0 -0.707107 -0.707106" continent="bdrop" local_pos="-53500 77950 -35100" local_rot="0 0 1 -6.55651e-007" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_06" name_id="dah_ext_bdrop_strip_04_building_06_001" position="84624.4 14908.9 -27320.9" rotation="0 0 -0.707107 -0.707106" unit_id="300135"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="73024.4 35208.9 -32420.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-76600 66350 -40200" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_09" name_id="dah_ext_bdrop_strip_02_building_09_002" position="73024.4 38008.9 -32420.9" rotation="0 0 0.707107 -0.707107" unit_id="300136"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="101399 4107.9 -2198.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-45499 94725 -9978.04" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_026" position="101399 6907.9 -2198.9" rotation="0 0 0 -1" unit_id="300137"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="85324.4 -103791 -29320.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="62400 78650 -37100" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_05_building_05" name_id="dah_ext_bdrop_strip_05_building_05_001" position="85324.4 -100991 -29320.9" rotation="0 0 0.707107 -0.707106" unit_id="300138"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="101399 12307.9 -2198.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-53699 94725 -9978.04" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_027" position="101399 15107.9 -2198.9" rotation="0 0 0 -1" unit_id="300139"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="102575 15618.9 -2440.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-57010 95901 -10220" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_028" position="102575 18418.9 -2440.9" rotation="0 0 0 -1" unit_id="300140"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="77024.4 44908.9 -34120.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-86300 70350 -41900" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_15" name_id="dah_ext_bdrop_strip_04_building_15_002" position="77024.4 47708.9 -34120.9" rotation="0 0 0.707107 -0.707107" unit_id="300141"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="113102 -7538.1 -2036.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-33853 106428 -9816.04" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_029" position="113102 -4738.1 -2036.9" rotation="0 0 0 -1" unit_id="300142"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="113102 -1615.1 -2036.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-39776 106428 -9816.04" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_030" position="113102 1184.9 -2036.9" rotation="0 0 0 -1" unit_id="300143"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="96024.4 17408.9 -27720.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="-58800 89350 -35500" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_09" name_id="dah_ext_bdrop_strip_04_building_09_002" position="96024.4 20208.9 -27720.9" rotation="0 0 1 8.9407e-008" unit_id="300144"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="113102 -1615.1 -6436.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-39776 106428 -14216" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_031" position="113102 1184.9 -6436.9" rotation="0 0 0 -1" unit_id="300145"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="109824 -47791.1 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ground_plane" name_id="dah_ground_plane_001" position="109824 -47791.1 -27720.9" rotation="-0 0 -0 -1" unit_id="300146"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="108224 71109 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-112500 101550 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ground_plane" name_id="dah_ground_plane_002" position="108224 73909 -27720.9" rotation="0 0 0 -1" unit_id="300147"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="108524 -172491 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="131100 101850 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ground_plane" name_id="dah_ground_plane_003" position="108524 -169691 -27720.9" rotation="0 0 0 -1" unit_id="300148"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-29075.6 -103691 -27320.9" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="62300 -35750 -35100" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_02" name_id="dah_ext_bdrop_strip_06_building_02_003" position="-29075.6 -100891 -27320.9" rotation="0 0 1 -8.9407e-008" unit_id="300149"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-39119.5 -67221.8 -28120.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="25830.7 -45793.9 -35900" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_05_building_05" name_id="dah_ext_bdrop_strip_05_building_05_002" position="-39119.5 -64421.8 -28120.9" rotation="0 0 0.707107 -0.707106" unit_id="300150"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-26475.6 -73191.1 -27320.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="31800 -33150 -35100" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_01" name_id="dah_ext_bdrop_strip_06_building_01_007" position="-26475.6 -70391.1 -27320.9" rotation="0 0 -0.707107 -0.707107" unit_id="300151"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-17875.6 -175991 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="134600 -24550 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ground_plane" name_id="dah_ground_plane_004" position="-17875.6 -173191 -27720.9" rotation="0 0 0 -1" unit_id="300152"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-31175.6 -43691.2 -30620.9" _prev_rot="0 0 0.707106 -0.707107" continent="bdrop" local_pos="2300.1 -37850 -38400" local_rot="0 0 7.7486e-007 1" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_05" name_id="dah_ext_bdrop_strip_04_building_05_007" position="-31175.6 -40891.2 -30620.9" rotation="0 0 0.707106 -0.707107" unit_id="300153"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-86375.6 -54491.1 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="13100 -93050 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ground_plane" name_id="dah_ground_plane_005" position="-86375.6 -51691.1 -27720.9" rotation="0 0 0 -1" unit_id="300154"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-35775.6 -19991.1 -24520.9" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-21400 -42450 -32300" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_02" name_id="dah_ext_bdrop_strip_06_building_02_004" position="-35775.6 -17191.1 -24520.9" rotation="0 0 1 -8.9407e-008" unit_id="300155"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-78775.6 -12391.1 -30020.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-29000 -85450 -37800" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_03" name_id="dah_ext_bdrop_strip_06_building_03_001" position="-78775.6 -9591.1 -30020.9" rotation="0 0 0 -1" unit_id="300156"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-59796.6 -1668.1 3697.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-39723 -66471 -4082" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_032" position="-59796.6 1131.9 3697.14" rotation="0 0 0 -1" unit_id="300157"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-58572.6 503.898 948.14" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-41895 -65247 -6831" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v4" name_id="dah_prop_bkdrp_light_decal_v4_001" position="-58572.6 3303.9 948.14" rotation="0 0 1 -8.9407e-008" unit_id="300158"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-58072.6 1174.9 948.14" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-42566 -64747 -6831" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v4_yellow" name_id="dah_prop_bkdrp_light_decal_v4_yellow_001" position="-58072.6 3974.9 948.14" rotation="0 0 1 -8.9407e-008" unit_id="300159"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-64283.6 1478.9 3995.14" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-42870 -70958 -3784" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small" name_id="dah_skyline_spire_small_001" position="-64283.6 4278.9 3995.14" rotation="0 0 1 -8.9407e-008" unit_id="300160"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-59047.6 2174.9 948.14" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-43566 -65722 -6831" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v4" name_id="dah_prop_bkdrp_light_decal_v4_002" position="-59047.6 4974.9 948.14" rotation="0 0 1 -8.9407e-008" unit_id="300161"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-59796.6 4231.9 3697.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-45623 -66471 -4082" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_033" position="-59796.6 7031.9 3697.14" rotation="0 0 0 -1" unit_id="300162"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-45075.6 -6191.1 -27320.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-35200 -51750 -35100" local_rot="0 0 1 0" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_02_building_04" name_id="dah_ext_bdrop_strip_02_building_04_003" position="-45075.6 -3391.1 -27320.9" rotation="0 0 -0.707107 -0.707107" unit_id="300163"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-68955.6 -5491.1 -40920.9" _prev_rot="0 0 -2.68221e-007 -1" continent="bdrop" local_pos="-35900 -75630 -48700" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_04" name_id="dah_ext_bdrop_strip_04_building_04_001" position="-68955.6 -2691.1 -40920.9" rotation="0 0 -2.68221e-007 -1" unit_id="300164"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-63852.6 1332 -26320.9" _prev_rot="0 0 -0.707106 -0.707107" continent="bdrop" local_pos="-42723.1 -70527 -34100" local_rot="0 0 1 7.7486e-007" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_06_building_03" name_id="dah_ext_bdrop_strip_06_building_03_002" position="-63852.6 4132 -26320.9" rotation="0 0 -0.707106 -0.707107" unit_id="300165"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-43175.6 13408.9 -27320.9" _prev_rot="0 0 -0.707107 -0.707106" continent="bdrop" local_pos="-54800 -49850 -35100" local_rot="0 0 1 -6.55651e-007" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_01_building_08" name_id="dah_ext_bdrop_strip_01_building_08_002" position="-43175.6 16208.9 -27320.9" rotation="0 0 -0.707107 -0.707106" unit_id="300166"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-41634.2 28150.3 -27720.9" _prev_rot="0 0 -0.382684 -0.923879" continent="bdrop" local_pos="-69541.4 -48308.6 -35500" local_rot="0 0 0.92388 0.382683" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_12" name_id="dah_ext_bdrop_strip_04_building_12_004" position="-41634.2 30950.3 -27720.9" rotation="0 0 -0.382684 -0.923879" unit_id="300167"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-54003 38096.5 -9224.9" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-79487.6 -60677.4 -17004" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_yellow" name_id="dah_prop_bkdrp_light_decal_v3_yellow_001" position="-54003 40896.5 -9224.9" rotation="0 0 0.92388 0.382683" unit_id="300168"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-52093.8 40005.7 -9224.9" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-81396.8 -58768.2 -17004" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_yellow" name_id="dah_prop_bkdrp_light_decal_v3_yellow_002" position="-52093.8 42805.7 -9224.9" rotation="0 0 0.92388 0.382683" unit_id="300169"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-50477.4 41622.1 -9174.9" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-83013.2 -57151.8 -16954" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_yellow" name_id="dah_prop_bkdrp_light_decal_v3_yellow_003" position="-50477.4 44422.1 -9174.9" rotation="0 0 0.92388 0.382683" unit_id="300170"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-55161.8 42559.6 -27720.9" _prev_rot="0 0 -0.382684 -0.923879" continent="bdrop" local_pos="-83950.7 -61836.2 -35500" local_rot="0 0 0.92388 0.382683" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_07" name_id="dah_ext_bdrop_strip_04_building_07_002" position="-55161.8 45359.6 -27720.9" rotation="0 0 -0.382684 -0.923879" unit_id="300171"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-40675.6 59308.9 -27320.9" _prev_rot="0 0 0.92388 -0.382683" continent="bdrop" local_pos="-100700 -47350 -35100" local_rot="0 0 -0.382684 0.923879" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_01" name_id="dah_ext_bdrop_strip_03_building_01_002" position="-40675.6 62108.9 -27320.9" rotation="0 0 0.92388 -0.382683" unit_id="300172"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-72896.9 59687.5 -35520.9" _prev_rot="0 0 0.92388 -0.382683" continent="bdrop" local_pos="-101079 -79571.3 -43300" local_rot="0 0 -0.382684 0.923879" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_15" name_id="dah_ext_bdrop_strip_04_building_15_003" position="-72896.9 62487.5 -35520.9" rotation="0 0 0.92388 -0.382683" unit_id="300173"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-86058.6 75402 5217.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-116793 -92733 -2562" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_034" position="-86058.6 78202 5217.14" rotation="0 0 0 -1" unit_id="300174"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-85920.6 75528 5217.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-116919 -92595 -2562" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_035" position="-85920.6 78328 5217.14" rotation="0 0 0 -1" unit_id="300175"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-85314.4 74503 1130.14" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-115894 -91988.8 -6649" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v2" name_id="dah_prop_bkdrp_light_decal_v2_001" position="-85314.4 77303 1130.14" rotation="0 0 0.92388 0.382683" unit_id="300176"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-85031.5 74786 1130.14" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-116177 -91705.9 -6649" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v2" name_id="dah_prop_bkdrp_light_decal_v2_002" position="-85031.5 77586 1130.14" rotation="0 0 0.92388 0.382683" unit_id="300177"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-85173 74645 941.14" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-116036 -91847.4 -6838" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_yellow" name_id="dah_prop_bkdrp_light_decal_v3_yellow_004" position="-85173 77445 941.14" rotation="0 0 0.92388 0.382683" unit_id="300178"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-84819.4 74998 1130.14" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-116389 -91493.8 -6649" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v2" name_id="dah_prop_bkdrp_light_decal_v2_003" position="-84819.4 77798 1130.14" rotation="0 0 0.92388 0.382683" unit_id="300179"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-35075.6 75509 -35520.9" _prev_rot="0 0 1 9.23872e-007" continent="bdrop" local_pos="-116900 -41750 -43300" local_rot="0 0 -0.707107 0.707106" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_15" name_id="dah_ext_bdrop_strip_04_building_15_004" position="-35075.6 78309 -35520.9" rotation="0 0 1 9.23872e-007" unit_id="300180"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-46375.6 82309 -27320.9" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-123700 -53050 -35100" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_06" name_id="dah_ext_bdrop_strip_04_building_06_002" position="-46375.6 85109 -27320.9" rotation="0 0 0.92388 0.382683" unit_id="300181"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-88129.6 76555 -27920.9" _prev_rot="0 0 0.923879 0.382684" continent="bdrop" local_pos="-117946 -94804 -35700" local_rot="0 0 -0.92388 0.382683" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_03_building_02" name_id="dah_ext_bdrop_strip_03_building_02_001" position="-88129.6 79355 -27920.9" rotation="0 0 0.923879 0.382684" unit_id="300182"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1875.56 97809 -26420.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="-139200 -8550 -34200" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_07" name_id="dah_ext_bdrop_strip_04_building_07_003" position="-1875.56 100609 -26420.9" rotation="0 0 1 8.9407e-008" unit_id="300183"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-106447 95104 -27720.9" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-136495 -113121 -35500" local_rot="0 0 -0.923879 0.382684" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ext_bdrop_strip_04_building_01" name_id="dah_ext_bdrop_strip_04_building_01_004" position="-106447 97904 -27720.9" rotation="0 0 0.92388 0.382683" unit_id="300184"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="49956.4 -19971.1 -9815.6" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-21420 43282 -17594.7" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_building_04_16_sign/dah_building_04_16_sign" name_id="dah_building_04_16_sign_001" position="49956.4 -17171.1 -9815.6" rotation="0 0 1 -8.9407e-008" unit_id="300185"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8853.44 21008.9 685.66" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-62400 2179 -7093.48" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_01/dah_prop_building_advert_01" name_id="dah_prop_building_advert_01_001" position="8853.44 23808.9 685.66" rotation="0 0 0 -1" unit_id="300186"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="25574.4 26108.9 -580.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-67500 18900 -8360.04" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_02/dah_prop_building_advert_02" name_id="dah_prop_building_advert_02_001" position="25574.4 28908.9 -580.9" rotation="0 0 0 -1" unit_id="300187"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3975.6 27445.9 3416.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-68837 -10650 -4363" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_03/dah_prop_building_advert_03" name_id="dah_prop_building_advert_03_001" position="-3975.6 30245.9 3416.14" rotation="0 0 0 -1" unit_id="300188"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12262.6 -65072.1 93.1396" _prev_rot="0 0 1 -4.17233e-007" continent="bdrop" local_pos="23681 -18937 -7686" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_04/dah_prop_building_advert_04" name_id="dah_prop_building_advert_04_001" position="-12262.6 -62272.1 93.1396" rotation="0 0 1 -4.17233e-007" unit_id="300189"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-30884.3 33773.5 3073.64" _prev_rot="0 0 -0.430511 -0.902585" continent="bdrop" local_pos="-75164.6 -37558.7 -4705.5" local_rot="0 0 0.942641 0.333807" name="units/pd2_dlc_dah/props/dah_prop_building_advert_04/dah_prop_building_advert_05" name_id="dah_prop_building_advert_05_001" position="-30884.3 36573.5 3073.64" rotation="0 0 -0.430511 -0.902585" unit_id="300190"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="44724.4 20469.9 -7252.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-61861 38050 -15032" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_05/dah_prop_building_advert_06" name_id="dah_prop_building_advert_06_001" position="44724.4 23269.9 -7252.9" rotation="0 0 0 -1" unit_id="300191"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="49579.4 54976.9 -9187.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-96368 42905 -16967" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_06/dah_prop_building_advert_07" name_id="dah_prop_building_advert_07_001" position="49579.4 57776.9 -9187.9" rotation="0 0 0 -1" unit_id="300192"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-15637.6 -19277.1 -6608.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-22114 -22312 -14388" local_rot="0 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_building_advert_06/dah_prop_building_advert_07" name_id="dah_prop_building_advert_07_002" position="-15637.6 -16477.1 -6608.9" rotation="0 0 -0.707107 -0.707107" unit_id="300193"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="23455.4 30932.9 -580.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-72324 16781 -8360.04" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_02/dah_prop_building_advert_02" name_id="dah_prop_building_advert_02_002" position="23455.4 33732.9 -580.9" rotation="0 0 0.707107 -0.707107" unit_id="300194"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="354.44 30823.9 3416.14" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-72215 -6320 -4363" local_rot="0 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_building_advert_03/dah_prop_building_advert_03" name_id="dah_prop_building_advert_03_002" position="354.44 33623.9 3416.14" rotation="0 0 -0.707107 -0.707107" unit_id="300195"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="48301.4 -33639.1 -913.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="-7752 41627 -8693.04" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_08/dah_prop_building_advert_09" name_id="dah_prop_building_advert_09_001" position="48301.4 -30839.1 -913.9" rotation="0 0 0.707107 -0.707106" unit_id="300196"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="104354 -29980.1 -2435.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-11411 97680 -10215" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_11/dah_prop_building_advert_11" name_id="dah_prop_building_advert_11_001" position="104354 -27180.1 -2435.9" rotation="0 0 0.707107 -0.707107" unit_id="300197"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="90244.4 12603.9 -14379.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-53995 83570 -22159" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_06/dah_prop_building_advert_07" name_id="dah_prop_building_advert_07_003" position="90244.4 15403.9 -14379.9" rotation="0 0 0.707107 -0.707107" unit_id="300198"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="100458 9076.89 -3306.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-50468 93784 -11086" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_10/dah_prop_building_advert_10" name_id="dah_prop_building_advert_10_001" position="100458 11876.9 -3306.9" rotation="0 0 0.707107 -0.707107" unit_id="300199"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="97874.4 13595.9 -14075.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-54987 91200 -21855" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_building_04_16_sign/dah_building_04_16_sign_tint" name_id="dah_building_04_16_sign_tint_001" position="97874.4 16395.9 -14075.9" rotation="0 0 0 -1" unit_id="300200"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="44395.4 -31719.1 -8587.9" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-9672 37721 -16367" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_06/dah_prop_building_advert_07" name_id="dah_prop_building_advert_07_004" position="44395.4 -28919.1 -8587.9" rotation="0 0 1 -8.9407e-008" unit_id="300201"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="111432 -4820.1 -4779.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-36571 104758 -12559" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_realestate/dah_prop_building_advert_realetate_02" name_id="dah_prop_building_advert_realetate_02_001" position="111432 -2020.1 -4779.9" rotation="0 0 0.707107 -0.707107" unit_id="300202"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="60153.5 19140 656.14" _prev_rot="0 0 0.707106 -0.707107" continent="bdrop" local_pos="-60531.1 53479.1 -7123" local_rot="0 0 7.7486e-007 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_08/dah_prop_building_advert_08" name_id="dah_prop_building_advert_08_001" position="60153.5 21940 656.14" rotation="0 0 0.707106 -0.707107" unit_id="300203"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="98912.4 -4910.1 -15313.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-36481 92238 -23093" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_12/dah_prop_building_advert_12" name_id="dah_prop_building_advert_12_001" position="98912.4 -2110.1 -15313.9" rotation="0 0 0.707107 -0.707107" unit_id="300204"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="98732.4 -4552.1 -11996.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-36839 92058 -19776" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_realestate/dah_prop_building_advert_realetate_04" name_id="dah_prop_building_advert_realetate_04_001" position="98732.4 -1752.1 -11996.9" rotation="0 0 0.707107 -0.707107" unit_id="300205"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="86547.4 -18344.1 -4461.9" _prev_rot="0 0 1 -4.17233e-007" continent="bdrop" local_pos="-23047 79873 -12241" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_13/dah_prop_building_advert_13" name_id="dah_prop_building_advert_13_001" position="86547.4 -15544.1 -4461.9" rotation="0 0 1 -4.17233e-007" unit_id="300206"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="100386 7100.9 -4797.9" _prev_rot="0 0 0.707106 -0.707107" continent="bdrop" local_pos="-48492 93712 -12577" local_rot="0 0 7.7486e-007 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_13/dah_prop_building_advert_13" name_id="dah_prop_building_advert_13_002" position="100386 9900.9 -4797.9" rotation="0 0 0.707106 -0.707107" unit_id="300207"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="93569.4 11370.9 -15519.9" _prev_rot="0 0 -7.7486e-007 -1" continent="bdrop" local_pos="-52762 86895 -23299" local_rot="0 0 0.707107 0.707106" name="units/pd2_dlc_dah/props/dah_prop_building_advert_realestate/dah_prop_building_advert_realetate_01" name_id="dah_prop_building_advert_realetate_01_001" position="93569.4 14170.9 -15519.9" rotation="0 0 -7.7486e-007 -1" unit_id="300208"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="98878.4 -17775.1 -7836.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-23616 92204 -15616" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_realestate/dah_prop_building_advert_realetate_01" name_id="dah_prop_building_advert_realetate_01_002" position="98878.4 -14975.1 -7836.9" rotation="0 0 0.707107 -0.707107" unit_id="300209"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12743.4 -2414.1 -2142.6" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-38977 6069 -9921.74" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_006" only_exists_in_editor="true" position="12743.4 385.898 -2142.6" rotation="0 0 0 -1" unit_id="300210"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12653.4 -2414.1 -2142.6" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-38977 5979 -9921.74" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_007" only_exists_in_editor="true" position="12653.4 385.898 -2142.6" rotation="0 0 0 -1" unit_id="300211"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12527 -2503.4 -2142.6" _prev_rot="0 0 -0.492424 -0.870356" continent="bdrop" local_pos="-38887.7 5852.53 -9921.74" local_rot="0 0 0.963631 0.267238" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_008" only_exists_in_editor="true" position="12527 296.602 -2142.6" rotation="0 0 -0.492424 -0.870356" unit_id="300212"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12535.2 -2489.7 -2142.6" _prev_rot="0 0 -0.492424 -0.870356" continent="bdrop" local_pos="-38901.4 5860.77 -9921.74" local_rot="0 0 0.963631 0.267238" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_009" only_exists_in_editor="true" position="12535.2 310.301 -2142.6" rotation="0 0 -0.492424 -0.870356" unit_id="300213"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12959 -2500.4 -2145.9" _prev_rot="0 0 -0.284015 -0.95882" continent="bdrop" local_pos="-38890.7 6284.6 -9925.04" local_rot="0 0 0.878817 0.477159" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_010" only_exists_in_editor="true" position="12959 299.602 -2145.9" rotation="0 0 -0.284015 -0.95882" unit_id="300214"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12950.3 -2487 -2145.9" _prev_rot="0 0 -0.284015 -0.95882" continent="bdrop" local_pos="-38904.1 6275.88 -9925.04" local_rot="0 0 0.878817 0.477159" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_011" only_exists_in_editor="true" position="12950.3 313 -2145.9" rotation="0 0 -0.284015 -0.95882" unit_id="300215"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13178.4 -1632.1 -2145.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-39759 6504 -9925.04" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_012" only_exists_in_editor="true" position="13178.4 1167.9 -2145.9" rotation="0 0 0 -1" unit_id="300216"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13178.4 -1581.1 -2145.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-39810 6504 -9925.04" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_013" only_exists_in_editor="true" position="13178.4 1218.9 -2145.9" rotation="0 0 0 -1" unit_id="300217"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12743.4 -2414.1 -2142.6" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-38977 6069 -9921.74" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_014" only_exists_in_editor="true" position="12743.4 385.898 -2142.6" rotation="0 0 0 -1" unit_id="300218"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="92995.4 13573.9 -14075.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-54965 86321 -21855" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_building_04_16_sign/dah_building_04_16_sign_tint" name_id="dah_building_04_16_sign_tint_002" position="92995.4 16373.9 -14075.9" rotation="0 0 0 -1" unit_id="300219"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="102290 -11641.1 -15832.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-29750 95616 -23612" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_building_04_16_sign/dah_building_04_16_sign_tint" name_id="dah_building_04_16_sign_tint_003" position="102290 -8841.1 -15832.9" rotation="0 0 0 -1" unit_id="300220"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="98979.4 -12303.1 -7780.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-29088 92305 -15560" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_realestate/dah_prop_building_advert_realetate_07" name_id="dah_prop_building_advert_realetate_07_001" position="98979.4 -9503.1 -7780.9" rotation="0 0 0.707107 -0.707107" unit_id="300221"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="49718.4 -30258.1 -10385.9" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-11133 43044 -18165" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_14/dah_prop_building_advert_14" name_id="dah_prop_building_advert_14_001" position="49718.4 -27458.1 -10385.9" rotation="0 0 1 -8.9407e-008" unit_id="300222"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="76948.4 40430.9 -717.898" _prev_rot="0 0.707107 0 -0.707107" continent="bdrop" local_pos="-81822 70274 -8497.04" local_rot="0.5 -0.5 0.5 0.5" name="units/pd2_dlc_dah/props/dah_prop_building_advert_realestate/dah_prop_building_advert_realetate_05" name_id="dah_prop_building_advert_realetate_05_001" position="76948.4 43230.9 -717.898" rotation="0 0.707107 0 -0.707107" unit_id="300223"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-28036.9 -63993.2 -12946.1" _prev_rot="0 0 1 -9.23872e-007" continent="bdrop" local_pos="22602.1 -34711.3 -20725.2" local_rot="0 0 -0.707106 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_realestate/dah_prop_building_advert_realetate_03" name_id="dah_prop_building_advert_realetate_03_001" position="-28036.9 -61193.2 -12946.1" rotation="0 0 1 -9.23872e-007" unit_id="300224"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-34502.6 66193 -4076.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-107584 -41177 -11856" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_building_advert_realestate/dah_prop_building_advert_realetate_04" name_id="dah_prop_building_advert_realetate_04_002" position="-34502.6 68993 -4076.9" rotation="0 0 0 -1" unit_id="300225"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-81342.9 72489 -20012.3" _prev_rot="0 0 -0.390731 -0.920505" continent="bdrop" local_pos="-113880 -88017.3 -27791.4" local_rot="0 0 0.927184 0.374607" name="units/pd2_dlc_dah/props/dah_prop_building_advert_12/dah_prop_building_advert_12" name_id="dah_prop_building_advert_12_002" position="-81342.9 75289 -20012.3" rotation="0 0 -0.390731 -0.920505" unit_id="300226"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-99144 90869 -13259.3" _prev_rot="0 0 -0.390731 -0.920505" continent="bdrop" local_pos="-132260 -105818 -21038.4" local_rot="0 0 0.927184 0.374607" name="units/pd2_dlc_dah/props/dah_prop_building_advert_11/dah_prop_building_advert_11" name_id="dah_prop_building_advert_11_002" position="-99144 93669 -13259.3" rotation="0 0 -0.390731 -0.920505" unit_id="300227"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-19952.6 8744.9 1027.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-50136 -26627 -6752" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_001" position="-19952.6 11544.9 1027.14" rotation="0 0 0 -1" unit_id="300228"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-23269.6 8616.9 2004.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-50008 -29944 -5775" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_002" position="-23269.6 11416.9 2004.14" rotation="0 0 0 -1" unit_id="300229"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3875.6 20833.9 -6195.4" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-62225 -10550 -13974.5" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_003" position="-3875.6 23633.9 -6195.4" rotation="0 0 0 -1" unit_id="300230"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="26931.4 27423.9 -3087.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-68815 20257 -10867" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_004" position="26931.4 30223.9 -3087.9" rotation="0 0 0 -1" unit_id="300231"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="23931.4 27423.9 -4076.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-68815 17257 -11856" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_005" position="23931.4 30223.9 -4076.9" rotation="0 0 0 -1" unit_id="300232"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="50595.4 -34397.1 -4011.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-6994 43921 -11791" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_006" position="50595.4 -31597.1 -4011.9" rotation="0 0 0 -1" unit_id="300233"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="50595.4 -35997.1 -5843.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-5394 43921 -13623" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_007" position="50595.4 -33197.1 -5843.9" rotation="0 0 0 -1" unit_id="300234"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="19299.4 -22340.1 -10698.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-19051 12625 -18478" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_008" position="19299.4 -19540.1 -10698.9" rotation="0 0 0 -1" unit_id="300235"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="16503.4 -20470.1 -12152.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-20921 9829 -19932" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_009" position="16503.4 -17670.1 -12152.9" rotation="0 0 0 -1" unit_id="300236"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-19442.6 -21578.1 -8908.3" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-19813 -26117 -16687.4" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_010" position="-19442.6 -18778.1 -8908.3" rotation="0 0 0 -1" unit_id="300237"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-17238.6 -19139.1 -7255.3" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-22252 -23913 -15034.4" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_011" position="-17238.6 -16339.1 -7255.3" rotation="0 0 0 -1" unit_id="300238"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-14036.6 -66107.1 -3033.1" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="24716 -20711 -10812.2" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_012" position="-14036.6 -63307.1 -3033.1" rotation="0 0 0 -1" unit_id="300239"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9836.6 -66107.1 -3033.1" _prev_rot="0 0 -8.9407e-008 -1" continent="bdrop" local_pos="24716 -16511 -10812.2" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_013" position="-9836.6 -63307.1 -3033.1" rotation="0 0 -8.9407e-008 -1" unit_id="300240"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1011.44 37292.9 -3378.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-78684 -5663 -11158" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_014" position="1011.44 40092.9 -3378.9" rotation="0 0 0 -1" unit_id="300241"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="63231.4 -21516.1 -6306.3" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-19875 56557 -14085.4" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2_dark" name_id="dah_skyline_spire_small_v2_dark_015" position="63231.4 -18716.1 -6306.3" rotation="0 0 0 -1" unit_id="300242"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1011.44 37292.9 3181.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-78684 -5663 -4598" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_036" position="1011.44 40092.9 3181.14" rotation="0 0 0 -1" unit_id="300243"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="88824.4 -20391.1 -4375.9" _prev_rot="0 0 -7.7486e-007 -1" continent="bdrop" local_pos="-21000 82150 -12155" local_rot="0 0 0.707107 0.707106" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2" name_id="dah_skyline_spire_small_v2_002" position="88824.4 -17591.1 -4375.9" rotation="0 0 -7.7486e-007 -1" unit_id="300244"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-17275.6 -143791 -27720.9" _prev_rot="0 0 0 -1" continent="bdrop" disable_collision="true" local_pos="102400 -23950 -35500" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_backdrop/dah_ground_plane" name_id="dah_ground_plane_006" position="-17275.6 -140991 -27720.9" rotation="0 0 0 -1" unit_id="300245"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="119324 -19891.1 37779.1" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-21500 112650 30000" local_rot="0 0 0.707107 0.707107" mesh_variation="move_it" name="units/pd2_dlc_dah/architecture/dah_airplanelights_blinking/dah_airplanelights_blinking" name_id="dah_airplanelights_blinking_001" position="119324 -17091.1 37779.1" rotation="0 0 0 -1" unit_id="300246"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-96360 18146.2 27779.1" _prev_rot="0 0 0.970295 -0.241923" continent="bdrop" local_pos="-59537.3 -103034 20000" local_rot="0 0 -0.515037 0.857168" mesh_variation="move_it" name="units/pd2_dlc_dah/architecture/dah_airplanelights_blinking/dah_airplanelights_blinking" name_id="dah_airplanelights_blinking_002" position="-96360 20946.2 27779.1" rotation="0 0 0.970295 -0.241923" unit_id="300247"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-96792 97262 43479.1" _prev_rot="0 0 0.92388 0.382683" continent="bdrop" local_pos="-138653 -103466 35700" local_rot="0 0 -0.923879 0.382684" mesh_variation="move_it" name="units/pd2_dlc_dah/architecture/dah_airplanelights_blinking/dah_airplanelights_blinking" name_id="dah_airplanelights_blinking_003" position="-96792 100062 43479.1" rotation="0 0 0.92388 0.382683" unit_id="300248"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-15375.6 7208.9 -18620.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-48600 -22050 -26400" local_rot="0 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_ext_mall_sign_big/dah_prop_ext_mall_sign_big" name_id="dah_prop_ext_mall_sign_big_001" position="-15375.6 10008.9 -18620.9" rotation="0 0 -0.707107 -0.707107" unit_id="300249"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="83512.4 -201.102 -19802.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-41190 76838 -27582" local_rot="0 0 0 1" mesh_variation="round" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_001" position="83512.4 2598.9 -19802.9" rotation="0 0 0.707107 -0.707107" unit_id="300250"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="42651.4 -32391.1 -19020.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-9000 35977 -26800" local_rot="0 0 0 1" mesh_variation="smallest" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_002" position="42651.4 -29591.1 -19020.9" rotation="0 0 0.707107 -0.707107" unit_id="300251"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="15812.4 37298.9 -21927.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-78690 9138 -29707" local_rot="0 0 0.707107 0.707107" mesh_variation="round" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_003" position="15812.4 40098.9 -21927.9" rotation="0 0 0 -1" unit_id="300252"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10412.4 24764.9 -25296.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-66156 3738 -33076" local_rot="0 0 0.707107 0.707107" mesh_variation="smallest" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_004" position="10412.4 27564.9 -25296.9" rotation="0 0 0 -1" unit_id="300253"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="25312.4 26998.9 -19802.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-68390 18638 -27582" local_rot="0 0 0.707107 0.707107" mesh_variation="smallest" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_005" position="25312.4 29798.9 -19802.9" rotation="0 0 0 -1" unit_id="300254"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-45587.6 -2501.1 -29702.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-38890 -52262 -37482" local_rot="0 0 1 0" mesh_variation="big" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_006" position="-45587.6 298.898 -29702.9" rotation="0 0 -0.707107 -0.707107" unit_id="300255"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="46236.4 -17049.1 -23219.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="-24342 39562 -30999" local_rot="0 0 -0.707107 0.707107" mesh_variation="smallest" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_007" position="46236.4 -14249.1 -23219.9" rotation="0 0 1 8.9407e-008" unit_id="300256"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12023.6 -35791.1 -29867.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="small" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_008" position="-38823.6 -35791.1 -29867.9" rotation="0 0 1 8.9407e-008" unit_id="300257"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8218.4 53014.3 -44398.9" _prev_rot="0 0 -0.382683 -0.92388" continent="bdrop" local_pos="-94405.4 -14892.8 -52178" local_rot="0 0 0.923879 0.382684" mesh_variation="big" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_009" position="-8218.4 55814.3 -44398.9" rotation="0 0 -0.382683 -0.92388" unit_id="300258"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="56434.4 -10301.1 -26538.9" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-31090 49760 -34318" local_rot="0 0 0 1" mesh_variation="small" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_010" position="56434.4 -7501.1 -26538.9" rotation="0 0 0.707107 -0.707107" unit_id="300259"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="57476.4 -48635.1 -36268.9" _prev_rot="0 0 1 8.9407e-008" continent="bdrop" local_pos="7243.96 50802 -44048" local_rot="0 0 -0.707107 0.707107" mesh_variation="big" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_011" position="57476.4 -45835.1 -36268.9" rotation="0 0 1 8.9407e-008" unit_id="300260"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="142766 -33586.2 -47759.1" _prev_rot="0 0 0.707107 -0.707107" continent="bdrop" local_pos="-7804.9 136092 -55538.2" local_rot="0 0 0 1" mesh_variation="small" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_012" position="142766 -30786.2 -47759.1" rotation="0 0 0.707107 -0.707107" unit_id="300261"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11096.4 -28491.1 -27867.9" _prev_rot="0 0 1 -4.37114e-008" continent="bdrop" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="small" name="units/pd2_dlc_dah/architecture/dag_fog_plane/dah_fog_plane" name_id="dah_fog_plane_013" position="31396.4 -28491.1 -27867.9" rotation="0 0 1 -4.37114e-008" unit_id="300262"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="70824.4 68309 -18620.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-109700 64150 -26400" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_001" position="70824.4 71109 -18620.9" rotation="0 0 0 -1" unit_id="300263"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-14277.6 -65507.1 -646.099" _prev_rot="1.18536e-014 1.18536e-014 0.707107 -0.707107" continent="bdrop" local_pos="24116 -20952 -8425.24" local_rot="0 -1.67635e-014 0 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_002" position="-14277.6 -62707.1 -646.099" rotation="1.18536e-014 1.18536e-014 0.707107 -0.707107" unit_id="300264"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8736.6 -65507.1 -646.099" _prev_rot="-6.33071e-015 -2.53731e-015 0.92388 -0.382683" continent="bdrop" local_pos="24116 -15411 -8425.24" local_rot="2.68234e-015 6.27064e-015 -0.382684 0.923879" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_003" position="-8736.6 -62707.1 -646.099" rotation="-6.33071e-015 -2.53731e-015 0.92388 -0.382683" unit_id="300265"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8586.6 -69407.1 -646.099" _prev_rot="-6.37319e-015 -2.55491e-015 0.92388 -0.382683" continent="bdrop" local_pos="28016 -15261 -8425.24" local_rot="2.69994e-015 6.31312e-015 -0.382684 0.923879" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_004" position="-8586.6 -66607.1 -646.099" rotation="-6.37319e-015 -2.55491e-015 0.92388 -0.382683" unit_id="300266"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-16036.6 -65507.1 -646.099" _prev_rot="1.19321e-014 1.19321e-014 0.707107 -0.707107" continent="bdrop" local_pos="24116 -22711 -8425.24" local_rot="0 -1.68745e-014 0 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_005" position="-16036.6 -62707.1 -646.099" rotation="1.19321e-014 1.19321e-014 0.707107 -0.707107" unit_id="300267"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-35074.5 -64099.8 -3034.9" _prev_rot="0 0 1 6.55651e-007" continent="bdrop" local_pos="22708.7 -41748.9 -10814" local_rot="0 0 -0.707107 0.707106" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_red" name_id="dah_prop_bkdrp_light_decal_v3_red_001" position="-35074.5 -61299.8 -3034.9" rotation="0 0 1 6.55651e-007" unit_id="300268"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-36029.5 -63086.8 -3034.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="21695.7 -42703.9 -10814" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_red" name_id="dah_prop_bkdrp_light_decal_v3_red_002" position="-36029.5 -60286.8 -3034.9" rotation="0 0 0.707107 -0.707106" unit_id="300269"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2624.44 -46591.1 -2320.9" _prev_rot="-6.37341e-015 -2.63994e-015 0.923879 -0.382684" continent="bdrop" local_pos="5200 -4050 -10100" local_rot="2.63996e-015 6.3734e-015 -0.382683 0.92388" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_001" position="2624.44 -43791.1 -2320.9" rotation="-6.37341e-015 -2.63994e-015 0.923879 -0.382684" unit_id="300270"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3275.6 -47891.1 -2320.9" _prev_rot="1.18536e-014 1.18536e-014 0.707107 -0.707107" continent="bdrop" local_pos="6499.96 -9950.04 -10100" local_rot="0 -1.67635e-014 0 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_002" position="-3275.6 -45091.1 -2320.9" rotation="1.18536e-014 1.18536e-014 0.707107 -0.707107" unit_id="300271"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2748.14 -55167.4 -2320.9" _prev_rot="-6.33092e-015 -2.53736e-015 0.923879 -0.382684" continent="bdrop" local_pos="13776.3 -3926.3 -10100" local_rot="2.68245e-015 6.27082e-015 -0.382683 0.92388" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_003" position="2748.14 -52367.4 -2320.9" rotation="-6.33092e-015 -2.53736e-015 0.923879 -0.382684" unit_id="300272"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="23612.4 26086.9 -66.8594" _prev_rot="1.17751e-014 -1.17751e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-67478 16938 -7846" local_rot="-1.66525e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_004" position="23612.4 28886.9 -66.8594" rotation="1.17751e-014 -1.17751e-014 -0.707107 -0.707107" unit_id="300273"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="24912.4 26086.9 -66.8594" _prev_rot="1.18536e-014 -1.18536e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-67478 18238 -7846" local_rot="-1.67635e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_005" position="24912.4 28886.9 -66.8594" rotation="1.18536e-014 -1.18536e-014 -0.707107 -0.707107" unit_id="300274"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="26212.4 26086.9 -66.8594" _prev_rot="1.19321e-014 -1.19321e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-67478 19538 -7846" local_rot="-1.68745e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_006" position="26212.4 28886.9 -66.8594" rotation="1.19321e-014 -1.19321e-014 -0.707107 -0.707107" unit_id="300275"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="27412.4 26086.9 -66.8594" _prev_rot="1.20106e-014 -1.20106e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-67478 20738 -7846" local_rot="-1.69856e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_007" position="27412.4 28886.9 -66.8594" rotation="1.20106e-014 -1.20106e-014 -0.707107 -0.707107" unit_id="300276"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="16818.4 44386.9 24794.1" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-85778 10144 17015" local_rot="0 0 0.707107 0.707107" mesh_variation="state_blinking" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_001" position="16818.4 47186.9 24794.1" rotation="0 0 0 -1" unit_id="300277"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9836.6 -66007.1 3487.88" _prev_rot="0 0 -8.9407e-008 -1" continent="bdrop" local_pos="24616 -16511 -4291.26" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_002" position="-9836.6 -63207.1 3487.88" rotation="0 0 -8.9407e-008 -1" unit_id="300278"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-14036.6 -66007.1 3487.88" _prev_rot="0 0 -8.9407e-008 -1" continent="bdrop" local_pos="24616 -20711 -4291.26" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_003" position="-14036.6 -63207.1 3487.88" rotation="0 0 -8.9407e-008 -1" unit_id="300279"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="53424.4 -64891.1 -4320.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="23500 46750 -12100" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_004" position="53424.4 -62091.1 -4320.9" rotation="0 0 0 -1" unit_id="300280"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="53624.4 -65091.1 -3620.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="23700 46950 -11400" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_005" position="53624.4 -62291.1 -3620.9" rotation="0 0 0 -1" unit_id="300281"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32640.5 -62969.8 -3002.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="21578.7 -39314.9 -10782" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_006" position="-32640.5 -60169.8 -3002.9" rotation="0 0 0.707107 -0.707106" unit_id="300282"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32640.5 -62969.8 -9702.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="21578.7 -39314.9 -17482" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_007" position="-32640.5 -60169.8 -9702.9" rotation="0 0 0.707107 -0.707106" unit_id="300283"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="59724.4 -65091.1 -3620.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="23700 53050 -11400" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_008" position="59724.4 -62291.1 -3620.9" rotation="0 0 0 -1" unit_id="300284"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="60024.4 -64891.1 -4320.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="23500 53350 -12100" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_009" position="60024.4 -62091.1 -4320.9" rotation="0 0 0 -1" unit_id="300285"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-64097.6 1466.9 12773.1" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-42858 -70772 4994" local_rot="0 0 0.707107 0.707107" mesh_variation="state_blinking" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_010" position="-64097.6 4266.9 12773.1" rotation="0 0 0 -1" unit_id="300286"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32640.5 -66369.8 -3002.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="24978.7 -39314.9 -10782" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_011" position="-32640.5 -63569.8 -3002.9" rotation="0 0 0.707107 -0.707106" unit_id="300287"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-37940.5 -62469.8 -2902.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="21078.7 -44614.9 -10682" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_012" position="-37940.5 -59669.8 -2902.9" rotation="0 0 0.707107 -0.707106" unit_id="300288"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-36040.5 -64169.8 -1002.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="22778.7 -42714.9 -8782.04" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_013" position="-36040.5 -61369.8 -1002.9" rotation="0 0 0.707107 -0.707106" unit_id="300289"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-32640.5 -66369.8 -9702.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="24978.7 -39314.9 -17482" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_014" position="-32640.5 -63569.8 -9702.9" rotation="0 0 0.707107 -0.707106" unit_id="300290"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-37940.5 -62469.8 -9602.9" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="21078.7 -44614.9 -17382" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_015" position="-37940.5 -59669.8 -9602.9" rotation="0 0 0.707107 -0.707106" unit_id="300291"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="53624.4 -72391.1 -3620.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="31000 46950 -11400" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_016" position="53624.4 -69591.1 -3620.9" rotation="0 0 0 -1" unit_id="300292"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="53424.4 -72691.1 -4320.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="31300 46750 -12100" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_017" position="53424.4 -69891.1 -4320.9" rotation="0 0 0 -1" unit_id="300293"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="56724.4 -68791.1 -27220.9" _prev_rot="0 0 -0.707107 -0.707106" continent="bdrop" local_pos="27400 50050 -35000" local_rot="0 0 1 -6.55651e-007" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_018" position="56724.4 -65991.1 -27220.9" rotation="0 0 -0.707107 -0.707106" unit_id="300294"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-53340.5 -72769.8 1197.14" _prev_rot="0 0 0.707107 -0.707106" continent="bdrop" local_pos="31378.7 -60014.9 -6582" local_rot="0 0 -6.55651e-007 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_019" position="-53340.5 -69969.8 1197.14" rotation="0 0 0.707107 -0.707106" unit_id="300295"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-45424.2 186.801 -13835.9" _prev_rot="0 0 -1.99676e-006 -1" continent="bdrop" local_pos="-41577.9 -52098.6 -21615" local_rot="0 0 0.707108 0.707105" mesh_variation="move_it" name="units/pd2_dlc_dah/architecture/dah_floodlight_moving/dah_floodlight_moving" name_id="dah_floodlight_moving_001" position="-45424.2 2986.8 -13835.9" rotation="0 0 -1.99676e-006 -1" unit_id="300296"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-45424.2 -3413.2 -13835.9" _prev_rot="0 0 1 -2.11596e-006" continent="bdrop" local_pos="-37977.9 -52098.6 -21615" local_rot="0 0 -0.707105 0.707108" mesh_variation="move_it" name="units/pd2_dlc_dah/architecture/dah_floodlight_moving/dah_floodlight_moving" name_id="dah_floodlight_moving_002" position="-45424.2 -613.199 -13835.9" rotation="0 0 1 -2.11596e-006" unit_id="300297"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="18324.4 37618.9 -7035.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-79010 11650 -14815" local_rot="0 0 0.707107 0.707107" mesh_variation="move_it" name="units/pd2_dlc_dah/architecture/dah_floodlight_moving/dah_floodlight_moving_v2" name_id="dah_floodlight_moving_v2_001" position="18324.4 40418.9 -7035.9" rotation="0 0 0 -1" unit_id="300298"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="78024.4 -14191.1 -16420.9" _prev_rot="0 0 -0.515038 -0.857167" continent="bdrop" local_pos="-27200 71350 -24200" local_rot="0 0 0.970296 0.241922" mesh_variation="move_it" name="units/pd2_dlc_dah/architecture/dah_floodlight_moving/dah_floodlight_moving_v2" name_id="dah_floodlight_moving_v2_002" position="78024.4 -11391.1 -16420.9" rotation="0 0 -0.515038 -0.857167" unit_id="300299"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="93724.4 12508.9 -11420.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-53900 87050 -19200" local_rot="0 0 0.707107 0.707107" mesh_variation="move_it" name="units/pd2_dlc_dah/architecture/dah_floodlight_moving/dah_floodlight_moving_v2" name_id="dah_floodlight_moving_v2_003" position="93724.4 15308.9 -11420.9" rotation="0 0 0 -1" unit_id="300300"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="93724.4 19708.9 -11420.9" _prev_rot="0 0 1 -8.9407e-008" continent="bdrop" local_pos="-61100 87050 -19200" local_rot="0 0 -0.707107 0.707107" mesh_variation="move_it" name="units/pd2_dlc_dah/architecture/dah_floodlight_moving/dah_floodlight_moving_v2" name_id="dah_floodlight_moving_v2_004" position="93724.4 22508.9 -11420.9" rotation="0 0 1 -8.9407e-008" unit_id="300301"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-53891.8 48306 -25296.9" _prev_rot="6.20328e-015 -2.56949e-015 0.92388 0.382683" continent="bdrop" local_pos="-89697.1 -60566.2 -33076" local_rot="-6.20328e-015 -2.56948e-015 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_006" position="-53891.8 51106 -25296.9" rotation="6.20328e-015 -2.56949e-015 0.92388 0.382683" unit_id="300302"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-53891.8 48306 -26059.9" _prev_rot="6.24575e-015 -2.58709e-015 0.92388 0.382683" continent="bdrop" local_pos="-89697.1 -60566.2 -33839" local_rot="-6.24576e-015 -2.58707e-015 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_007" position="-53891.8 51106 -26059.9" rotation="6.24575e-015 -2.58709e-015 0.92388 0.382683" unit_id="300303"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-53891.8 48306 -26691.9" _prev_rot="6.28823e-015 -2.60469e-015 0.92388 0.382683" continent="bdrop" local_pos="-89697.1 -60566.2 -34471" local_rot="-6.28825e-015 -2.60466e-015 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_008" position="-53891.8 51106 -26691.9" rotation="6.28823e-015 -2.60469e-015 0.92388 0.382683" unit_id="300304"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-15324.6 10878.9 -19499.2" _prev_rot="-1.91544e-021 0 1 -8.9407e-008" continent="bdrop" local_pos="-52270 -21999 -27278.3" local_rot="1.35442e-021 1.35442e-021 -0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_008" position="-15324.6 13678.9 -19499.2" rotation="-1.91544e-021 0 1 -8.9407e-008" unit_id="300305"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-15620.6 11343.9 -19499.2" _prev_rot="-1.92867e-021 0 1 -8.9407e-008" continent="bdrop" local_pos="-52735 -22295 -27278.3" local_rot="1.36377e-021 1.36377e-021 -0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_009" position="-15620.6 14143.9 -19499.2" rotation="-1.92867e-021 0 1 -8.9407e-008" unit_id="300306"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="15328.4 40687.9 8253.94" _prev_rot="1.13826e-014 -1.13826e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-82079 8654 474.8" local_rot="-1.60974e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_001" position="15328.4 43487.9 8253.94" rotation="1.13826e-014 -1.13826e-014 -0.707107 -0.707107" unit_id="300307"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="18303.4 40687.9 8253.94" _prev_rot="1.14611e-014 -1.14611e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-82079 11629 474.8" local_rot="-1.62084e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_002" position="18303.4 43487.9 8253.94" rotation="1.14611e-014 -1.14611e-014 -0.707107 -0.707107" unit_id="300308"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="15328.4 40687.9 6653.98" _prev_rot="1.14611e-014 -1.14611e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-82079 8654 -1125.16" local_rot="-1.62084e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_003" position="15328.4 43487.9 6653.98" rotation="1.14611e-014 -1.14611e-014 -0.707107 -0.707107" unit_id="300309"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="18313.4 40687.9 6653.98" _prev_rot="1.15396e-014 -1.15396e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-82079 11639 -1125.16" local_rot="-1.63195e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_004" position="18313.4 43487.9 6653.98" rotation="1.15396e-014 -1.15396e-014 -0.707107 -0.707107" unit_id="300310"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="21153.4 43158.9 6653.98" _prev_rot="1.16181e-014 -1.16181e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-84550 14479 -1125.16" local_rot="-1.64305e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_005" position="21153.4 45958.9 6653.98" rotation="1.16181e-014 -1.16181e-014 -0.707107 -0.707107" unit_id="300311"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12453.4 43258.9 6653.98" _prev_rot="1.16966e-014 -1.16966e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-84650 5779 -1125.16" local_rot="-1.65415e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_006" position="12453.4 46058.9 6653.98" rotation="1.16966e-014 -1.16966e-014 -0.707107 -0.707107" unit_id="300312"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13153.4 42358.9 6653.98" _prev_rot="1.17751e-014 -1.17751e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-83750 6478.99 -1125.16" local_rot="-1.66525e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_007" position="13153.4 45158.9 6653.98" rotation="1.17751e-014 -1.17751e-014 -0.707107 -0.707107" unit_id="300313"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="14153.4 41258.9 6653.98" _prev_rot="1.18536e-014 -1.18536e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-82650 7478.99 -1125.16" local_rot="-1.67635e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_008" position="14153.4 44058.9 6653.98" rotation="1.18536e-014 -1.18536e-014 -0.707107 -0.707107" unit_id="300314"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="16872.4 40558.9 8243.94" _prev_rot="1.19321e-014 -1.19321e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-81950 10198 464.8" local_rot="-1.68745e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_009" position="16872.4 43358.9 8243.94" rotation="1.19321e-014 -1.19321e-014 -0.707107 -0.707107" unit_id="300315"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="19433.4 41440.9 6587.98" _prev_rot="1.20106e-014 -1.20106e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-82832 12759 -1191.16" local_rot="-1.69856e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_010" position="19433.4 44240.9 6587.98" rotation="1.20106e-014 -1.20106e-014 -0.707107 -0.707107" unit_id="300316"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="20353.4 42322.9 6609.98" _prev_rot="1.20891e-014 -1.20891e-014 -0.707107 -0.707107" continent="bdrop" local_pos="-83714 13679 -1169.16" local_rot="-1.70966e-014 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_011" position="20353.4 45122.9 6609.98" rotation="1.20891e-014 -1.20891e-014 -0.707107 -0.707107" unit_id="300317"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="624.44 8708.9 -26172.9" _prev_rot="-7.85046e-017 -0.707107 -7.85046e-017 -0.707107" continent="bdrop" local_pos="-50100 -6050 -33952" local_rot="-0.5 0.5 0.5 0.5" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_009" position="624.44 11508.9 -26172.9" rotation="-7.85046e-017 -0.707107 -7.85046e-017 -0.707107" unit_id="300318"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="624.44 8408.9 -25080.9" _prev_rot="-7.85046e-017 -0.707107 -7.85046e-017 -0.707107" continent="bdrop" local_pos="-49800 -6050 -32860" local_rot="-0.5 0.5 0.5 0.5" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_010" position="624.44 11208.9 -25080.9" rotation="-7.85046e-017 -0.707107 -7.85046e-017 -0.707107" unit_id="300319"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11324.4 -32674.1 -24535.6" _prev_rot="1.13826e-014 1.13826e-014 0.707107 -0.707107" continent="bdrop" local_pos="-8717 4650 -32314.7" local_rot="0 -1.60974e-014 0 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_010" position="11324.4 -29874.1 -24535.6" rotation="1.13826e-014 1.13826e-014 0.707107 -0.707107" unit_id="300320"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11624.4 -32674.1 -24535.6" _prev_rot="1.14611e-014 1.14611e-014 0.707107 -0.707107" continent="bdrop" local_pos="-8717 4950 -32314.7" local_rot="0 -1.62084e-014 0 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_011" position="11624.4 -29874.1 -24535.6" rotation="1.14611e-014 1.14611e-014 0.707107 -0.707107" unit_id="300321"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="46255.4 -29331.1 -16658.9" _prev_rot="0 0 -0.515038 -0.857167" continent="bdrop" local_pos="-12060 39581 -24438" local_rot="0 0 0.970296 0.241922" mesh_variation="move_it" name="units/pd2_dlc_dah/architecture/dah_floodlight_moving/dah_floodlight_moving_v2" name_id="dah_floodlight_moving_v2_005" position="46255.4 -26531.1 -16658.9" rotation="0 0 -0.515038 -0.857167" unit_id="300322"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="102290 -11641.1 -17432.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-29750 95616 -25212" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/architecture/dah_building_04_16_sign/dah_building_04_16_sign_tint" name_id="dah_building_04_16_sign_tint_004" position="102290 -8841.1 -17432.9" rotation="0 0 0 -1" unit_id="300323"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9040.7 9213.8 -24796.9" _prev_rot="0 0 -0.707107 -0.707107" continent="bdrop" local_pos="-50604.9 -15715.1 -32576" local_rot="0 0 1 0" name="units/pd2_dlc_dah/props/dah_prop_building_advert_13/dah_prop_building_advert_13" name_id="dah_prop_building_advert_13_003" position="-9040.7 12013.8 -24796.9" rotation="0 0 -0.707107 -0.707107" unit_id="300324"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-24968.6 20301.9 -20425.9" _prev_rot="6.1608e-015 -2.55189e-015 0.92388 0.382683" continent="bdrop" local_pos="-61693 -31643 -28205" local_rot="-6.1608e-015 -2.55188e-015 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_012" position="-24968.6 23101.9 -20425.9" rotation="6.1608e-015 -2.55189e-015 0.92388 0.382683" unit_id="300325"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-26241.4 21574.7 -20425.9" _prev_rot="6.20328e-015 -2.56949e-015 0.92388 0.382683" continent="bdrop" local_pos="-62965.8 -32915.8 -28205" local_rot="-6.20328e-015 -2.56948e-015 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_013" position="-26241.4 24374.7 -20425.9" rotation="6.20328e-015 -2.56949e-015 0.92388 0.382683" unit_id="300326"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-27867.8 23201.1 -20425.9" _prev_rot="6.24575e-015 -2.58709e-015 0.92388 0.382683" continent="bdrop" local_pos="-64592.2 -34542.2 -28205" local_rot="-6.24576e-015 -2.58707e-015 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_014" position="-27867.8 26001.1 -20425.9" rotation="6.24575e-015 -2.58709e-015 0.92388 0.382683" unit_id="300327"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-29706.3 25039.6 -20425.9" _prev_rot="6.28823e-015 -2.60469e-015 0.92388 0.382683" continent="bdrop" local_pos="-66430.7 -36380.7 -28205" local_rot="-6.28825e-015 -2.60466e-015 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_015" position="-29706.3 27839.6 -20425.9" rotation="6.28823e-015 -2.60469e-015 0.92388 0.382683" unit_id="300328"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-31827.6 27160.9 -20425.9" _prev_rot="6.33071e-015 -2.62229e-015 0.92388 0.382683" continent="bdrop" local_pos="-68552 -38502 -28205" local_rot="-6.33073e-015 -2.62225e-015 -0.923879 0.382684" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_016" position="-31827.6 29960.9 -20425.9" rotation="6.33071e-015 -2.62229e-015 0.92388 0.382683" unit_id="300329"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="61173.4 12012.9 2195.23" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-53404 54499 -5583.91" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_017" position="61173.4 14812.9 2195.23" rotation="0 0 0 -1" unit_id="300330"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="64147.4 11892.9 2195.23" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-53284 57473 -5583.91" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_018" position="64147.4 14692.9 2195.23" rotation="0 0 0 -1" unit_id="300331"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="100386 8957.9 -4797.9" _prev_rot="0 0 0.707106 -0.707107" continent="bdrop" local_pos="-50349 93712 -12577" local_rot="0 0 7.7486e-007 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_13/dah_prop_building_advert_13" name_id="dah_prop_building_advert_13_004" position="100386 11757.9 -4797.9" rotation="0 0 0.707106 -0.707107" unit_id="300332"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="100386 10842.9 -4797.9" _prev_rot="0 0 0.707106 -0.707107" continent="bdrop" local_pos="-52234 93712 -12577" local_rot="0 0 7.7486e-007 1" name="units/pd2_dlc_dah/props/dah_prop_building_advert_13/dah_prop_building_advert_13" name_id="dah_prop_building_advert_13_005" position="100386 13642.9 -4797.9" rotation="0 0 0.707106 -0.707107" unit_id="300333"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="74859.4 43993.9 401.141" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-85385 68185 -7378" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_019" position="74859.4 46793.9 401.141" rotation="0 0 0 -1" unit_id="300334"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="74859.4 42193.9 401.141" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-83585 68185 -7378" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_020" position="74859.4 44993.9 401.141" rotation="0 0 0 -1" unit_id="300335"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="74859.4 47393.9 401.141" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-88785 68185 -7378" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_021" position="74859.4 50193.9 401.141" rotation="0 0 0 -1" unit_id="300336"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="74859.4 45593.9 401.141" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-86985 68185 -7378" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_022" position="74859.4 48393.9 401.141" rotation="0 0 0 -1" unit_id="300337"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="74424.4 41913.9 752.14" _prev_rot="1 0 0 -4.37114e-008" continent="bdrop" local_pos="-83305 67750 -7027" local_rot="-0.707107 -0.707107 3.09086e-008 3.09086e-008" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v1" name_id="dah_prop_bkdrp_light_decal_v1_001" position="74424.4 44713.9 752.14" rotation="1 0 0 -4.37114e-008" unit_id="300338"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="74424.4 43738.9 752.14" _prev_rot="1 0 0 -4.37114e-008" continent="bdrop" local_pos="-85130 67750 -7027" local_rot="-0.707107 -0.707107 3.09086e-008 3.09086e-008" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v1" name_id="dah_prop_bkdrp_light_decal_v1_002" position="74424.4 46538.9 752.14" rotation="1 0 0 -4.37114e-008" unit_id="300339"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="74424.4 45327.9 752.14" _prev_rot="1 0 0 -4.37114e-008" continent="bdrop" local_pos="-86719 67750 -7027" local_rot="-0.707107 -0.707107 3.09086e-008 3.09086e-008" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v1" name_id="dah_prop_bkdrp_light_decal_v1_003" position="74424.4 48127.9 752.14" rotation="1 0 0 -4.37114e-008" unit_id="300340"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="74424.4 47016.9 752.14" _prev_rot="1 0 0 -4.37114e-008" continent="bdrop" local_pos="-88408 67750 -7027" local_rot="-0.707107 -0.707107 3.09086e-008 3.09086e-008" name="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v1" name_id="dah_prop_bkdrp_light_decal_v1_004" position="74424.4 49816.9 752.14" rotation="1 0 0 -4.37114e-008" unit_id="300341"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="23485.4 32952.9 -59.8594" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-74344 16811 -7839" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_012" position="23485.4 35752.9 -59.8594" rotation="0 0 0 -1" unit_id="300342"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="23485.4 31752.9 -59.8594" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-73144 16811 -7839" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_013" position="23485.4 34552.9 -59.8594" rotation="0 0 0 -1" unit_id="300343"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="23485.4 30552.9 -59.8594" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-71944 16811 -7839" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_014" position="23485.4 33352.9 -59.8594" rotation="0 0 0 -1" unit_id="300344"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="23485.4 29327.9 -59.8594" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-70719 16811 -7839" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_015" position="23485.4 32127.9 -59.8594" rotation="0 0 0 -1" unit_id="300345"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="23485.4 28052.9 -59.8594" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-69444 16811 -7839" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_016" position="23485.4 30852.9 -59.8594" rotation="0 0 0 -1" unit_id="300346"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="23485.4 26902.9 -59.8594" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-68294 16811 -7839" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_017" position="23485.4 29702.9 -59.8594" rotation="0 0 0 -1" unit_id="300347"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="49000.6 -31228 -1488.9" _prev_rot="2.23509e-015 5.39604e-015 0.382683 -0.92388" continent="bdrop" local_pos="-10163.1 42326.2 -9268.04" local_rot="2.23513e-015 -5.39603e-015 0.382684 0.923879" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_023" position="49000.6 -28428 -1488.9" rotation="2.23509e-015 5.39604e-015 0.382683 -0.92388" unit_id="300348"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="49035.9 -31192.6 -8741.9" _prev_rot="2.21749e-015 5.35356e-015 0.382683 -0.92388" continent="bdrop" local_pos="-10198.5 42361.5 -16521" local_rot="2.21754e-015 -5.35354e-015 0.382684 0.923879" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_024" position="49035.9 -28392.6 -8741.9" rotation="2.21749e-015 5.35356e-015 0.382683 -0.92388" unit_id="300349"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="52455.4 -17205.1 -7480.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-24186 45781 -15260" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_025" position="52455.4 -14405.1 -7480.9" rotation="0 0 0 -1" unit_id="300350"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="47231.4 -22793.1 -7480.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-18598 40557 -15260" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_026" position="47231.4 -19993.1 -7480.9" rotation="0 0 0 -1" unit_id="300351"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="47231.4 -17206.1 -7480.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-24185 40557 -15260" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_027" position="47231.4 -14406.1 -7480.9" rotation="0 0 0 -1" unit_id="300352"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-12313.6 -65507.1 -646.099" _prev_rot="1.19321e-014 1.19321e-014 0.707107 -0.707107" continent="bdrop" local_pos="24116 -18988 -8425.24" local_rot="0 -1.68745e-014 0 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_011" position="-12313.6 -62707.1 -646.099" rotation="1.19321e-014 1.19321e-014 0.707107 -0.707107" unit_id="300353"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10305.6 -65507.1 -646.099" _prev_rot="1.20106e-014 1.20106e-014 0.707107 -0.707107" continent="bdrop" local_pos="24116 -16980 -8425.24" local_rot="0 -1.69856e-014 0 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange" name_id="dah_prop_glow_big_orange_012" position="-10305.6 -62707.1 -646.099" rotation="1.20106e-014 1.20106e-014 0.707107 -0.707107" unit_id="300354"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="32946.4 -31624.1 -10581.9" _prev_rot="9.81257e-015 9.81257e-015 0.707107 -0.707107" continent="bdrop" local_pos="-9767 26272 -18361" local_rot="0 -1.38771e-014 0 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_018" position="32946.4 -28824.1 -10581.9" rotation="9.81257e-015 9.81257e-015 0.707107 -0.707107" unit_id="300355"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="31152.4 -31624.1 -10581.9" _prev_rot="9.89107e-015 9.89107e-015 0.707107 -0.707107" continent="bdrop" local_pos="-9767 24478 -18361" local_rot="0 -1.39881e-014 0 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_019" position="31152.4 -28824.1 -10581.9" rotation="9.89107e-015 9.89107e-015 0.707107 -0.707107" unit_id="300356"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="29542.4 -31624.1 -10581.9" _prev_rot="9.96957e-015 9.96957e-015 0.707107 -0.707107" continent="bdrop" local_pos="-9767 22868 -18361" local_rot="0 -1.40991e-014 0 1" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_020" position="29542.4 -28824.1 -10581.9" rotation="9.96957e-015 9.96957e-015 0.707107 -0.707107" unit_id="300357"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="28361.4 -32826.1 -10581.9" _prev_rot="3.33067e-016 -3.69584e-021 -2.68221e-007 -1" continent="bdrop" local_pos="-8565 21687 -18361" local_rot="-2.35517e-016 -2.35511e-016 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_blue" name_id="dah_prop_glow_big_blue_021" position="28361.4 -30026.1 -10581.9" rotation="3.33067e-016 -3.69584e-021 -2.68221e-007 -1" unit_id="300358"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="149747 -55924.1 -20367.1" _prev_rot="9.7553e-017 9.75529e-017 -2.68221e-007 -1" continent="bdrop" local_pos="14533 143073 -28146.2" local_rot="-9.26442e-023 -1.37961e-016 0.707107 0.707107" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_028" position="149747 -53124.1 -20367.1" rotation="9.7553e-017 9.75529e-017 -2.68221e-007 -1" unit_id="300359"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="48931.5 -39001.2 -1488.9" _prev_rot="9.7553e-017 9.75405e-017 -5.66244e-007 -1" continent="bdrop" local_pos="-2389.9 42257.1 -9268.04" local_rot="-8.84091e-021 -1.37952e-016 0.707107 0.707106" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_029" position="48931.5 -36201.2 -1488.9" rotation="9.7553e-017 9.75405e-017 -5.66244e-007 -1" unit_id="300360"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="52105.5 -30921.8 -8741.9" _prev_rot="2.23509e-015 5.39604e-015 0.382683 -0.92388" continent="bdrop" local_pos="-10469.3 45431.1 -16521" local_rot="2.23513e-015 -5.39603e-015 0.382684 0.923879" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_030" position="52105.5 -28121.8 -8741.9" rotation="2.23509e-015 5.39604e-015 0.382683 -0.92388" unit_id="300361"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="52105.5 -30921.8 -1536.9" _prev_rot="2.25269e-015 5.43852e-015 0.382683 -0.92388" continent="bdrop" local_pos="-10469.3 45431.1 -9316.04" local_rot="2.25273e-015 -5.43851e-015 0.382684 0.923879" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_031" position="52105.5 -28121.8 -1536.9" rotation="2.25269e-015 5.43852e-015 0.382683 -0.92388" unit_id="300362"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="113826 -3128.1 -1880.9" _prev_rot="0 0 -7.7486e-007 -1" continent="bdrop" local_pos="-38263 107152 -9660.04" local_rot="0 0 0.707107 0.707106" name="units/pd2_dlc_dah/props/dah_prop_skyskraper_spire/dah_skyline_spire_small_v2" name_id="dah_skyline_spire_small_v2_003" position="113826 -328.102 -1880.9" rotation="0 0 -7.7486e-007 -1" unit_id="300363"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="88823.4 -20385.1 2136.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-21006 82149 -5643" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_037" position="88823.4 -17585.1 2136.14" rotation="0 0 0 -1" unit_id="300364"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="42168.4 -40320.1 -6287.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-1071 35494 -14067" local_rot="0 0 0.707107 0.707107" mesh_variation="state_blinking" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_020" position="42168.4 -37520.1 -6287.9" rotation="0 0 0 -1" unit_id="300365"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="42168.4 -44018.1 -6287.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="2627 35494 -14067" local_rot="0 0 0.707107 0.707107" mesh_variation="state_blinking" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_021" position="42168.4 -41218.1 -6287.9" rotation="0 0 0 -1" unit_id="300366"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="45254.4 -44018.1 -6287.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="2627 38580 -14067" local_rot="0 0 0.707107 0.707107" mesh_variation="state_blinking" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_022" position="45254.4 -41218.1 -6287.9" rotation="0 0 0 -1" unit_id="300367"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="45254.4 -40237.1 -6287.9" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-1154 38580 -14067" local_rot="0 0 0.707107 0.707107" mesh_variation="state_blinking" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" name_id="dah_prop_glow_big_red_blinking_023" position="45254.4 -37437.1 -6287.9" rotation="0 0 0 -1" unit_id="300368"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="113788 -3126.1 4702.14" _prev_rot="0 0 0 -1" continent="bdrop" local_pos="-38265 107114 -3077" local_rot="0 0 0.707107 0.707107" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_038" position="113788 -326.102 4702.14" rotation="0 0 0 -1" unit_id="300369"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="49035.9 -31192.6 -5128.9" _prev_rot="2.23509e-015 5.39604e-015 0.382683 -0.92388" continent="bdrop" local_pos="-10198.5 42361.5 -12908" local_rot="2.23513e-015 -5.39603e-015 0.382684 0.923879" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_032" position="49035.9 -28392.6 -5128.9" rotation="2.23509e-015 5.39604e-015 0.382683 -0.92388" unit_id="300370"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="52105.5 -30921.8 -5128.9" _prev_rot="2.25269e-015 5.43852e-015 0.382683 -0.92388" continent="bdrop" local_pos="-10469.3 45431.1 -12908" local_rot="2.25273e-015 -5.43851e-015 0.382684 0.923879" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_033" position="52105.5 -28121.8 -5128.9" rotation="2.25269e-015 5.43852e-015 0.382683 -0.92388" unit_id="300371"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="48931.5 -39001.2 -4957.9" _prev_rot="9.7553e-017 9.75405e-017 -5.66244e-007 -1" continent="bdrop" local_pos="-2389.9 42257.1 -12737" local_rot="-8.84091e-021 -1.37952e-016 0.707107 0.707106" name="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_white" name_id="dah_prop_glow_big_white_034" position="48931.5 -36201.2 -4957.9" rotation="9.7553e-017 9.75405e-017 -5.66244e-007 -1" unit_id="300372"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
