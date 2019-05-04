@@ -325,6 +325,17 @@ function WeaponTweakData:_init_zm_new_weapons()
     self.rpg7_secondary = deep_clone(self.rpg7_primary)
     self.rpg7_secondary.use_data = {selection_index = SECONDARY, align_place = "right_hand"}
 	
+	self.ray_primary = deep_clone(self.ray)
+    self.ray_primary.animations.reload_name_id = "ray"
+    self.ray_primary.weapon_hold = "ray"
+    self.ray_primary.stats_modifiers = {damage = 4}
+    self.ray_primary.CLIP_AMMO_MAX = 4
+	self.ray_primary.NR_CLIPS_MAX = 4
+	self.ray_primary.AMMO_MAX = self.ray_primary.CLIP_AMMO_MAX * self.ray_primary.NR_CLIPS_MAX
+    self.ray_primary.use_data = {selection_index = PRIMARY, align_place = "right_hand"}
+    self.ray_secondary = deep_clone(self.ray_primary)
+    self.ray_secondary.use_data = {selection_index = SECONDARY, align_place = "right_hand"}
+	
     self.roach_primary = deep_clone(self.b682)
     self.roach_primary.name_id = "wpn_roach_name"
     self.roach_primary.animations.reload_name_id = "b682"
@@ -545,6 +556,8 @@ function WeaponTweakData:_init_zm_new_weapons()
     self.packrat_primary.use_data = {selection_index = PRIMARY}
     self.packrat_secondary = deep_clone(self.packrat_primary)
     self.packrat_secondary.use_data = {selection_index = SECONDARY}
+	
+	
 
     self.raygun_primary = deep_clone(self.breech)
     self.raygun_primary.name_id = "wpn_raygun"
