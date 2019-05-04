@@ -14,7 +14,7 @@
 			<unit_data _prev_pos="-500 3200 4000" _prev_rot="0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_005" position="-500 3200 4000" rotation="0 0 -0 -1" unit_id="200003"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1600 3200 4000" _prev_rot="-0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_009" position="1600 3200 4000" rotation="-0 0 -0 -1" unit_id="200007"/>
+			<unit_data _prev_pos="1600 3200 3975" _prev_rot="0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_009" position="1600 3200 3975" rotation="0 0 -0 -1" unit_id="200007"/>
 		</table>
 	</statics>
 	<values>

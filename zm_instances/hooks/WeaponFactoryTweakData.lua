@@ -797,6 +797,18 @@ function WeaponFactoryTweakData:_init_upgraded_multiplix()
 			value = 1
 		}
 	}
+	
+	self.parts.wpn_fps_upg_wonderwaffe_barrel = {
+		type = "barrel_ext",
+		a_obj = "a_ns",
+		parent = "barrel",
+		name_id = "bm_wp_upg_wonderwaffe_barrel",
+		unit = "units/pd2_mod_zombies/weapons/wpn_fps_upg_wonderwaffe_barrel/wpn_fps_upg_wonderwaffe_barrel",
+        third_unit = "units/pd2_mod_zombies/weapons/wpn_fps_upg_wonderwaffe_barrel/wpn_fps_upg_wonderwaffe_barrel",
+		stats = {
+			value = 1
+		}
+	}
     
     self.wpn_fps_ass_m14_upg_primary = deep_clone(self.wpn_fps_ass_m14)
     self.wpn_fps_ass_m14_upg_primary.unit = "units/pd2_mod_zombies/weapons/upgrade/wpn_fps_ass_m14_upg_primary"

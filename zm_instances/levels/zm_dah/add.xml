@@ -1,4 +1,12 @@
 <table directory="assets">
+	<add path="units/pd2_mod_zombies/weapons/wpn_fps_upg_wonderwaffe_barrel/wpn_fps_upg_wonderwaffe_barrel" type="unit">
+		<cooked_physics force="true" path="units/pd2_mod_zombies/weapons/wpn_fps_upg_wonderwaffe_barrel/wpn_fps_upg_wonderwaffe_barrel" unload="true"/>
+		<material_config force="true" path="units/pd2_mod_zombies/weapons/wpn_fps_upg_wonderwaffe_barrel/wpn_fps_upg_wonderwaffe_barrel" unload="true"/>
+		<material_config force="true" path="units/pd2_mod_zombies/weapons/wpn_fps_upg_wonderwaffe_barrel/wpn_fps_upg_wonderwaffe_barrel_cc" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/weapons/wpn_fps_upg_wonderwaffe_barrel/wpn_fps_upg_wonderwaffe_barrel" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/weapons/wpn_fps_upg_wonderwaffe_barrel/wpn_fps_upg_wonderwaffe_barrel" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/weapons/wpn_fps_upg_wonderwaffe_barrel/wpn_fps_upg_wonderwaffe_barrel" unload="true"/>
+	</add>
 	<add path="units/pd2_mod_zombies/architecture/zom_bonus_rooms/zom_room_barn" type="unit">
 		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_bonus_rooms/zom_room_barn" unload="true"/>
 		<model force="true" path="units/pd2_mod_zombies/architecture/zom_bonus_rooms/zom_room_barn" unload="true"/>
@@ -128,8 +136,8 @@
 		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/zom_dah" unload="true"/>
 		<model force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_hole" unload="true"/>
 		<object force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_hole" unload="true"/>
-		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_hole" unload="true"/>
 		<sequence_manager force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_hole" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/floor/zom_dah_floor_parquet_hole" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_wide_4m" type="unit">
 		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/zom_dah" unload="true"/>
@@ -1495,10 +1503,16 @@
 		<unit force="true" path="units/pd2_dlc_dah/props/dah_prop_vault_door/dah_prop_vault_door" unload="true"/>
 	</add>
 	<add path="units/pd2_dlc_dah/props/dah_prop_security_door/dah_security_door" type="unit">
-		<unit force="true" path="units/pd2_dlc_dah/props/dah_prop_security_door/dah_security_door" unload="true"/>
-		<object force="true" path="units/pd2_dlc_dah/props/dah_prop_security_door/dah_security_door" unload="true"/>
 		<material_config force="true" path="units/pd2_dlc_dah/props/dah_prop_security_door/dah_security_door" unload="true"/>
+		<object force="true" path="units/pd2_dlc_dah/props/dah_prop_security_door/dah_security_door" unload="true"/>
 		<sequence_manager force="true" path="units/pd2_dlc_dah/props/dah_prop_security_door/dah_security_door" unload="true"/>
+		<unit force="true" path="units/pd2_dlc_dah/props/dah_prop_security_door/dah_security_door" unload="true"/>
+	</add>
+	<add path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_exterior" type="unit">
+		<material_config force="true" path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_shaft" unload="true"/>
+		<object force="true" path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_exterior" unload="true"/>
+		<sequence_manager force="true" path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_exterior" unload="true"/>
+		<unit force="true" path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_exterior" unload="true"/>
 	</add>
 	<movie path="movies/ascension"/>
 	<sequence_manager path="units/sora/shoot_at_trigger/shoot_at_shared"/>
