@@ -1,0 +1,30 @@
+<dynamic_object>
+    <diesel orientation_object="rp_root" materials="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement" />
+    <bodies>
+        <body name="static_body" enabled="true" template="static" >
+            <object name="rp_root" />
+            <object name="co_culling" />
+            <object name="c_box_001" collision_type="box" padding="-2.5" />
+            <object name="c_box_002" collision_type="box" padding="-2.5" />
+            <object name="c_box_003" collision_type="box" padding="-2.5" />
+            <object name="c_box_004" collision_type="box" padding="-2.5" />
+            <object name="c_box_005" collision_type="box" padding="-2.5" />
+            <object name="c_box_006" collision_type="box" padding="-2.5" />
+            <object name="c_box_007" collision_type="box" padding="-2.5" />
+            <object name="c_box_008" collision_type="box" padding="-2.5" />
+            <object name="c_box_009" collision_type="box" padding="-2.5" />
+        </body>
+    </bodies>
+	
+	<decal_surfaces default_material="concrete">
+		<decal_mesh name="g_wall_concrete"	enabled="true" material="concrete" />
+		<decal_mesh name="g_wall_cobble"	enabled="true" material="concrete" />
+	</decal_surfaces>
+	
+	<graphics>
+		<graphic_group name="graphics" culling_object="co_culling" enabled="true">
+			<object name="g_wall_concrete"	enabled="true" shadow_caster="true"/>
+			<object name="g_wall_cobble"	enabled="true" shadow_caster="true"/>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

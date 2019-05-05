@@ -1,0 +1,7 @@
+<unit type="zom" slot="1" >
+    <object file="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_vent" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+		<extension name="damage" class="UnitDamage" />
+    </extensions>
+</unit>

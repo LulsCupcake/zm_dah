@@ -5,6 +5,8 @@
 	"heist_zm_dah_brief":"[CONFIDENTIAL]",
 	"heist_zm_dah_elevator_name":"[CONFIDENTIAL]",
 	"heist_zm_dah_elevator_brief":"[CONFIDENTIAL]",
+	"heist_zm_cabinflesh_name":"[CONFIDENTIAL]",
+	"heist_zm_cabinflesh_brief":"[CONFIDENTIAL]",
 	"hud_key_doubletap":"Doubletap Elevator Key",
 	"zm_key_doubletap":"Doubletap Elevator Key",
 	"zm_key_use_doubletap":"INTERACT"

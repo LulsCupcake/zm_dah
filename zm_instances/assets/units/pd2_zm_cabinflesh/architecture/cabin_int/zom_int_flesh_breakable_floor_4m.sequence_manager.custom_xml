@@ -1,0 +1,84 @@
+<table>
+	<unit>
+	
+		<!--Board 01 Breaker-->
+		<body name="'body_board_001'">
+			<endurance bullet="45" explosion="900">
+				<run_sequence name="'board_001_break'"/>
+			</endurance>
+		</body>
+		<sequence name="'board_001_break'">
+			<body		name="'body_board_001'"	enabled="false"/>
+			<object		name="'g_break_001'"	enabled="false" />
+			<decal_mesh	name="'g_break_001'"	enabled="false"/>
+		</sequence>
+		
+		
+		<!--Board 02 Breaker-->
+		<body name="'body_board_002'">
+			<endurance bullet="35" explosion="700">
+				<run_sequence name="'board_002_break'"/>
+			</endurance>
+		</body>
+		<sequence name="'board_002_break'">
+			<body		name="'body_board_002'"	enabled="false"/>
+			<object		name="'g_break_002'"	enabled="false" />
+			<decal_mesh	name="'g_break_002'"	enabled="false"/>
+		</sequence>
+		
+		
+		<!--Board 03 Breaker-->
+		<body name="'body_board_003'">
+			<endurance bullet="88" explosion="1760">
+				<run_sequence name="'board_003_break'"/>
+			</endurance>
+		</body>
+		<sequence name="'board_003_break'">
+			<body		name="'body_board_003'"	enabled="false"/>
+			<object		name="'g_break_003'"	enabled="false" />
+			<decal_mesh	name="'g_break_003'"	enabled="false"/>
+		</sequence>
+		
+		
+		<!--Board 04 Breaker-->
+		<body name="'body_board_004'">
+			<endurance bullet="55" explosion="1100">
+				<run_sequence name="'board_004_break'"/>
+			</endurance>
+		</body>
+		<sequence name="'board_004_break'">
+			<body		name="'body_board_004'"	enabled="false"/>
+			<object		name="'g_break_004'"	enabled="false" />
+			<decal_mesh	name="'g_break_004'"	enabled="false"/>
+		</sequence>
+		
+		
+		<!--Board 05 Breaker-->
+		<body name="'body_board_005'">
+			<endurance bullet="24" explosion="480">
+				<run_sequence name="'board_005_break'"/>
+			</endurance>
+		</body>
+		<sequence name="'board_005_break'">
+			<body		name="'body_board_005'"	enabled="false"/>
+			<object		name="'g_break_005'"	enabled="false" />
+			<decal_mesh	name="'g_break_005'"	enabled="false"/>
+		</sequence>
+		
+		
+		<!--Board 06 Breaker-->
+		<body name="'body_board_006'">
+			<endurance bullet="67" explosion="1320">
+				<run_sequence name="'board_006_break'"/>
+			</endurance>
+		</body>
+		<sequence name="'board_006_break'">
+			<body		name="'body_board_006'"	enabled="false"/>
+			<object		name="'g_break_006'"	enabled="false" />
+			<decal_mesh	name="'g_break_006'"	enabled="false"/>
+		</sequence>
+		
+		
+		
+	</unit>
+</table>

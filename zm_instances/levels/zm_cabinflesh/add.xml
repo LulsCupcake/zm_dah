@@ -1,0 +1,142 @@
+<table directory="assets">
+	<add type="unit"		path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_hole">
+		<unit				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_hole"		unload="true" force="true" />
+		<object				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_hole"		unload="true" force="true" />
+		<model				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_hole"		unload="true" force="true" />
+		<material_config	path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement"					unload="true" force="true" />
+	</add>
+	<add type="unit"		path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_vent">
+		<unit				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_vent"		unload="true" force="true" />
+		<object				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_vent"		unload="true" force="true" />
+		<model				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_vent"		unload="true" force="true" />
+		<material_config	path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement"					unload="true" force="true" />
+	</add>
+	<add type="unit"		path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m">
+		<unit				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m"			unload="true" force="true" />
+		<object				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m"			unload="true" force="true" />
+		<model				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m"			unload="true" force="true" />
+		<material_config	path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement"					unload="true" force="true" />
+	</add>
+	<add type="unit"		path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless">
+		<unit				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless"	unload="true" force="true" />
+		<object				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless"	unload="true" force="true" />
+		<model				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless"	unload="true" force="true" />
+		<material_config	path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement"					unload="true" force="true" />
+	</add>
+	<add type="unit"		path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m">
+		<unit				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m"			unload="true" force="true" />
+		<object				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m"			unload="true" force="true" />
+		<model				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m"			unload="true" force="true" />
+		<sequence_manager	path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m"			unload="true" force="true" />
+		<material_config	path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement"					unload="true" force="true" />
+	</add>
+	<add type="unit"		path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole">
+		<unit				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole"				unload="true" force="true" />
+		<object				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole"				unload="true" force="true" />
+		<model				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole"				unload="true" force="true" />
+		<material_config	path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement"					unload="true" force="true" />
+	</add>
+	<add type="unit"		path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m">
+		<unit				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m"	unload="true" force="true" />
+		<object				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m"	unload="true" force="true" />
+		<model				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m"	unload="true" force="true" />
+		<material_config	path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement"					unload="true" force="true" />
+	</add>
+	<add type="unit"		path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m">
+		<unit				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m"	unload="true" force="true" />
+		<object				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m"	unload="true" force="true" />
+		<model				path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m"	unload="true" force="true" />
+		<material_config	path="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement"					unload="true" force="true" />
+	</add>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<add path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker" type="unit">
+		<material_config force="true" path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch" type="unit">
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch_gsma" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch_dnm" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch_details_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch_details_gsma" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch_details_dnm" unload="true"/>
+		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap" type="unit">
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap_dnm" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap_gsma" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap_b_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap_b_dnm" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap_b_gsma" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap_sign_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap_sign_dnm" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap_sign_gsma" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_shared/zm_perk_machine_coil_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_shared/zm_perk_machine_coil_nm" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_shared/zm_perk_machine_coil_op" unload="true"/>
+		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola" type="unit">
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola_dnm" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola_gsma" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola_sign_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_shared/zm_perk_machine_coil_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_shared/zm_perk_machine_coil_nm" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_shared/zm_perk_machine_coil_op" unload="true"/>
+		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive" type="unit">
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive_dnm" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive_gsma" unload="true"/>
+		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive" unload="true"/>
+	</add>
+	<add path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog" type="unit">
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog_dnm" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog_gsma" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_shared/zm_perk_machine_coil_df" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_shared/zm_perk_machine_coil_nm" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_shared/zm_perk_machine_coil_op" unload="true"/>
+		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog" unload="true"/>
+	</add>
+</table>

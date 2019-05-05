@@ -1508,6 +1508,12 @@
 		<sequence_manager force="true" path="units/pd2_dlc_dah/props/dah_prop_security_door/dah_security_door" unload="true"/>
 		<unit force="true" path="units/pd2_dlc_dah/props/dah_prop_security_door/dah_security_door" unload="true"/>
 	</add>
+	<add path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_exterior" type="unit">
+		<material_config force="true" path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_shaft" unload="true"/>
+		<object force="true" path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_exterior" unload="true"/>
+		<sequence_manager force="true" path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_exterior" unload="true"/>
+		<unit force="true" path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_exterior" unload="true"/>
+	</add>
 	<movie path="movies/ascension"/>
 	<sequence_manager path="units/sora/shoot_at_trigger/shoot_at_shared"/>
 </table>

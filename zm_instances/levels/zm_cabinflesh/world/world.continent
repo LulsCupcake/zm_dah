@@ -1,0 +1,787 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="0 0 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_001" position="0 0 400" rotation="-0 0 -0 -1" unit_id="100000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_002" position="400 400 400" rotation="0 0 0 -1" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 800 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_002" position="0 800 400" rotation="0 0 0 -1" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 800 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_003" position="400 800 400" rotation="0 0 0 -1" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_004" position="800 800 400" rotation="0 0 0 -1" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1500 0 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_009" position="1500 0 400" rotation="0 0 0 -1" unit_id="100012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="800 400 0" local_rot="-0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_005" position="800 400 400" rotation="0 0 0 -1" unit_id="100013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_001" position="0 1400 400" rotation="0 0 0 -1" unit_id="100014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="400 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_002" position="400 1400 400" rotation="0 0 0 -1" unit_id="100015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="800 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_003" position="800 1400 400" rotation="0 0 0 -1" unit_id="100016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="1200 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_004" position="1200 1400 400" rotation="0 0 0 -1" unit_id="100017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1600 400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-1200 0 400" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_005" position="2000 1600 400" rotation="0 0 0.707107 -0.707107" unit_id="100018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 800 400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-400 0 400" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_006" position="2000 800 400" rotation="0 0 0.707107 -0.707107" unit_id="100019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 400 400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 400" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_007" position="2000 400 400" rotation="0 0 0.707107 -0.707107" unit_id="100020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 0 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="1600 0 0" local_rot="0 0 -1 -4.37114e-008" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_008" position="1600 0 400" rotation="0 0 1 4.37114e-008" unit_id="100021"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1.74846e-005 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="1200 1.74846e-005 0" local_rot="0 0 -1 -4.37114e-008" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_009" position="1200 1.74846e-005 400" rotation="0 0 1 4.37114e-008" unit_id="100022"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 5.24537e-005 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="800 5.24537e-005 0" local_rot="0 0 -1 -4.37114e-008" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_010" position="800 5.24537e-005 400" rotation="0 0 1 4.37114e-008" unit_id="100023"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 8.74228e-005 400" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_011" position="400 8.74228e-005 400" rotation="0 0 1 4.37114e-008" unit_id="100024"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0.000122392 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0.000122392 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_012" position="0 0.000122392 400" rotation="0 0 0.707107 0.707107" unit_id="100025"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7.15256e-005 800 400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="7.15256e-005 -400 0" local_rot="0 0 0.707107 0.707107" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_013" position="7.15256e-005 1200 400" rotation="0 0 -0.707107 -0.707107" unit_id="100026"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 400 400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_014" position="0 400 400" rotation="0 0 0.707107 0.707107" unit_id="100027"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 -5.24536e-005 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_016" position="1600 -1.74845e-005 0" rotation="0 0 1 4.37114e-008" unit_id="100029"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 5.24537e-005 -400" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="800 5.24537e-005 -400" local_rot="0 0 -1 -4.37114e-008" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_017" position="800 5.24537e-005 0" rotation="0 0 1 4.37114e-008" unit_id="100030"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 8.74228e-005 -400" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="400 8.74228e-005 -400" local_rot="0 0 -1 -4.37114e-008" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_018" position="400 8.74228e-005 0" rotation="0 0 1 4.37114e-008" unit_id="100031"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0.000122392 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0.000122392 -400" local_rot="0 0 0.707107 0.707107" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_019" position="0 0.000122392 0" rotation="0 0 -0.707107 -0.707107" unit_id="100032"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7.15256e-005 800 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="400 7.15256e-005 -400" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_020" position="7.15256e-005 800 0" rotation="0 0 -0.707107 -0.707107" unit_id="100033"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 400 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 400 -400" local_rot="0 0 0.707107 0.707107" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_021" position="0 400 0" rotation="0 0 -0.707107 -0.707107" unit_id="100034"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 400 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_022" position="2000 400 0" rotation="0 0 0.707107 -0.707107" unit_id="100035"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 800 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_023" position="2000 800 0" rotation="0 0 0.707107 -0.707107" unit_id="100036"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_025" position="1200 1200 0" rotation="0 0 0 -1" unit_id="100038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_026" position="800 1200 0" rotation="0 0 0 -1" unit_id="100039"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 1400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-1600 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_028" position="0 1200 0" rotation="0 0 0 -1" unit_id="100041"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1700 0 400" _prev_rot="0 -0.382683 0 -0.92388" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_021" position="1700 0 400" rotation="0 -0.382683 0 -0.92388" unit_id="100059"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 0 300" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_022" position="1800 0 300" rotation="0 0 0 -1" unit_id="100060"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 200 300" _prev_rot="0.275637 0 0 -0.961262" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_023" position="1800 200 300" rotation="0.275637 0 0 -0.961262" unit_id="100061"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 600 50" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_025" position="1800 600 50" rotation="0 0 0 -1" unit_id="100063"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 600 50" _prev_rot="0.194905 0.194905 0.679715 -0.679715" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_026" position="1800 600 50" rotation="0.194905 0.194905 0.679715 -0.679715" unit_id="100064"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 600 50" _prev_rot="0.270598 0.270598 -0.653281 -0.653281" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_024" position="1800 600 50" rotation="0.270598 0.270598 -0.653281 -0.653281" unit_id="100062"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 400 0" local_rot="-0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_008" position="0 400 400" rotation="0 0 0 -1" unit_id="100005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 600 50" _prev_rot="0.270598 0.653281 -0.653281 0.270598" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_028" position="1800 600 50" rotation="0.270598 0.653281 -0.653281 0.270598" unit_id="100067"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 200 300" _prev_rot="0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_008" position="1600 200 300" rotation="0.707107 0 0 -0.707107" unit_id="100070"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 0 400" _prev_rot="0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_034" position="1600 0 400" rotation="0.5 0.5 -0.5 -0.5" unit_id="100073"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1550 0 200" _prev_rot="0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_035" position="1600 0 200" rotation="0.5 0.5 -0.5 -0.5" unit_id="100074"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 600 0" _prev_rot="0 -0.382683 0 -0.92388" continent="world" local_pos="400 600 0" local_rot="0 0.382683 0 0.92388" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_003" position="400 600 400" rotation="0 -0.382683 0 -0.92388" unit_id="100076"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 600.001 282.842" _prev_rot="5.96046e-008 -2.57718e-007 7.39522e-007 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_037" position="400 600.001 282.842" rotation="5.96046e-008 -2.57718e-007 7.39522e-007 -1" unit_id="100077"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 600 282.842" _prev_rot="5.96046e-008 -2.57718e-007 7.39522e-007 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_038" position="600 600 282.842" rotation="5.96046e-008 -2.57718e-007 7.39522e-007 -1" unit_id="100078"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 600 282.842" _prev_rot="-0.270598 -0.270598 0.653282 -0.653281" continent="world" local_pos="0.000366211 399.999 6.10352e-005" local_rot="-7.45058e-008 -4.47035e-008 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_039" position="600 600 282.842" rotation="-0.270598 -0.270598 0.653282 -0.653281" unit_id="100079"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 317.158 0" _prev_rot="-0.382683 0 0 -0.92388" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_040" position="600 317.158 0" rotation="-0.382683 0 0 -0.92388" unit_id="100080"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 0 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_009" position="1200 0 400" rotation="0 0 0 -1" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1200 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_hole" name_id="zom_int_flesh_basement_wall_4m_hole_001" position="1600 1200 0" rotation="0 0 0.707107 -0.707107" unit_id="100037"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1950 1200 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_031" position="2000 1200 0" rotation="0 0 0.707107 -0.707107" unit_id="100056"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_010" position="400 0 400" rotation="0 0 0 -1" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_011" position="1200 400 400" rotation="0 0 0 -1" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 200 400" _prev_rot="0 0 0 -1" continent="world" local_pos="400 200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_001" position="1600 200 400" rotation="0 0 0 -1" unit_id="100011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="400 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_004" position="1600 400 400" rotation="0 0 0 -1" unit_id="100055"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 400 400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_030" position="0.000143051 800 400" rotation="0 0 -0.707107 -0.707107" unit_id="100081"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1200 400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-800 0 400" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_034" position="2000 1200 400" rotation="0 0 0.707107 -0.707107" unit_id="100083"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 800 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_012" position="0 1200 400" rotation="0 0 0 -1" unit_id="100091"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 800 400" _prev_rot="0 0 0 -1" continent="world" local_pos="400 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_013" position="400 1200 400" rotation="0 0 0 -1" unit_id="100092"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 400" _prev_rot="0 0 0 -1" continent="world" local_pos="800 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_014" position="800 1200 400" rotation="0 0 0 -1" unit_id="100093"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 800 400" _prev_rot="0 0 -5.96046e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_015" position="1200 800 400" rotation="0 0 -5.96046e-008 -1" unit_id="100094"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m" name_id="zom_int_flesh_basement_wall_4m_001" position="400 800 0" rotation="0 0 0 -1" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_hole" name_id="zom_int_flesh_basement_wall_4m_hole_002" position="0 800 0" rotation="0 0 0 -1" unit_id="100058"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 400 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_hole" name_id="zom_int_flesh_basement_wall_4m_hole_003" position="800 400 0" rotation="0 0 0.707107 -0.707107" unit_id="100095"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m" name_id="zom_int_flesh_basement_wall_4m_003" position="800 800 0" rotation="0 0 0.707107 -0.707107" unit_id="100096"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1200 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_hole" name_id="zom_int_flesh_basement_wall_4m_hole_004" position="800 1200 0" rotation="0 0 0.707107 -0.707107" unit_id="100098"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 600.001 282.843" _prev_rot="-1.67276e-008 -0.382683 0.92388 -4.03841e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_007" position="600 600.001 282.843" rotation="-0.653282 -0.270598 0.653282 0.270598" unit_id="100099"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 317.158 0.000518799" _prev_rot="-0.270598 0.270598 -0.653281 -0.653282" continent="world" local_pos="0.000350952 399.999 0.00012847" local_rot="-5.96046e-008 -4.47035e-008 -0.707107 0.707107" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_008" position="600 317.159 0.000213623" rotation="-0.270598 -0.653282 0.270598 0.653281" unit_id="100100"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 600.001 282.842" _prev_rot="-0.5 -0.5 0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_011" position="400 600.001 282.842" rotation="-0.5 -0.5 0.5 -0.5" unit_id="100102"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 600.001 200" _prev_rot="-0.5 -0.5 0.5 -0.5" continent="world" local_pos="82.8425 -0.000326709 -0.00024414" local_rot="-7.15256e-007 0 2.38419e-007 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_012" position="400 600.001 200" rotation="-0.5 -0.5 0.5 -0.5" unit_id="100103"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400.001 800.001 200" _prev_rot="-0.707107 1.89041e-007 0.707107 -1.97512e-007" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_013" position="400.001 800.001 200" rotation="-0.707107 1.89041e-007 0.707107 -1.97512e-007" unit_id="100104"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400.001 800.001 375" _prev_rot="0.707107 3.09086e-008 -0.707107 3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_014" position="400.001 800.001 375" rotation="0.707107 3.09086e-008 -0.707107 3.09086e-008" unit_id="100105"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 0 100" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_036" position="2000 0 0" rotation="0 0 1 4.37114e-008" unit_id="100110"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 0 500" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 400" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_037" position="2000 0 400" rotation="0 0 1 4.37114e-008" unit_id="100111"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1400 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_038" position="1600 1400 400" rotation="0 0 0 -1" unit_id="100112"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_039" position="1600 1200 0" rotation="0 0 0 -1" unit_id="100113"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 600 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_006" position="1600 600 400" rotation="0 0 0 -1" unit_id="100114"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1000 400" _prev_rot="0 0 -5.96046e-008 -1" continent="world" local_pos="0 400 0" local_rot="0 0 5.96046e-008 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_007" position="1600 1000 400" rotation="0 0 -5.96046e-008 -1" unit_id="100115"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 400" _prev_rot="0 0 -5.96046e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_016" position="1200 1200 400" rotation="0 0 -5.96046e-008 -1" unit_id="100116"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 0 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_017" position="800 0 400" rotation="0 0 0 -1" unit_id="100117"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 800 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m" name_id="zom_int_flesh_basement_wall_4m_005" position="400 800 400" rotation="0 0 0 -1" unit_id="100118"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m" name_id="zom_int_flesh_basement_wall_4m_006" position="800 800 400" rotation="0 0 0.707107 -0.707107" unit_id="100119"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 400 400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_hole" name_id="zom_int_flesh_basement_wall_4m_hole_005" position="800 400 400" rotation="0 0 0.707107 -0.707107" unit_id="100120"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_hole" name_id="zom_int_flesh_basement_wall_4m_hole_006" position="0 800 400" rotation="0 0 0 -1" unit_id="100121"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 10 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_003" position="1200 10 0" rotation="0 0 -0.707107 -0.707107" unit_id="100124"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1190 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_004" position="1200 1190 0" rotation="0 0 -0.707107 -0.707107" unit_id="100125"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1990 1190 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="330 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_007" position="1990 1190 0" rotation="0 0 -0.707107 -0.707107" unit_id="100085"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="790 10 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_012" position="790 10 0" rotation="0 0 0 -1" unit_id="100097"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="790 860 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_015" position="790 860 0" rotation="0 0 0 -1" unit_id="100128"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="790 1190 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_016" position="790 1190 0" rotation="0 0 -1 0" unit_id="100129"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10 400 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_017" position="10 400 0" rotation="0 0 0 -1" unit_id="100130"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10 860 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_018" position="10 860 0" rotation="0 0 0 -1" unit_id="100131"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10 10 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_019" position="10 10 0" rotation="0 0 0 -1" unit_id="100132"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10 1190 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_020" position="10 1190 0" rotation="0 0 -1 0" unit_id="100133"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10 790 0" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_021" position="10 790 0" rotation="0 0 -1 0" unit_id="100134"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="860 10 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_013" position="860 10 0" rotation="0 0 -0.707107 -0.707107" unit_id="100109"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="860 1190 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_022" position="860 1190 0" rotation="0 0 -0.707107 -0.707107" unit_id="100135"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 10 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_010" position="400 10 0" rotation="0 0 0 -1" unit_id="100089"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="860 600 0" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_014" position="860 600 0" rotation="0 0 1 4.37114e-008" unit_id="100127"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="390 790 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_023" position="390 790 0" rotation="0 0 1 -4.37114e-008" unit_id="100136"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1650 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m" name_id="zom_int_flesh_basement_wall_4m_008" position="1600 800 0" rotation="0 0 0 -1" unit_id="100086"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1990 1190 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_001" position="1590 1190 0" rotation="0 0 -0.707107 -0.707107" unit_id="100054"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1590 810 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_002" position="1590 810 0" rotation="0 0 -1 0" unit_id="100057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1610 790 0" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_005" position="1610 790 0" rotation="0 0 0.707107 0.707107" unit_id="100072"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1990 860 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_006" position="1990 860 0" rotation="0 0 -0.707107 -0.707107" unit_id="100082"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1660 860 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_008" position="1660 860 0" rotation="0 0 -0.707107 -0.707107" unit_id="100084"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1990 1190 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="330 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_009" position="1660 1190 0" rotation="0 0 -0.707107 -0.707107" unit_id="100087"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 367.734 191.072" _prev_rot="0.284015 0 0 -0.95882" continent="world" local_pos="0 200 -3.05176e-005" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_005" position="1800 369.61 194.016" rotation="0.275637 0 0 -0.961262" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 200 300" _prev_rot="-0.61845 -0.342812 0.61845 0.342812" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_015" position="1800 200 300" rotation="-0.61845 -0.342812 0.61845 0.342812" unit_id="100065"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 369.61 194.016" _prev_rot="-0.61845 -0.342812 0.61845 0.342812" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_016" position="1800 369.61 194.016" rotation="-0.61845 -0.342812 0.61845 0.342812" unit_id="100066"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 600 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_pole" name_id="zom_int_flesh_basement_pole_011" position="1200 600 0" rotation="0 0 1 -4.37114e-008" unit_id="100068"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="988.469 575.953 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" name_id="flt_prop_wood_crate_110_001" position="988.469 575.953 0" rotation="0 0 -0.0958458 -0.995396" unit_id="100069"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="989.469 571.953 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" name_id="flt_prop_wood_crate_110_002" position="989.469 571.953 0" rotation="0 0 0.707107 -0.707107" unit_id="100071"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1149.47 617.953 0" _prev_rot="-0.62932 0.777146 -2.75085e-008 3.39701e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_75/flt_prop_wood_crate_75" name_id="flt_prop_wood_crate_75_001" position="1146.95 620.533 0" rotation="-0.62932 0.777146 -2.75085e-008 3.39701e-008" unit_id="100075"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="984.363 567.47 107" _prev_rot="0 0 -0.0436203 -0.999048" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" name_id="flt_prop_wood_crate_110_004" position="984.363 567.47 107" rotation="0 0 -0.0436203 -0.999048" unit_id="100088"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="995.284 724.975 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_001" position="995.284 724.975 0" rotation="0 0 0 -1" unit_id="100090"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="994.037 725.847 75" _prev_rot="0 0 0.0174524 -0.999848" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_002" position="994.037 725.847 75" rotation="0 0 0.0174524 -0.999848" unit_id="100101"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="931.672 744.966 59.3106" _prev_rot="0.0616284 0.704416 0.0616284 -0.704416" continent="world" local_pos="-63.6122 15.9914 59.3106" local_rot="-0.0616284 -0.704416 -0.0616284 0.704416" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_003" position="931.672 740.966 59.3106" rotation="0.0616284 0.704416 0.0616284 -0.704416" unit_id="100122"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="550 850 0" _prev_rot="0 0 -5.96046e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" name_id="flt_prop_wood_crate_110_005" position="550 850 0" rotation="0 0 -5.96046e-008 -1" unit_id="100126"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="595 897 0" _prev_rot="-0.615661 0.788011 -1.70794e-008 4.02365e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_75/flt_prop_wood_crate_75" name_id="flt_prop_wood_crate_75_002" position="595 897 0" rotation="0.615661 -0.788011 1.70794e-008 -4.02365e-008" unit_id="100137"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1859 976 0" _prev_rot="0 0 0.771625 -0.636078" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch" name_id="zom_pack_a_punch_001" position="1859 976 0" rotation="0 0 0.771625 -0.636078" unit_id="100123"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="342 742 0" _prev_rot="0 0 0.382683 -0.92388" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog" name_id="zm_perk_machine_juggernog_001" position="342 742 0" rotation="0 0 0.382683 -0.92388" unit_id="100138"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="500 500 400" _prev_rot="0 0 0.382683 -0.92388" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_quickrevive/zm_perk_machine_quickrevive" name_id="zm_perk_machine_quickrevive_001" position="500 500 400" rotation="0 0 0.382683 -0.92388" unit_id="100139"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1560 100 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_speedcola/zm_perk_machine_speedcola" name_id="zm_perk_machine_speedcola_001" position="1560 100 0" rotation="0 0 0.707107 -0.707107" unit_id="100140"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1750 350 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker" name_id="zom_mysterybox_marker_001" position="1750 350 0" rotation="0 0 -0.707107 -0.707107" unit_id="100141"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="49.9999 401 0" _prev_rot="-0 -0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker" name_id="zom_mysterybox_marker_002" position="50 400 0" rotation="0 0 0.707107 -0.707107" unit_id="100142"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="271.468 55.883 0" _prev_rot="0 0 0.0958458 -0.995396" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_004" position="272.994 63.736 0" rotation="0 0 0.0958458 -0.995396" unit_id="100143"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="270.934 60.9533 75" _prev_rot="0 0 0.0871558 -0.996195" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_005" position="270.934 60.9533 75" rotation="0 0 0.113203 -0.993572" unit_id="100144"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1902.28 1151.97 0" _prev_rot="0 0 -0.0436194 -0.999048" continent="world" local_pos="122.822 30.9987 0" local_rot="0 0 -0.743145 0.66913" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_006" position="1901.14 1157.86 0" rotation="0 0 -0.0436194 -0.999048" unit_id="100145"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1909.89 1159.74 75" _prev_rot="0 0 0.0174524 -0.999848" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_007" position="1909.44 1146.74 75" rotation="0 0 0.0174524 -0.999848" unit_id="100146"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1770.44 1153.14 0" _prev_rot="0 0 0.0523355 -0.99863" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_008" position="1770.44 1153.14 0" rotation="0 0 0.0523355 -0.99863" unit_id="100147"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1716 862 40" _prev_rot="0.704416 -0.0616284 0.0616284 -0.704416" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_009" position="1716 862 40" rotation="0.704416 -0.0616284 0.0616284 -0.704416" unit_id="100148"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1945.52 915.789 0" _prev_rot="0 0 -0.675591 -0.737277" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_010" position="1945.52 915.789 0" rotation="0 0 -0.675591 -0.737277" unit_id="100149"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1945.19 924.734 75" _prev_rot="0 0 -0.629321 -0.777146" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_011" position="1936.39 926.605 75" rotation="0 0 -0.629321 -0.777146" unit_id="100150"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1936.39 926.605 150" _prev_rot="0 0 -0.594823 -0.803857" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_012" position="1936.39 926.605 150" rotation="0 0 -0.594823 -0.803857" unit_id="100151"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1955 1043.21 0" _prev_rot="0 0 -0.771625 -0.636078" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_013" position="1952.14 1057.94 0" rotation="0 0 -0.771625 -0.636078" unit_id="100152"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1949.86 1042.54 75" _prev_rot="0 0 -0.70091 -0.71325" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_014" position="1949.86 1042.54 75" rotation="0 0 -0.70091 -0.71325" unit_id="100153"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="395 897 0" _prev_rot="0.997564 -0.0697565 3.04915e-009 -4.36049e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_75/flt_prop_wood_crate_75" name_id="flt_prop_wood_crate_75_003" position="395 897 0" rotation="0.997564 -0.0697565 3.04915e-009 -4.36049e-008" unit_id="100155"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_001" position="800 1200 0" rotation="0 0 0 -1" unit_id="100156"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_002" position="1200 1200 0" rotation="0 0 0 -1" unit_id="100157"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 0 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_003" position="1200 0 0" rotation="0 0 -1 4.37114e-008" unit_id="100158"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 0 0" _prev_rot="0 0 0 -1" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_004" position="1600 3.49691e-005 0" rotation="0 0 -1 4.37114e-008" unit_id="100159"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 0 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_005" position="400 -6.99382e-005 0" rotation="0 0 1 -4.37114e-008" unit_id="100160"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 3.49691e-005 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_006" position="800 -3.49691e-005 0" rotation="0 0 1 -4.37114e-008" unit_id="100161"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3.05176e-005 400 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_007" position="-3.05176e-005 400 0" rotation="0 0 0.707107 0.707107" unit_id="100162"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 400 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="-400 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_008" position="1.71661e-005 -3.05176e-005 0" rotation="0 0 0.707107 0.707107" unit_id="100163"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8.41618e-005 850 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_009" position="-7.82013e-005 800 0" rotation="0 0 -0.707107 -0.707107" unit_id="100164"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-0.000125885 1200 0" _prev_rot="0 0 -5.96046e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_010" position="-0.000125885 1200 0" rotation="0 0 -5.96046e-008 -1" unit_id="100165"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_012" position="1600 1200 0" rotation="0 0 0 -1" unit_id="100167"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1200 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_013" position="2000 1200 0" rotation="0 0 0.707107 -0.707107" unit_id="100168"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 1000 200" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_001" only_visible_in_editor="true" position="1800 1000 200" rotation="-0 0 -0 -1" unit_id="100169">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.901961 0.784314" enabled="true" falloff_exponent="1" far_range="350" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1300 800 300" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_002" only_visible_in_editor="true" position="1200 800 300" rotation="-0 0 -0 -1" unit_id="100170">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.901961 0.784314" enabled="true" falloff_exponent="1" far_range="600" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1300 400 300" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 -400 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_003" only_visible_in_editor="true" position="1200 400 300" rotation="-0 0 -0 -1" unit_id="100171">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.901961 0.784314" enabled="true" falloff_exponent="1" far_range="600" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 500 300" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_004" only_visible_in_editor="true" position="200 500 300" rotation="-0 0 -0 -1" unit_id="100172">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.901961 0.784314" enabled="true" falloff_exponent="1" far_range="450" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 1000 300" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_005" only_visible_in_editor="true" position="600 1000 300" rotation="-0 0 -0 -1" unit_id="100173">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.901961 0.784314" enabled="true" falloff_exponent="1" far_range="450" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="500 200 300" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_006" only_visible_in_editor="true" position="500 200 300" rotation="-0 0 -0 -1" unit_id="100174">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.901961 0.784314" enabled="true" falloff_exponent="1" far_range="450" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 500 378" _prev_rot="-0.707107 0.707107 3.09086e-008 -3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="lamp_on" name="units/payday2/props/gen_prop_long_lamp/gen_prop_long_lamp_v3_dim" name_id="gen_prop_long_lamp_v3_dim_001" position="200 500 378" rotation="-0.707107 0.707107 3.09086e-008 -3.09086e-008" unit_id="100175"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="500 200 378" _prev_rot="6.31089e-030 1 -3.55271e-015 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="lamp_on" name="units/payday2/props/gen_prop_long_lamp/gen_prop_long_lamp_v3_dim" name_id="gen_prop_long_lamp_v3_dim_002" position="500 200 378" rotation="0 1 -3.55271e-015 -4.37114e-008" unit_id="100176"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 400 378" _prev_rot="-0.707107 0.707107 3.09086e-008 -3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="lamp_on" name="units/payday2/props/gen_prop_long_lamp/gen_prop_long_lamp_v3_dim" name_id="gen_prop_long_lamp_v3_dim_003" position="1100 400 378" rotation="-0.707107 0.707107 3.09086e-008 -3.09086e-008" unit_id="100177"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 800 378" _prev_rot="-0.707107 0.707107 3.09086e-008 -3.09086e-008" continent="world" local_pos="-400 -7.64274e-013 -1.42109e-012" local_rot="3.55271e-015 0 0 1" mesh_variation="lamp_on" name="units/payday2/props/gen_prop_long_lamp/gen_prop_long_lamp_v3_dim" name_id="gen_prop_long_lamp_v3_dim_004" position="1100 800 378" rotation="-0.707107 0.707107 3.09086e-008 -3.09086e-008" unit_id="100178"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 800 378" _prev_rot="-0.707107 0.707107 3.09086e-008 -3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="lamp_on" name="units/payday2/props/gen_prop_long_lamp/gen_prop_long_lamp_v3_dim" name_id="gen_prop_long_lamp_v3_dim_005" position="1400 800 378" rotation="-0.707107 0.707107 3.09086e-008 -3.09086e-008" unit_id="100179"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 400 378" _prev_rot="-0.707107 0.707107 3.09086e-008 -3.09086e-008" continent="world" local_pos="400 7.64274e-013 1.42109e-012" local_rot="3.55271e-015 0 0 1" mesh_variation="lamp_on" name="units/payday2/props/gen_prop_long_lamp/gen_prop_long_lamp_v3_dim" name_id="gen_prop_long_lamp_v3_dim_006" position="1400 400 378" rotation="-0.707107 0.707107 3.09086e-008 -3.09086e-008" unit_id="100180"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 675 250" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_sah/props/sah_prop_hanging_lantern/sah_prop_hanging_lantern_02" name_id="sah_prop_hanging_lantern_02_001" position="1200 675 250" projection_light="ls_spotlight_01" rotation="-0 0 -0 -1" unit_id="100181">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.933333 0.482353 0.266667" enabled="false" falloff_exponent="1" far_range="300" multiplier="@IDbca13ba1d306f87b@" name="ls_spotlight_01" near_range="1" spot_angle_end="89.1619" spot_angle_start="17.0309"/>
+					<table clipping_values="10000 -10000 0" color="0.918 0.588259 0.391986" enabled="false" falloff_exponent="1" far_range="340" multiplier="@IDbca13ba1d306f87b@" name="ls_spotlight_02" near_range="1" spot_angle_end="117.213" spot_angle_start="17.0309"/>
+					<table clipping_values="10000 -10000 0" color="0.918 0.588259 0.391986" enabled="false" falloff_exponent="1" far_range="340" multiplier="@IDbca13ba1d306f87b@" name="ls_spotlight_03" near_range="1" spot_angle_end="105.53" spot_angle_start="17.3695"/>
+				</lights>
+				<projection_textures ls_spotlight_01="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="300 1000 378" _prev_rot="0 1 -3.55271e-015 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="lamp_on" name="units/payday2/props/gen_prop_long_lamp/gen_prop_long_lamp_v3_dim" name_id="gen_prop_long_lamp_v3_dim_007" position="200 1000 378" rotation="0 1 -3.55271e-015 -4.37114e-008" unit_id="100182"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1800 998 32" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_007" only_visible_in_editor="true" position="1800 998 32" rotation="-0 0 -0 -1" unit_id="100183">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.501961 0.45098 0.392157" enabled="true" falloff_exponent="1" far_range="300" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="600 1000 378" _prev_rot="0 1 -3.55271e-015 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="lamp_on" name="units/payday2/props/gen_prop_long_lamp/gen_prop_long_lamp_v3_dim" name_id="gen_prop_long_lamp_v3_dim_008" position="600 1000 378" rotation="0 1 -3.55271e-015 -4.37114e-008" unit_id="100184"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 1000 300" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_008" only_visible_in_editor="true" position="200 1000 300" rotation="-0 0 -0 -1" unit_id="100185">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.901961 0.784314" enabled="true" falloff_exponent="1" far_range="450" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="79.6335 201.469 0" _prev_rot="0 0 0.130526 -0.991445" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_015" position="83.9455 198.243 0" rotation="0 0 0.130526 -0.991445" unit_id="100186"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="81.2121 193.671 75" _prev_rot="0 0 0.0871558 -0.996195" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_016" position="81.2121 193.671 75" rotation="0 0 0.0871558 -0.996195" unit_id="100187"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="195.708 168.195 0" _prev_rot="0 0 -0.771625 -0.636078" continent="world" local_pos="117.165 -30.203 0" local_rot="0 0 0.782608 0.622515" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" name_id="flt_prop_wood_crate_110_003" position="195.219 154.204 0" rotation="0 0 -0.771625 -0.636078" unit_id="100188"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="203.702 150.098 107" _prev_rot="0 0 -0.737278 -0.67559" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" name_id="flt_prop_wood_crate_110_006" position="203.702 150.098 107" rotation="0 0 -0.737278 -0.67559" unit_id="100189"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="143.649 96.1766 214.646" _prev_rot="0 0 0.333807 -0.942641" continent="world" local_pos="67.6511 -103.994 214.646" local_rot="0 0 -0.317305 0.948324" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_017" position="143.16 82.1852 214.646" rotation="0 0 0.333807 -0.942641" unit_id="100190"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1500 400 300" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_010" only_visible_in_editor="true" position="1500 400 300" rotation="-0 0 -0 -1" unit_id="100192">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.901961 0.784314" enabled="true" falloff_exponent="1" far_range="550" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 294.418 992.115" _prev_rot="-0.34202 0 -0 -0.939693" continent="world" local_pos="1600 -205.582 -207.885" local_rot="0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_022" position="1600 294.418 992.115" rotation="-0.34202 0 -0 -0.939693" unit_id="100196"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 294.418 992.115" _prev_rot="-0.34202 0 -0 -0.939693" continent="world" local_pos="1200 -205.582 -207.885" local_rot="0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_023" position="1200 294.418 992.115" rotation="-0.34202 0 -0 -0.939693" unit_id="100197"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 -12 735" _prev_rot="-0.34202 0 -0 -0.939693" continent="world" local_pos="1600 -512 -465" local_rot="0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_024" position="1600 -12 735" rotation="-0.34202 0 -0 -0.939693" unit_id="100198"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 -12 735" _prev_rot="-0.34202 0 -0 -0.939693" continent="world" local_pos="1200 -512 -465" local_rot="0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_025" position="1200 -12 735" rotation="-0.34202 0 -0 -0.939693" unit_id="100199"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 800 1249.23" _prev_rot="0.34202 0 0 -0.939693" continent="world" local_pos="1600 300 49.23" local_rot="-0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_026" position="1600 800 1249.23" rotation="0.34202 0 0 -0.939693" unit_id="100200"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 800 1249.23" _prev_rot="0.34202 0 0 -0.939693" continent="world" local_pos="1200 300 49.23" local_rot="-0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_027" position="1200 800 1249.23" rotation="0.34202 0 0 -0.939693" unit_id="100201"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 1106.42 992.115" _prev_rot="0.34202 0 0 -0.939693" continent="world" local_pos="1200 606.418 -207.885" local_rot="-0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_028" position="1200 1106.42 992.115" rotation="0.34202 0 0 -0.939693" unit_id="100202"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 1106.42 992.115" _prev_rot="0.34202 0 0 -0.939693" continent="world" local_pos="1600 606.418 -207.885" local_rot="-0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_029" position="1600 1106.42 992.115" rotation="0.34202 0 0 -0.939693" unit_id="100203"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 500 1200" _prev_rot="0 0 0 -1" continent="world" local_pos="1200 3.05176e-005 0" local_rot="-0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_018" position="1200 500 1200" rotation="0 0 -0 -1" unit_id="100191"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 500 1200" _prev_rot="0 0 0 -1" continent="world" local_pos="1600 3.05176e-005 0" local_rot="-0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_019" position="1600 500 1200" rotation="0 0 -0 -1" unit_id="100193"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 500 1200" _prev_rot="0 0 0 -1" continent="world" local_pos="400 3.05176e-005 0" local_rot="-0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_020" position="400 500 1200" rotation="0 0 -0 -1" unit_id="100194"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 500 1200" _prev_rot="0 0 0 -1" continent="world" local_pos="800 3.05176e-005 0" local_rot="-0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_021" position="800 500 1200" rotation="0 0 -0 -1" unit_id="100195"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 1249.23" _prev_rot="0.34202 0 0 -0.939693" continent="world" local_pos="800 300 49.23" local_rot="-0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_030" position="800 800 1249.23" rotation="0.34202 0 0 -0.939693" unit_id="100204"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 800 1249.23" _prev_rot="0.34202 0 0 -0.939693" continent="world" local_pos="400 300 49.23" local_rot="-0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_031" position="400 800 1249.23" rotation="0.34202 0 0 -0.939693" unit_id="100205"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1106.42 992.115" _prev_rot="0.34202 0 0 -0.939693" continent="world" local_pos="400 606.418 -207.885" local_rot="-0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_032" position="400 1106.42 992.115" rotation="0.34202 0 0 -0.939693" unit_id="100206"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 1106.42 992.115" _prev_rot="0.34202 0 0 -0.939693" continent="world" local_pos="800 606.418 -207.885" local_rot="-0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_033" position="800 1106.42 992.115" rotation="0.34202 0 0 -0.939693" unit_id="100207"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 -12 735" _prev_rot="-0.34202 0 -0 -0.939693" continent="world" local_pos="800 -512 -465" local_rot="0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_034" position="800 -12 735" rotation="-0.34202 0 -0 -0.939693" unit_id="100208"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 -12 735" _prev_rot="-0.34202 0 -0 -0.939693" continent="world" local_pos="400 -512 -465" local_rot="0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_035" position="400 -12 735" rotation="-0.34202 0 -0 -0.939693" unit_id="100209"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 294.418 992.115" _prev_rot="-0.34202 0 -0 -0.939693" continent="world" local_pos="400 -205.582 -207.885" local_rot="0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_036" position="400 294.418 992.115" rotation="-0.34202 0 -0 -0.939693" unit_id="100210"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 294.418 992.115" _prev_rot="-0.34202 0 -0 -0.939693" continent="world" local_pos="800 -205.582 -207.885" local_rot="0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_037" position="800 294.418 992.115" rotation="-0.34202 0 -0 -0.939693" unit_id="100211"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -12 735" _prev_rot="-0.34202 0 -0 -0.939693" continent="world" local_pos="0 -512 -465" local_rot="0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_038" position="0 -12 735" rotation="-0.34202 0 -0 -0.939693" unit_id="100212"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 294.418 992.115" _prev_rot="-0.34202 0 -0 -0.939693" continent="world" local_pos="0 -205.582 -207.885" local_rot="0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_039" position="0 294.418 992.115" rotation="-0.34202 0 -0 -0.939693" unit_id="100213"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 500 1200" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_040" position="0 500 1200" rotation="-0 0 -0 -1" unit_id="100214"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 800 1249.23" _prev_rot="0.34202 0 0 -0.939693" continent="world" local_pos="0 300 49.23" local_rot="-0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_041" position="0 800 1249.23" rotation="0.34202 0 0 -0.939693" unit_id="100215"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 1106.42 992.115" _prev_rot="0.34202 0 0 -0.939693" continent="world" local_pos="0 606.418 -207.885" local_rot="-0.34202 0 0 0.939693" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_breakable_floor_4m" name_id="zom_int_flesh_breakable_floor_4m_042" position="0 1106.42 992.115" rotation="0.34202 0 0 -0.939693" unit_id="100216"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0.000143051 800 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_029" position="0.000143051 800 800" rotation="0 0 -0.707107 -0.707107" unit_id="100217"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7.15256e-005 1200 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="400 7.15254e-005 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_032" position="7.15256e-005 1200 800" rotation="0 0 -0.707107 -0.707107" unit_id="100218"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 400 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_033" position="0 400 800" rotation="0 0 -0.707107 -0.707107" unit_id="100219"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0.00012207 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_035" position="0 0.00012207 800" rotation="0 0 -0.707107 -0.707107" unit_id="100220"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 800 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_040" position="2000 800 800" rotation="0 0 0.707107 -0.707107" unit_id="100221"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 1200 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="400 4.76837e-005 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_041" position="2000 400 800" rotation="0 0 0.707107 -0.707107" unit_id="100222"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 400 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-400 0.000196457 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_042" position="2000 1200 800" rotation="0 0 0.707107 -0.707107" unit_id="100223"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2000 0.00012207 800" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-800 0.000148773 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_backless" name_id="zom_int_flesh_basement_wall_4m_backless_043" position="2000 1600 800" rotation="0 0 0.707107 -0.707107" unit_id="100224"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m" name_id="zom_int_flesh_basement_wall_4m_002" position="800 800 800" rotation="0 0 0.707107 -0.707107" unit_id="100225"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 800 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m" name_id="zom_int_flesh_basement_wall_4m_004" position="400 800 800" rotation="0 0 0 -1" unit_id="100226"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 800" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m" name_id="zom_int_flesh_basement_wall_4m_007" position="800 400 800" rotation="0 0 0.707107 -0.707107" unit_id="100227"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 800 800" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m" name_id="zom_int_flesh_basement_wall_4m_009" position="0 800 800" rotation="0 0 0 -1" unit_id="100228"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1340.12 632.185 0" _prev_rot="0 0 0.99863 0.0523359" continent="world" local_pos="-0.00372983 0.0008405 0" local_rot="0 0 -0.71934 0.694659" name="units/payday2/props/res_prop_kitchen_table_b_short_worn_grime/res_prop_kitchen_table_b_short_worn_grime" name_id="res_prop_kitchen_table_b_short_worn_grime_001" position="1340.12 632.185 0" rotation="0 0 0.99863 0.0523359" unit_id="100229"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1340.12 632.181 0" _prev_rot="0 0 0.731354 -0.681998" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/res_prop_kitchen_table_b_long_worn_grime/res_prop_kitchen_table_b_long_worn_grime" name_id="res_prop_kitchen_table_b_long_worn_grime_001" position="1340.12 632.181 0" rotation="0 0 0.731354 -0.681998" unit_id="100230"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1407.76 609.7 93.2782" _prev_rot="0.541675 -0.454519 0.706676 0.0246776" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dinner/props/slaughterhouse_butcher_knife/slaughterhouse_butcher_knife" name_id="slaughterhouse_butcher_knife_001" position="1408.7 610.743 93.1058" rotation="0.541675 -0.454519 0.706676 0.0246775" unit_id="100231"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1400.65 582.291 79.5" _prev_rot="0 0 -0.788011 -0.615661" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_1" name_id="bph_prop_blood_1_001" position="1400.65 582.291 79" rotation="0 0 -0.788011 -0.615661" unit_id="100232"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1387.27 431.759 80" _prev_rot="0 0 0.951056 -0.309017" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_smear_02" name_id="bph_prop_blood_smear_02_001" position="1387.27 431.759 80" rotation="0 0 0.951056 -0.309017" unit_id="100233"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1271.35 591.579 80.2782" _prev_rot="0 0 0.99863 0.052336" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_4" name_id="bph_prop_blood_4_001" position="1271.56 593.568 80.2782" rotation="0 0 0.99863 0.052336" unit_id="100234"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1203.55 628.034 145" _prev_rot="0.706138 -0.147016 0.691655 -0.037007" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/slaughterhouse/slaughterhouse_meat_knife/slaughterhouse_meat_knife" name_id="slaughterhouse_meat_knife_001" position="1203.55 628.034 145" rotation="0.706138 -0.147016 0.691655 -0.037007" unit_id="100235"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1406.17 644.642 0" _prev_rot="0 0 0.743145 -0.669131" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01" name_id="bph_prop_blood_footprint_01_001" position="1405.49 647.73 0" rotation="0 0 0.743145 -0.66913" unit_id="100236"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1680.52 648.436 0" _prev_rot="0 0 -0.438371 -0.898794" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_03" name_id="bph_prop_blood_footprint_03_001" position="1680.52 648.436 0" rotation="0 0 -0.438371 -0.898794" unit_id="100237"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1347.51 572.826 79.98" _prev_rot="0 0 0.0436194 -0.999048" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_peta/props/pta_prop_barn_papertowel/pta_prop_barn_papertowel" name_id="pta_prop_barn_papertowel_001" position="1347.51 572.826 79.98" rotation="0 0 0.0436194 -0.999048" unit_id="100238"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1438.68 386.006 0" _prev_rot="0 0 -0.207912 -0.978148" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_03" name_id="bph_prop_blood_footprint_03_002" position="1438.68 386.006 0" rotation="0 0 -0.207912 -0.978148" unit_id="100239"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1794.47 591.953 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_wood_crate_110/flt_prop_wood_crate_110" name_id="flt_prop_wood_crate_110_007" position="1794.47 591.953 0" rotation="0 0 -0.707107 -0.707107" unit_id="100240"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="30 1049 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_berry/props/bry_prop_security_companel/bry_prop_security_companel_b" name_id="bry_prop_security_companel_b_001" position="30 1049 0" rotation="0 0 -0.707107 -0.707107" unit_id="100241"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10 1051 -89" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_berry/props/bry_prop_security_companel/bry_prop_security_companel_b" name_id="bry_prop_security_companel_b_002" position="-10 1051 -89" rotation="0 0 0.707107 -0.707107" unit_id="100242"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="51 919 0" _prev_rot="0 0 -0.777146 -0.62932" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_018" position="51 919 0" rotation="0 0 -0.777146 -0.62932" unit_id="100243"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="51 919 75" _prev_rot="0 0 -0.793353 -0.608761" continent="world" local_pos="0 0 75" local_rot="0 0 0.0261769 0.999657" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_019" position="51 919 75" rotation="0 0 -0.793353 -0.608761" unit_id="100244"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="63.6418 1145.51 0" _prev_rot="0 0 -0.061049 -0.998135" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" name_id="chw_prop_shipping_box_pallet_020" position="63.6418 1145.51 0" rotation="0 0 -0.0349 -0.999391" unit_id="100245"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 3.49691e-005 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_vent" name_id="zom_int_flesh_basement_wall_4m_vent_001" position="1200 3.49691e-005 0" rotation="0 0 1 -4.37114e-008" unit_id="100028"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_001" position="0 400 0" rotation="0 0 0 -1" unit_id="100043"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_002" position="0 0 0" rotation="0 0 0 -1" unit_id="100042"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 0 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_003" position="400 0 0" rotation="0 0 0 -1" unit_id="100046"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_004" position="400 400 0" rotation="0 0 0 -1" unit_id="100047"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 0 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_005" position="800 0 0" rotation="0 0 0 -1" unit_id="100050"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_006" position="800 400 0" rotation="0 0 0 -1" unit_id="100051"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 0 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_007" position="1200 0 0" rotation="0 0 0 -1" unit_id="100053"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_008" position="1200 400 0" rotation="0 0 0 -1" unit_id="100052"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1200 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_009" position="1200 800 0" rotation="0 0 0 -1" unit_id="100049"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="800 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_010" position="800 800 0" rotation="0 0 0 -1" unit_id="100044"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_011" position="1600 800 0" rotation="0 0 0 -1" unit_id="100108"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 400 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_012" position="1600 400 0" rotation="0 0 0 -1" unit_id="100107"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1600 0 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_013" position="1600 0 0" rotation="0 0 0 -1" unit_id="100106"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_014" position="400 800 0" rotation="0 0 0 -1" unit_id="100045"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 800 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_floor_4x4m" name_id="zom_int_flesh_basement_floor_4x4m_015" position="0 800 0" rotation="0 0 0 -1" unit_id="100048"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1200 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_4m_vent" name_id="zom_int_flesh_basement_wall_4m_vent_002" position="400 1200 0" rotation="-0 0 -0 -1" unit_id="100040"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 1200 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_zm_cabinflesh/architecture/cabin_int/zom_int_flesh_basement_wall_support_4m" name_id="zom_int_flesh_basement_wall_support_4m_011" position="400 1200 0" rotation="-0 0 -0 -1" unit_id="100154"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
