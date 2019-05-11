@@ -3049,7 +3049,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="3500 1925 0"/>
+					<entry key="position" type="vector3" value="3500 1950 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="trigger_list" type="table">
 						<entry index="1" type="table">
@@ -3081,7 +3081,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="operation" type="string" value="remove"/>
-					<entry key="position" type="vector3" value="3500 2025 0"/>
+					<entry key="position" type="vector3" value="3500 2050 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -3106,7 +3106,7 @@
 							<entry key="id" type="number" value="100108"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="3500 2025 100"/>
+					<entry key="position" type="vector3" value="3500 2050 100"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -3128,7 +3128,7 @@
 						</entry>
 					</entry>
 					<entry key="override_timer" type="number" value="-1"/>
-					<entry key="position" type="vector3" value="3600 2025 110"/>
+					<entry key="position" type="vector3" value="3600 2050 110"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="tweak_data_id" type="string" value="zm_open_path_750"/>
@@ -3146,7 +3146,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="5525 1100 400"/>
+					<entry key="position" type="vector3" value="5350 1100 400"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="trigger_list" type="table">
 						<entry index="1" type="table">
@@ -3178,7 +3178,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="operation" type="string" value="remove"/>
-					<entry key="position" type="vector3" value="5525 1200 400"/>
+					<entry key="position" type="vector3" value="5350 1200 400"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -3203,7 +3203,7 @@
 							<entry key="id" type="number" value="100112"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="5525 1200 500"/>
+					<entry key="position" type="vector3" value="5350 1200 500"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -3225,7 +3225,7 @@
 						</entry>
 					</entry>
 					<entry key="override_timer" type="number" value="-1"/>
-					<entry key="position" type="vector3" value="5625 1200 510"/>
+					<entry key="position" type="vector3" value="5250 1200 510"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="tweak_data_id" type="string" value="zm_open_path_1500"/>
@@ -3327,7 +3327,7 @@
 						</entry>
 					</entry>
 					<entry key="override_timer" type="number" value="-1"/>
-					<entry key="position" type="vector3" value="4675 100.001 110"/>
+					<entry key="position" type="vector3" value="4225 100.001 110"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="tweak_data_id" type="string" value="zm_open_path_1250"/>
@@ -3350,7 +3350,7 @@
 						</entry>
 					</entry>
 					<entry key="override_timer" type="number" value="-1"/>
-					<entry key="position" type="vector3" value="5225 100.001 535"/>
+					<entry key="position" type="vector3" value="4875 100.001 535"/>
 					<entry key="rotation" type="quaternion" value="-0 -0 0.707107 -0.707107"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="tweak_data_id" type="string" value="zm_open_path_1250"/>
