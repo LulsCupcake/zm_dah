@@ -20,13 +20,14 @@
 		</sequence>
 		<sequence editable_state="true" name="'hide'" triggable="true">
 			<graphic_group name="'decal'" visibility="false"/>
+			<run_sequence name="'disable_interaction'"/>
 		</sequence>
 		
 		<sequence editable_state="true" name="'disable_interaction'" triggable="true">
-			<interaction enabled="true"/>
+			<interaction enabled="false"/>
 		</sequence>
 		<sequence editable_state="true" name="'enable_interaction'" triggable="true">
-			<interaction enabled="false"/>
+			<interaction enabled="true"/>
 		</sequence>
 		
 		<sequence editable_state="false" name="'seq_decal_wide'" triggable="false">
@@ -42,7 +43,10 @@
 			<object enabled="false"	name="'g_glow_wide'"/>
 		</sequence>
 
-		<sequence editable_state="true" name="'interact'" triggable="true"/>
+		<sequence editable_state="true" name="'interact'" triggable="true">
+			<run_sequence name="'hide'"/>
+		</sequence>
+
 
 		<!--SET LEVEL-->
 		<sequence editable_state="true" name="'set_level_classics'" triggable="true">
