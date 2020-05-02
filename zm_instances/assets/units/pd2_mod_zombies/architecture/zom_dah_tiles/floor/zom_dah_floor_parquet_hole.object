@@ -4,13 +4,12 @@
     <bodies>
         <body enabled="true" template="static" name="static_body" >
             <object name="rp_root" />
-            <object name="co_culling" />
-            <object name="c_box_001" collision_type="box" padding="-2.5" />
-            <object name="c_box_002" collision_type="box" padding="-2.5" />
-            <object name="c_box_003" collision_type="box" padding="-2.5" />
-            <object name="c_box_004" collision_type="box" padding="-2.5" />
-            <object name="c_box_005" collision_type="box" padding="-2.5" />
-            <object name="c_box_006" collision_type="box" padding="-2.5" />
+            <object name="g_floor" collision_type="mesh_mopp" padding="-2.5" />
+        </body>
+        <body enabled="true" template="static" name="body_broken" >
+            <object name="rp_root" />
+            <object name="g_floor_hole" collision_type="mesh_mopp" padding="-2.5" />
+            <object name="g_hole" collision_type="mesh_mopp" padding="-2.5" />
         </body>
     </bodies>
 	<decal_surfaces default_material="wood">
@@ -22,6 +21,11 @@
 		<graphic_group name="floor" culling_object="co_culling" enabled="true">
 			<object name="g_floor"		enabled="true"	shadow_caster="true"/>
 			<object name="g_floor_hole"	enabled="false"	shadow_caster="true"/>
+			<object name="g_hole"		enabled="false"	shadow_caster="true"/>
+		</graphic_group>
+		<graphic_group name="floor_hole" culling_object="co_culling" enabled="true">
+			<object name="g_floor"		enabled="false"	shadow_caster="true"/>
+			<object name="g_floor_hole"	enabled="true"	shadow_caster="true"/>
 			<object name="g_hole"		enabled="true"	shadow_caster="true"/>
 		</graphic_group>
 	</graphics>

@@ -8,15 +8,16 @@
         </body>
     </bodies>
 	<decal_surfaces default_material="wood">
-		<decal_mesh name="g_floor_a" enabled="true" material="wood" />
-		<decal_mesh name="g_floor_b" enabled="true" material="marble" />
-		<decal_mesh name="g_floor_c" enabled="true" material="sheet_metal" />
+		<decal_mesh name="g_floor_in2.002" enabled="true" material="wood" />
+		<decal_mesh name="g_floor_in2.001" enabled="true" material="marble" />
+		<decal_mesh name="g_floor_in2" enabled="true" material="sheet_metal" />
 	</decal_surfaces>
 	<graphics>
 		<graphic_group name="floor" culling_object="co_culling" enabled="true">
-			<object name="g_floor_a" enabled="true" shadow_caster="true"/>
-			<object name="g_floor_b" enabled="true" shadow_caster="true"/>
-			<object name="g_floor_c" enabled="true" shadow_caster="true"/>
+			<object name="g_floor_in2.002" enabled="true" shadow_caster="true"/>
+			<object name="g_floor_in2.001" enabled="true" shadow_caster="true"/>
+			<object name="g_floor_in2" enabled="true" shadow_caster="true"/>
+		</graphic_group>
 		</graphic_group>
 	</graphics>
 </dynamic_object>
