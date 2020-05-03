@@ -1,7 +1,7 @@
 <materials version="3">
 	<material name="mtl_decal" render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE" version="2">
 		<variable value="dimlight" type="scalar" name="intensity"/>
-        <diffuse_texture file="guis/textures/pd2/blackmarket/icons/weapons/outline/m95"/>
+        <diffuse_texture file="guis/textures/pd2/blackmarket/icons/weapons/outline/p90"/>
     </material>
     <material name="mtl_glow"		render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE" version="2">
         <variable value="dimlight" type="scalar" name="intensity"/>

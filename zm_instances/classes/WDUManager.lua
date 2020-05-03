@@ -533,6 +533,7 @@ end
 
 function WDUManager:_get_weapons_in_mystery_box()
     return {
+		"wpn_fps_spe_raygun",
         "wpn_fps_spe_wunderwaffe",
 		"wpn_fps_ass_m14",
 		"wpn_fps_shot_b682",
@@ -557,7 +558,7 @@ function WDUManager:_get_weapons_in_mystery_box()
 		"wpn_fps_spe_rpg7",
         "wpn_fps_smg_tec9",
         "wpn_fps_sho_deamon",
-        "wpn_fps_bow_elastic",
+        "wpn_fps_spe_ray",
         "wpn_fps_pis_1911",
         "wpn_fps_ass_g3",
         "wpn_fps_ass_tar21",
