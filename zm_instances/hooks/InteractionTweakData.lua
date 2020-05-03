@@ -247,291 +247,486 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		timer = 0.5,
 	}
 	
-	self.zm_wall_buy_1911 = {
-		zm_interaction = true,
-		weapon = "Colt 1911",
-		weapon_id = "col_1911",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_amcar = {
-		zm_interaction = true,
-		weapon = "Amcar",
-		weapon_id = "amcar",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_aug = {
-		zm_interaction = true,
-		weapon = "UAR",
-		weapon_id = "aug",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_breech = {
-		zm_interaction = true,
-		weapon = "Parabellum",
-		weapon_id = "breech",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_deagle = {
-		zm_interaction = true,
-		weapon = "Deagle",
-		weapon_id = "deagle",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_flint = {
-		zm_interaction = true,
-		weapon = "AK17",
-		weapon_id = "flint",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_g3 = {
-		zm_interaction = true,
-		weapon = "Gewehr 3",
-		weapon_id = "g3",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_g22c = {
-		zm_interaction = true,
-		weapon = "Chimano Custom",
-		weapon_id = "g22c",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_hk21 = {
-		zm_interaction = true,
-		weapon = "Brenner 21",
-		weapon_id = "hk21",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_judge = {
-		zm_interaction = true,
-		weapon = "Judge",
-		weapon_id = "judge",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_m16 = {
-		zm_interaction = true,
-		weapon = "AMR-16",
-		weapon_id = "m16",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_m95 = {
-		zm_interaction = true,
-		weapon = "Thanatos .50 cal",
-		weapon_id = "m95",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
+	self.zm_wall_buy_box_ray = {
+        zm_interaction = true,
+        weapon = "Commando 101",
+        weapon_id = "ray",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+    
+    self.zm_wall_buy_box_m14 = {
+        zm_interaction = true,
+        weapon = "M308 Rifle",
+        weapon_id = "new_m14",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+    
+    self.zm_wall_buy_box_raygun = {
+        zm_interaction = true,
+        weapon = "Raygun",
+        weapon_id = "raygun",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
 
-	self.zm_wall_buy_m249 = {
-		zm_interaction = true,
-		weapon = "KSP",
-		weapon_id = "m249",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_p90 = {
-		zm_interaction = true,
-		weapon = "Kobus 90",
-		weapon_id = "p90",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_packrat = {
-		zm_interaction = true,
-		weapon = "Contractor",
-		weapon_id = "packrat",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_par = {
-		zm_interaction = true,
-		weapon = "KSP 58",
-		weapon_id = "par",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_rage = {
-		zm_interaction = true,
-		weapon = "Bronco .44",
-		weapon_id = "new_raging_bull",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_rpg9 = {
-		zm_interaction = true,
-		weapon = "HRL-7",
-		weapon_id = "rpg7",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_scar = {
-		zm_interaction = true,
-		weapon = "Eagle Heavy",
-		weapon_id = "scar",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
+    self.zm_wall_buy_box_joceline = {
+        zm_interaction = true,
+        weapon = "Joceline Shotgun",
+        weapon_id = "b682",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
 
-	self.zm_wall_buy_tar21 = {
-		zm_interaction = true,
-		weapon = "Union 5.56",
-		weapon_id = "corgi",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_thompson = {
-		zm_interaction = true,
-		weapon = "Chicago Typewriter",
-		weapon_id = "m1928",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
-	
-	self.zm_wall_buy_wunderwaffe = {
-		zm_interaction = true,
-		weapon = "wunderwaffe DG-2",
-		weapon_id = "wunderwaffe",
-		points_cost = 0,
-		stay_active = true,
-		action_text_id = "zm_buy_weapon",
-		start_active = false,
-		sound_done = "bar_rescue",
-		axis = "y",
-		timer = 0.5,
-	}
+    self.zm_wall_buy_box_r870 = {
+        zm_interaction = true,
+        weapon = "Reinfeld 880 Shotgun",
+        weapon_id = "r870",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+
+    self.zm_wall_buy_box_57 = {
+        zm_interaction = true,
+        weapon = "5/7 Pistol",
+        weapon_id = "lemming",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+
+    self.zm_wall_buy_box_ump45 = {
+        zm_interaction = true,
+        weapon = "Jackal SMG",
+        weapon_id = "schakal",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+
+    self.zm_wall_buy_box_m37 = {
+        zm_interaction = true,
+        weapon = "GSPS Shotgun",
+        weapon_id = "m37",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+
+        self.zm_wall_buy_box_tec9 = {
+        zm_interaction = true,
+        weapon = "Blaster 9mm",
+        weapon_id = "tec9",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+    
+    self.zm_wall_buy_box_mp9 = {
+        zm_interaction = true,
+        weapon = "MP9 Submachine Gun",
+        weapon_id = "mp9",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+
+    self.zm_wall_buy_box_ak47 = {
+        zm_interaction = true,
+        weapon = "AK Rifle",
+        weapon_id = "ak74",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+    
+    self.zm_wall_buy_box_fal = {
+        zm_interaction = true,
+        weapon = "Falcon",
+        weapon_id = "fal",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+    
+    self.zm_wall_buy_box_mosin = {
+        zm_interaction = true,
+        weapon = "Nagant",
+        weapon_id = "mosin",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5
+    }
+
+    self.zm_wall_buy_box_mp40 = {
+        zm_interaction = true,
+        weapon = "MP40 SMG",
+        weapon_id = "erma",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+
+    self.zm_wall_buy_box_garand = {
+        zm_interaction = true,
+        weapon = "Galant Rifle",
+        weapon_id = "ching",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_1911 = {
+        zm_interaction = true,
+        weapon = "Colt 1911",
+        weapon_id = "col_1911",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_amcar = {
+        zm_interaction = true,
+        weapon = "Amcar",
+        weapon_id = "amcar",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_aug = {
+        zm_interaction = true,
+        weapon = "UAR",
+        weapon_id = "aug",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_breech = {
+        zm_interaction = true,
+        weapon = "Parabellum",
+        weapon_id = "breech",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_deagle = {
+        zm_interaction = true,
+        weapon = "Deagle",
+        weapon_id = "deagle",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_flint = {
+        zm_interaction = true,
+        weapon = "AK17",
+        weapon_id = "flint",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_g3 = {
+        zm_interaction = true,
+        weapon = "Gewehr 3",
+        weapon_id = "g3",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_g22c = {
+        zm_interaction = true,
+        weapon = "Chimano Custom",
+        weapon_id = "g22c",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_hk21 = {
+        zm_interaction = true,
+        weapon = "Brenner 21",
+        weapon_id = "hk21",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_judge = {
+        zm_interaction = true,
+        weapon = "Judge",
+        weapon_id = "judge",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_m16 = {
+        zm_interaction = true,
+        weapon = "AMR-16",
+        weapon_id = "m16",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_m95 = {
+        zm_interaction = true,
+        weapon = "Thanatos .50 cal",
+        weapon_id = "m95",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+
+    self.zm_wall_buy_box_m249 = {
+        zm_interaction = true,
+        weapon = "KSP",
+        weapon_id = "m249",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_p90 = {
+        zm_interaction = true,
+        weapon = "Kobus 90",
+        weapon_id = "p90",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_packrat = {
+        zm_interaction = true,
+        weapon = "Contractor",
+        weapon_id = "packrat",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_par = {
+        zm_interaction = true,
+        weapon = "KSP 58",
+        weapon_id = "par",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_rage = {
+        zm_interaction = true,
+        weapon = "Bronco .44",
+        weapon_id = "new_raging_bull",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_rpg9 = {
+        zm_interaction = true,
+        weapon = "HRL-7",
+        weapon_id = "rpg7",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_scar = {
+        zm_interaction = true,
+        weapon = "Eagle Heavy",
+        weapon_id = "scar",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+
+    self.zm_wall_buy_box_tar21 = {
+        zm_interaction = true,
+        weapon = "Union 5.56",
+        weapon_id = "corgi",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_thompson = {
+        zm_interaction = true,
+        weapon = "Chicago Typewriter",
+        weapon_id = "m1928",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+    
+    self.zm_wall_buy_box_wunderwaffe = {
+        zm_interaction = true,
+        weapon = "wunderwaffe DG-2",
+        weapon_id = "wunderwaffe",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
 
 	self.zm_wall_buy_nades = {
 		zm_interaction = true,
@@ -604,7 +799,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		points_cost = 950,
 		action_text_id = "zm_buy_weapon",
 		start_active = false,
-		axis = "y",
+		axis = "x",
 		timer = 0.5
 	}
 
