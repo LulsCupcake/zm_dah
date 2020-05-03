@@ -5,7 +5,7 @@
 		<extension name="unit_data" class="ScriptUnitData" />
 		<extension name="damage" class="UnitDamage" />
 		<extension name="interaction" class="UseInteractionExt">
-			<var name="tweak_data" value="zm_wall_buy_mosin" />
+			<var name="tweak_data" value="zm_wall_buy_box_ray" />
 		</extension>	
 	</extensions>
 </unit>
