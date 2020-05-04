@@ -1,4 +1,4 @@
-local TRAIL_EFFECT = Idstring("units/pd2_mod_zombies/effects/particles/weapons/sniper_trail")
+local TRAIL_EFFECT = Idstring("effects/particles/weapons/sniper_trail")
 local idstr_trail = Idstring("trail")
 local idstr_simulator_length = Idstring("simulator_length")
 local idstr_size = Idstring("size")
