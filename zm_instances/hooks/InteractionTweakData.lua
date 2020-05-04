@@ -663,7 +663,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
         timer = 0.5,
     }
     
-    self.zm_wall_buy_box_rpg9 = {
+    self.zm_wall_buy_box_rpg7 = {
         zm_interaction = true,
         weapon = "HRL-7",
         weapon_id = "rpg7",
@@ -691,8 +691,8 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_tar21 = {
         zm_interaction = true,
-        weapon = "Union 5.56",
-        weapon_id = "corgi",
+        weapon = "Tempest 21",
+        weapon_id = "komodo",
         points_cost = 0,
         stay_active = false,
         action_text_id = "zm_buy_weapon",
@@ -719,6 +719,19 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
         zm_interaction = true,
         weapon = "wunderwaffe DG-2",
         weapon_id = "wunderwaffe",
+        points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "bar_rescue",
+        axis = "y",
+        timer = 0.5,
+    }
+
+    self.zm_wall_buy_box_striker = {
+        zm_interaction = true,
+        weapon = "Street Sweeper",
+        weapon_id = "striker",
         points_cost = 0,
         stay_active = false,
         action_text_id = "zm_buy_weapon",
