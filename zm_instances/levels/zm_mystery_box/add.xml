@@ -24,6 +24,7 @@
 	</add>
 	<add path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" type="unit">
 		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_b682" unload="true"/>
+		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_boot" unload="true"/>
 		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_mosin" unload="true"/>
 		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_m14" unload="true"/>
 		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_raygun" unload="true"/>
