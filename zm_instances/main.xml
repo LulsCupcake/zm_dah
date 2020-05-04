@@ -155,6 +155,7 @@
 			<file file="editor_only/editor_only.continent" type="binary"/>
 			<file file="editor_only/editor_only.mission" type="binary"/>
 			<file file="cover_data.cover_data" type="binary"/>
+			<file file="environments/dah_special.environment" type="custom_xml"/>
 			<file file="environments/default.environment" type="custom_xml"/>
 		</include>
 		<packages>
@@ -820,6 +821,7 @@
 			<table level_id="zm_dah" type="d" type_id="heist_type_assault"/>
 			<table level_id="zm_dah_elevator" type="d" type_id="heist_type_assault"/>
 			<table level_id="zm_mystery_box" type="d" type_id="heist_type_assault"/>
+			<table level_id="zm_gameplay_controller" type="d" type_id="heist_type_assault"/>
 		</chain>
 		<crimenet_callouts>
 			<value_node value="nothing"/>
