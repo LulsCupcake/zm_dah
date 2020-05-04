@@ -1515,9 +1515,9 @@
 		<unit force="true" path="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_exterior" unload="true"/>
 	</add>
 	<add path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" type="unit">
-		<unit path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" unload="true"/>
-		<object path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" unload="true"/>
 		<material_config path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" unload="true"/>
+		<object path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" unload="true"/>
+		<unit path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" unload="true"/>
 	</add>
 	<movie path="movies/ascension"/>
 	<sequence_manager path="units/sora/shoot_at_trigger/shoot_at_shared"/>

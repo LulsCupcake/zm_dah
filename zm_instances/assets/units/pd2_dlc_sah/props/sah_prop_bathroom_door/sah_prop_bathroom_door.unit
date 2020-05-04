@@ -1,0 +1,8 @@
+<unit type="sah" slot="1">
+	<object file="units/pd2_dlc_sah/props/sah_prop_bathroom_door/sah_prop_bathroom_door" />
+	<network sync="spawn"/>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+	</extensions>
+</unit>

@@ -1,0 +1,10 @@
+<materials version="3">
+	<material name="mat_bathroom_door" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_mcmansion/props/mcm_prop_hallway_wooden_doors/mcm_prop_hallway_door_wooden_white_df"  mip="1"/>
+		<bump_normal_texture file="units/pd2_mcmansion/props/mcm_prop_hallway_wooden_doors/mcm_prop_hallway_door_wooden_nm"  mip="1"/>
+	</material>
+	<material name="mat_door_frame" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_mcmansion/props/mcm_prop_hallway_wooden_doors/mcm_prop_hallway_door_wooden_df"  mip="1"/>
+		<bump_normal_texture file="units/pd2_mcmansion/props/mcm_prop_hallway_wooden_doors/mcm_prop_hallway_door_wooden_nm"  mip="1"/>
+	</material>
+</materials>
