@@ -33,6 +33,88 @@ Hooks:PostHook(WeaponTweakData, "_init_new_weapons", "zm_init_new_weapons", func
 		concealment = 30
     }
 
+     self.wunderwaffe_primary = deep_clone(self.wa2000)
+    self.wunderwaffe_primary.name_id = "wpn_waffe_name"
+    self.wunderwaffe_primary.AMMO_PICKUP = {0, 0}
+    self.wunderwaffe_primary.CLIP_AMMO_MAX = 3
+    self.wunderwaffe_primary.NR_CLIPS_MAX = 6
+    self.wunderwaffe_primary.AMMO_MAX = self.wunderwaffe_primary.CLIP_AMMO_MAX * self.wunderwaffe_primary.NR_CLIPS_MAX
+    self.wunderwaffe_primary.FIRE_MODE = "single"
+    self.wunderwaffe_primary.CAN_TOGGLE_FIREMODE = false
+    self.wunderwaffe_primary.single = {fire_rate = 1}
+    self.wunderwaffe_primary.fire_mode_data = {fire_rate = 1}
+    self.wunderwaffe_primary.stats_modifiers = {damage = 1500}
+    self.wunderwaffe_primary.muzzleflash = "units/pd2_mod_zombies/effects/particles/weapons/wunder_fire"
+    self.wunderwaffe_primary.shell_ejection = "effects/payday2/particles/weapons/shells/shell_empty"
+    self.wunderwaffe_primary.sounds.fire = "wunderwaffe_fire"
+    self.wunderwaffe_primary.sounds.fire_single = "wunderwaffe_fire"
+    self.wunderwaffe_primary.sounds.dryfire = nil
+    self.wunderwaffe_primary.timers = {
+		reload_not_empty = 6,
+		reload_empty = 6,
+		unequip = 1,
+		equip = 1
+	}
+    self.wunderwaffe_primary.animations.reload_name_id = "wa2000"
+    self.wunderwaffe_primary.weapon_hold = "wa2000"
+    self.wunderwaffe_primary.can_shoot_through_wall = false
+    self.wunderwaffe_primary.can_shoot_through_enemy = false
+
+    self.wunderwaffe_secondary = deep_clone(self.wunderwaffe_primary)
+    self.wunderwaffe_secondary.use_data = {selection_index = 1}
+
+    self.wunderwaffe_dg3_primary = deep_clone(self.wunderwaffe_primary)
+    self.wunderwaffe_dg3_primary.name_id = "wpn_waffe_upg_name"
+    self.wunderwaffe_dg3_primary.CLIP_AMMO_MAX = 6
+    self.wunderwaffe_dg3_primary.muzzleflash = "units/pd2_mod_zombies/effects/particles/weapons/wunder_dg3_fire"
+    self.wunderwaffe_dg3_primary.NR_CLIPS_MAX = 6
+    self.wunderwaffe_dg3_primary.AMMO_MAX = self.wunderwaffe_dg3_primary.CLIP_AMMO_MAX * self.wunderwaffe_dg3_primary.NR_CLIPS_MAX
+    self.wunderwaffe_dg3_primary.timers = {
+		reload_not_empty = 4.7,
+		reload_empty = 4.7,
+		unequip = 1,
+		equip = 1
+	}
+    self.wunderwaffe_dg3_secondary = deep_clone(self.wunderwaffe_dg3_primary)
+    self.wunderwaffe_dg3_secondary.use_data = {selection_index = 1}
+
+    self.waffle_prim_crew = {
+        usage = "is_sniper",
+		anim_usage = "is_bullpup",
+		sounds = {},
+		use_data = {},
+		auto = {}
+    }
+    self.waffle_prim_crew.categories = clone(self.wa2000.categories)
+	self.waffle_prim_crew.sounds.prefix = "lakner_npc"
+	self.waffle_prim_crew.use_data.selection_index = PRIMARY
+	self.waffle_prim_crew.DAMAGE = 1
+	self.waffle_prim_crew.muzzleflash = "units/pd2_mod_zombies/effects/particles/weapons/wunder_fire"
+	self.waffle_prim_crew.muzzleflash_silenced = "units/pd2_mod_zombies/effects/particles/weapons/wunder_fire"
+	self.waffle_prim_crew.shell_ejection = "effects/payday2/particles/weapons/shells/shell_empty"
+	self.waffle_prim_crew.CLIP_AMMO_MAX = 3
+	self.waffle_prim_crew.NR_CLIPS_MAX = 6
+	self.waffle_prim_crew.auto.fire_rate = 0.5
+	self.waffle_prim_crew.hold = {
+		"bullpup",
+		"rifle"
+	}
+	self.waffle_prim_crew.alert_size = 5000
+	self.waffle_prim_crew.suppression = 1
+    self.waffle_prim_crew.FIRE_MODE = "single"
+    
+    self.waffle_seco_crew = clone(self.waffle_prim_crew)
+    self.waffle_seco_crew.use_data.selection_index = SECONDARY
+
+    self.waffle_dg3_prim_crew = clone(self.waffle_prim_crew)
+    self.waffle_dg3_prim_crew.muzzleflash = "units/pd2_mod_zombies/effects/particles/weapons/wunder_dg3_fire"
+    self.waffle_dg3_prim_crew.muzzleflash_silenced = "units/pd2_mod_zombies/effects/particles/weapons/wunder_dg3_fire"
+    self.waffle_dg3_prim_crew.CLIP_AMMO_MAX = 6
+    self.waffle_dg3_prim_crew.NR_CLIPS_MAX = 6
+    
+    self.waffle_dg3_seco_crew = clone(self.waffle_dg3_prim_crew)
+    self.waffle_dg3_seco_crew.use_data.selection_index = SECONDARY
+
     self:_init_zm_new_weapons()
 end)
 
