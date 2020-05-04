@@ -29,6 +29,16 @@
 		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap" unload="true"/>
 	</add>
+	<add unload_on_restart="true">
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_deadshot/body" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_deadshot/glass" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_deadshot/logo" unload="true"/>
+		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_deadshot/zm_perk_machine_deadshot" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_deadshot/zm_perk_machine_deadshot" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_deadshot/zm_perk_machine_deadshot" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_deadshot/zm_perk_machine_deadshot" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_deadshot/zm_perk_machine_deadshot" unload="true"/>
+	</add>
 	<add path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch" type="unit">
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch_df" unload="true"/>
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch_gsma" unload="true"/>
