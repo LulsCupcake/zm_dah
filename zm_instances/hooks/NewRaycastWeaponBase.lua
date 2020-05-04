@@ -80,10 +80,10 @@ Hooks:PostHook(NewRaycastWeaponBase, "init", "Waffe_AddBulletTrail", function(se
 	for k, v in pairs(allowed_weapons) do
 		if self._name_id == v then
 
-			self.TRAIL_EFFECT = Idstring("effects/particles/weapons/shovel")
+			self.TRAIL_EFFECT = Idstring("units/pd2_mod_zombies/effects/particles/weapons/shovel")
 
 			if v == "wunderwaffe_dg3_primary" or v == "wunderwaffe_dg3_secondary" then
-				self.TRAIL_EFFECT = Idstring("effects/particles/weapons/super_shovel")
+				self.TRAIL_EFFECT = Idstring("units/pd2_mod_zombies/effects/particles/weapons/super_shovel")
 			end
 
 			self._trail_effect_table = {

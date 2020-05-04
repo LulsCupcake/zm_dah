@@ -13,26 +13,26 @@ function safe_spawn_unit(unit_name, ...)
     end
 
     if managers and managers.wdu then
-        if unit_name == Idstring("units/pd2_dlc_hvh/characters/ene_spook_hvh_1/ene_spook_hvh_1") or unit_name == Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_1/ene_bulldozer_hvh_1") or unit_name == Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_2/ene_bulldozer_hvh_2") or unit_name == Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_3/ene_bulldozer_hvh_3") or unit_name == Idstring("units/pd2_dlc_help/characters/ene_zeal_bulldozer_halloween/ene_zeal_bulldozer_halloween") or unit_name == Idstring("units/pd2_dlc_uno/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1") then
+        if unit_name == Idstring("units/pd2_dlc_hvh/characters/ene_spook_hvh_1/ene_spook_hvh_1") or unit_name == Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_1/ene_bulldozer_hvh_1") or unit_name == Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_2/ene_bulldozer_hvh_2") or unit_name == Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_3/ene_bulldozer_hvh_3") or unit_name == Idstring("units/pd2_dlc_help/characters/ene_zeal_bulldozer_halloween/ene_zeal_bulldozer_halloween") or unit_name == Idstring("units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1") then
             if Network:is_server() and not managers.wdu:_is_solo() then
                 LuaNetworking:SendToPeers("SpecialWave_SpawnPosition", vector_to_string(pos))
             end
 
             if pos then
                 World:effect_manager():spawn({
-                    effect = Idstring("effects/zm/zm_special_spawn"),
+                    effect = Idstring("units/pd2_mod_zombies/effects/zm/zm_special_spawn"),
                     position = pos
                 })
             end
 
-            if unit_name == Idstring("units/pd2_dlc_uno/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1") then
+            if unit_name == Idstring("units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1") then
                 if Network:is_server() and not managers.wdu:_is_solo() then
                     LuaNetworking:SendToPeers("SpecialWave_PlayShadowSpook", vector_to_string(pos))
                 end
                 managers.wdu:_element_play_sound({
-                    name = "play_shadow_spook",
-                    custom_dir = "sound/shadowow",
-                    file_name = "post_mortem.ogg",
+                    name = "zm_ene_shadow_scream_01",
+                    custom_dir = "units/pd2_mod_zombies/sounds/zm_enemy/shadow",
+                    file_name = "zm_ene_shadow_scream_01.ogg",
                     is_loop = false,
                     is_relative = false,
                     is_3d = true,
@@ -41,9 +41,9 @@ function safe_spawn_unit(unit_name, ...)
             end
 
             managers.wdu:_element_play_sound({
-                name = "play_sound_spawn",
-                custom_dir = "sound",
-                file_name = "special_spawn.ogg",
+                name = "zm_enemy_spawn_electrical",
+                file_name = "zm_enemy_spawn_electrical.ogg",
+                custom_dir = "units/pd2_mod_zombies/sounds/zm_enemy/spawning",
                 is_loop = false,
                 is_relative = false
             })

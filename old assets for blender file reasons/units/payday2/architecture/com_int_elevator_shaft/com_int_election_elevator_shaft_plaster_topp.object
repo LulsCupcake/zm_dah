@@ -1,0 +1,19 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_int_election_elevator_shaft_plaster_topp" materials="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_shaft" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+			<object name="rp_com_int_election_elevator_shaft_plaster_topp" />
+			<object name="c_box_01" collision_type="box" padding="-2.5"/>
+			<object name="c_box_02" collision_type="box" padding="-2.5"/>
+			<object name="c_box_03" collision_type="box" padding="-2.5"/>
+			<object name="c_box_04" collision_type="box" padding="-2.5"/>
+			<object name="c_box_05" collision_type="box" padding="-2.5"/>
+        </body>
+    </bodies>
+    <decal_surfaces>
+        <decal_mesh enabled="true" name="dm_plaster" material="concrete" />
+    </decal_surfaces>
+    <graphics>
+        <object enabled="true" name="g_plaster" />
+    </graphics>
+</dynamic_object>

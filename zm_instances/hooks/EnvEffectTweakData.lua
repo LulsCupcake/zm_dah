@@ -1,4 +1,4 @@
---[[function EnvEffectTweakData:incendiary_fire_arbiter()
+function EnvEffectTweakData:incendiary_fire_arbiter()
 	local params = {
 		sound_event = "gl_explode",
 		range = 100,
@@ -11,7 +11,7 @@
 		sound_event_impact_duration = 10,
 		burn_tick_period = 0.25,
 		burn_duration = 10,
-		effect_name = "effects/zm/pinkhaze",
+		effect_name = "units/pd2_mod_zombies/effects/zm/pinkhaze",
 		fire_dot_data = {
 			dot_trigger_chance = 100,
 			dot_damage = 100,
@@ -22,4 +22,4 @@
 	}
 
 	return params
-end]]
+end

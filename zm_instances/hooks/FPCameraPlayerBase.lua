@@ -5,7 +5,7 @@ end)
 Hooks:PostHook(FPCameraPlayerBase, "update", "zm_upd_zm_blood_smoke", function(self, unit, t, dt)    
     if managers.wdu:_is_event_active("zombie_blood") then
         self._zm_blood_effect_active = true
-        local effect_smoke = Idstring("effects/payday2/particles/smoke_trail/smoke_distorted_small")
+        local effect_smoke = Idstring("units/pd2_mod_zombies/effects/payday2/particles/smoke_trail/smoke_distorted_small")
 
         if not self._zm_blood_effect_1 then
             self._zm_blood_effect_1 = World:effect_manager():spawn({

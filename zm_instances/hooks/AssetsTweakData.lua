@@ -1,8 +1,7 @@
 Hooks:PostHook(AssetsTweakData, "_init_assets", "zm_init_assets", function(self, tweak_data)
-    self.hox_2_zombie_perks = {
-		name_id = "hox_2_zombie_perks_name",
-		texture = "map_assets/perks",
-		stages = {"zm_dah"},
+    self.perk_mechanics = {
+		name_id = "zm_perk_mechanics",
+		texture = "units/pd2_mod_zombies/guis/assets/perk_mechanics",
 		no_mystery = true
 	}
 end)

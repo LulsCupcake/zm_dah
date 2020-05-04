@@ -1,21 +1,14 @@
 <table directory="assets">
-	<add path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" type="unit">
-		<material_config force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
-		<object force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
-		<sequence_manager force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
-		<unit force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
-	</add>
-	<add path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" type="unit">
-		<material_config force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
-		<object force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
-		<sequence_manager force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
-		<unit force="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
-	</add>
 	<add path="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_elevator_4m" type="unit">
 		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/zom_dah" unload="true"/>
 		<model force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_elevator_4m" unload="true"/>
 		<object force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_elevator_4m" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/wall/zom_dah_doorway_elevator_4m" unload="true"/>
+	</add>
+	<add path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" type="unit">
+		<object force="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" unload="true"/>
+		<sequence_manager force="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" unload="true"/>
+		<unit force="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap" type="unit">
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_doubletap/zm_perk_machine_doubletap_df" unload="true"/>
@@ -86,18 +79,6 @@
 		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_juggernog/zm_perk_machine_juggernog" unload="true"/>
 	</add>
-	<add path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" type="unit">
-		<font force="true" path="fonts/font_digital" unload="true"/>
-		<material_config force="true" path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" unload="true"/>
-		<object force="true" path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" unload="true"/>
-		<sequence_manager force="true" path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" unload="true"/>
-		<unit force="true" path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" unload="true"/>
-	</add>
-	<add path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" type="unit">
-		<object force="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" unload="true"/>
-		<sequence_manager force="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" unload="true"/>
-		<unit force="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" unload="true"/>
-	</add>
 	<add path="units/pd2_mod_zombies/dev_tools/contour_blocker_4x4x4m/contour_blocker_4x4x4m" type="unit">
 		<material_config force="true" path="units/pd2_mod_zombies/dev_tools/contour_blocker_4x4x4m/contour_blocker_4x4x4m" unload="true"/>
 		<model force="true" path="units/pd2_mod_zombies/dev_tools/contour_blocker_4x4x4m/contour_blocker_4x4x4m" unload="true"/>
@@ -105,9 +86,28 @@
 		<sequence_manager force="true" path="units/pd2_mod_zombies/dev_tools/contour_blocker_4x4x4m/contour_blocker_4x4x4m" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/dev_tools/contour_blocker_4x4x4m/contour_blocker_4x4x4m" unload="true"/>
 	</add>
+	<add path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" type="unit">
+		<unit path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" unload="true"/>
+		<object path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" unload="true"/>
+		<material_config path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" unload="true"/>
+		<sequence_manager path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" unload="true"/>
+		<font path="fonts/font_digital" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" type="unit">
+		<unit path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
+		<object path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
+		<material_config path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator_doors" unload="true"/>
+	</add>
 	<add path="units/payday2/props/com_prop_mall_sign_outofservice/com_prop_mall_sign_outofservice" type="unit">
 		<unit path="units/payday2/props/com_prop_mall_sign_outofservice/com_prop_mall_sign_outofservice" unload="true"/>
 		<object path="units/payday2/props/com_prop_mall_sign_outofservice/com_prop_mall_sign_outofservice" unload="true"/>
 		<material_config path="units/payday2/props/com_prop_mall_sign_outofservice/com_prop_mall_sign_outofservice" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" type="unit">
+		<unit path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
+		<object path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
+		<material_config path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_tag/architecture/tag_int/tag_int_elevator/tag_int_elevator" unload="true"/>
 	</add>
 </table>

@@ -1,0 +1,44 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_int_election_elevator_shaft" materials="units/payday2/architecture/com_int_elevator_shaft/com_int_election_elevator_shaft" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+			<object name="rp_com_int_election_elevator_shaft" />
+			<object name="c_box_1" collision_type="box" padding="-2.5"/>
+			<object name="c_box_2" collision_type="box" padding="-2.5"/>
+			<object name="c_box_3" collision_type="box" padding="-2.5"/>
+			<object name="c_box_4" collision_type="box" padding="-2.5"/>
+			<object name="c_box_5" collision_type="box" padding="-2.5"/>
+			<object name="c_box_6" collision_type="box" padding="-2.5"/>
+			<object name="c_box_7" collision_type="box" padding="-2.5"/>
+			<object name="c_box_8" collision_type="box" padding="-2.5"/>
+			<object name="c_box_9" collision_type="box" padding="-2.5"/>
+			<object name="c_box_10" collision_type="box" padding="-2.5"/>
+			<object name="c_box_11" collision_type="box" padding="-2.5"/>
+			<object name="c_box_12" collision_type="box" padding="-2.5"/>
+			<object name="c_box_13" collision_type="box" padding="-2.5"/>
+			<object name="c_box_14" collision_type="box" padding="-2.5"/>
+			<object name="c_box_15" collision_type="box" padding="-2.5"/>
+			<object name="c_box_16" collision_type="box" padding="-2.5"/>
+			<object name="c_box_17" collision_type="box" padding="-2.5"/>
+			<object name="c_box_18" collision_type="box" padding="-2.5"/>
+			<object name="c_box_19" collision_type="box" padding="-2.5"/>
+			<object name="c_box_20" collision_type="box" padding="-2.5"/>
+			<object name="c_box_21" collision_type="box" padding="-2.5"/>
+			<object name="c_box_22" collision_type="box" padding="-2.5"/>
+			<object name="c_box_23" collision_type="box" padding="-2.5"/>
+			<object name="c_box_24" collision_type="box" padding="-2.5"/>
+			<object name="c_box_25" collision_type="box" padding="-2.5"/>
+			<object name="c_box_26" collision_type="box" padding="-2.5"/>
+			<object name="c_box_27" collision_type="box" padding="-2.5"/>
+			<object name="c_box_28" collision_type="box" padding="-2.5"/>
+			<object name="c_box_29" collision_type="box" padding="-2.5"/>
+        </body>
+    </bodies>
+    <decal_surfaces>
+        <decal_mesh name="dm_shaft" 	enabled="true" material="steel" />
+    </decal_surfaces>
+    <graphics>
+        <object enabled="true" name="g_shaft" />
+        <object enabled="true" name="g_floor" />
+    </graphics>
+</dynamic_object>

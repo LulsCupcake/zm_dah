@@ -20,27 +20,27 @@
 	
 	
 	--Power Up Table
- 	tweak_data.pickups.zm_pow_max_ammo = {
-		unit = Idstring("units/pd2_mod_zombies/equipment/zom_power_ups/zom_max_ammo/zom_max_ammo")
+ 	tweak_data.pickups.zm_pwrup_max_ammo = {
+		unit = Idstring("units/pd2_mod_zombies/power_ups/zm_pwrup_max_ammo/zm_pwrup_max_ammo")
 	}
- 	tweak_data.pickups.zm_pow_double_points = {
-		unit = Idstring("units/pd2_mod_zombies/equipment/zom_power_ups/zom_double_points/zom_double_points")
+ 	tweak_data.pickups.zm_pwrup_double_points = {
+		unit = Idstring("units/pd2_mod_zombies/power_ups/zm_pwrup_double_points/zm_pwrup_double_points")
 	}
- 	tweak_data.pickups.zm_pow_instakill = {
-		unit = Idstring("units/pd2_mod_zombies/equipment/zom_power_ups/zom_instakill/zom_instakill")
+ 	tweak_data.pickups.zm_pwrup_instakill = {
+		unit = Idstring("units/pd2_mod_zombies/power_ups/zm_pwrup_instakill/zm_pwrup_instakill")
 	}
- 	tweak_data.pickups.zm_pow_firesale = {
-		unit = Idstring("units/pd2_mod_zombies/equipment/zom_power_ups/zom_firesale/zom_firesale")
+ 	tweak_data.pickups.zm_pwrup_firesale = {
+		unit = Idstring("units/pd2_mod_zombies/power_ups/zm_pwrup_firesale/zm_pwrup_firesale")
 	}
- 	tweak_data.pickups.zm_pow_nuke = {
-		unit = Idstring("units/pd2_mod_zombies/equipment/zom_power_ups/zom_nuke/zom_nuke")
+ 	tweak_data.pickups.zm_pwrup_nuke = {
+		unit = Idstring("units/pd2_mod_zombies/power_ups/zm_pwrup_nuke/zm_pwrup_nuke")
 	}
- 	tweak_data.pickups.zm_pow_blood_money = {
-		unit = Idstring("units/pd2_mod_zombies/equipment/zom_power_ups/zom_blood_money/zom_blood_money")
+ 	tweak_data.pickups.zm_pwrup_blood_money = {
+		unit = Idstring("units/pd2_mod_zombies/power_ups/zm_pwrup_blood_money/zm_pwrup_blood_money")
 	}
- 	tweak_data.pickups.zm_pow_zombie_blood = {
-		unit = Idstring("units/pd2_mod_zombies/equipment/zom_power_ups/zom_zombie_blood/zom_zombie_blood")
+ 	tweak_data.pickups.zm_pwrup_zombie_blood = {
+		unit = Idstring("units/pd2_mod_zombies/power_ups/zm_pwrup_zombie_blood/zm_pwrup_zombie_blood")
 	}
- 	tweak_data.pickups.zm_pow_perk = {
-		unit = Idstring("units/pd2_mod_zombies/equipment/zom_power_ups/zom_perk_single/zom_perk_single")
+ 	tweak_data.pickups.zm_pwrup_perk = {
+		unit = Idstring("units/pd2_mod_zombies/power_ups/zm_pwrup_blood_money/zm_pwrup_blood_money")
 	}

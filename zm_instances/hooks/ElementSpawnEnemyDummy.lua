@@ -40,13 +40,13 @@ function ElementSpawnEnemyDummy:produce(params)
 				Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_2/ene_bulldozer_hvh_2"),
 				Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_3/ene_bulldozer_hvh_3"),
 				Idstring("units/pd2_dlc_hvh/characters/ene_spook_hvh_1/ene_spook_hvh_1"),
-				Idstring("units/pd2_dlc_uno/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1"),
+				Idstring("units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1"),
 				Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_1/ene_bulldozer_hvh_1"),
 				Idstring("units/pd2_dlc_hvh/characters/ene_spook_hvh_1/ene_spook_hvh_1"),
 				Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_2/ene_bulldozer_hvh_2"),
 				Idstring("units/pd2_dlc_hvh/characters/ene_spook_hvh_1/ene_spook_hvh_1"),
 				Idstring("units/pd2_dlc_hvh/characters/ene_bulldozer_hvh_3/ene_bulldozer_hvh_3"),
-				Idstring("units/pd2_dlc_uno/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1"),
+				Idstring("units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1"),
 				Idstring("units/pd2_dlc_hvh/characters/ene_spook_hvh_1/ene_spook_hvh_1")
 			}
 
@@ -75,7 +75,7 @@ function ElementSpawnEnemyDummy:produce(params)
 			end
 		else
 			if managers.wdu:_was_last_cop_alive() then
-				unit:character_damage():set_pickup("zm_pow_max_ammo")
+				unit:character_damage():set_pickup("zm_pwrup_max_ammo")
 			end
 		end
 	else

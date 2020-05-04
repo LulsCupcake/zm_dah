@@ -1,0 +1,13 @@
+<materials version="3">
+	<material name="mat_corkboard" render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle_df" />
+		<bump_normal_texture file="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle_nm" />
+		<material_texture file="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle_gsma" />
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2" />
+	<material name="mat_corkboard_lod" render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle_df" mip="4" />
+		<bump_normal_texture file="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle_nm" mip="4" />
+		<material_texture file="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle_gsma" mip="4" />
+	</material>
+</materials>

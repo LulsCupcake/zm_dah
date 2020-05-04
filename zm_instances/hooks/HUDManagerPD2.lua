@@ -22,7 +22,7 @@ function HUDZMWaves:_create_zm_waves_hud(parent)
         text = "",
         color = Color(1, 0.6, 0, 0),
         font_size = tweak_data.menu.pd2_large_font_size + 16,
-        font = "fonts/murderer",
+        font = "units/pd2_mod_zombies/fonts/murderer",
         visible = true
     })
     zm_wave_text:set_world_center_y(zm_wave_panel:world_center_y())
@@ -46,7 +46,7 @@ function HUDZMWaves:_create_gift_hud(parent)
     self.gift_panel = gift_panel
 
     local weapon_name_bottom_right = gift_panel:text({
-        font = "fonts/escom_outline",
+        font = "units/pd2_mod_zombies/fonts/escom_outline",
         font_size = 18,
         color = Color(0.8, 0.8, 0.8),
         text = "",
@@ -62,7 +62,7 @@ function HUDZMWaves:_create_gift_hud(parent)
 
     local icon_instakill = gift_panel:bitmap({
         name = "icon_instakill",
-        texture = "perks/gift_instakill",
+        texture = "units/pd2_mod_zombies/guis/power_ups/power_instakill",
         w = 64,
         h = 64,
         visible = is_instakill
@@ -71,7 +71,7 @@ function HUDZMWaves:_create_gift_hud(parent)
 
     local icon_firesale = gift_panel:bitmap({
         name = "icon_firesale",
-        texture = "perks/gift_firesale",
+        texture = "units/pd2_mod_zombies/guis/power_ups/power_fire_sale",
         w = 64,
         h = 64,
         visible = is_firesale
@@ -80,7 +80,7 @@ function HUDZMWaves:_create_gift_hud(parent)
 
     local icon_double_points = gift_panel:bitmap({
         name = "icon_double_points",
-        texture = "perks/gift_double_points",
+        texture = "units/pd2_mod_zombies/guis/power_ups/power_double_points",
         w = 64,
         h = 64,
         visible = is_double_points
@@ -89,7 +89,7 @@ function HUDZMWaves:_create_gift_hud(parent)
 
     local icon_zombie_blood = gift_panel:bitmap({
         name = "icon_zombie_blood",
-        texture = "perks/gift_zombie_blood",
+        texture = "units/pd2_mod_zombies/guis/power_ups/power_zombie_blood",
         w = 64,
         h = 64,
         visible = is_zombie_blood
@@ -296,7 +296,8 @@ function HUDZMWaves:_set_gift_visible(gift, visible)
         wait(0.1)
 
         o:set_alpha(to)
-
+		
+		--But why...
         
     end
 
@@ -521,7 +522,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         text = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
         color = tweak_data.chat_colors[1],
         font_size = tweak_data.menu.pd2_small_font_size + 6,
-        font = "fonts/escom_outline",
+        font = "units/pd2_mod_zombies/fonts/escom_outline",
         visible = false
     })
     managers.hud:make_fine_text(peer_1_points)
@@ -532,7 +533,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         name = "peer_1_bg_points",
         visible = false,
         layer = -1,
-        texture = "ui/bloodtrail",
+        texture = "units/pd2_mod_zombies/guis/hud/bloodtrail",
         h = 32,
         w = 128
     })
@@ -556,7 +557,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         text = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
         color = tweak_data.chat_colors[2],
         font_size = tweak_data.menu.pd2_small_font_size + 6,
-        font = "fonts/escom_outline",
+        font = "units/pd2_mod_zombies/fonts/escom_outline",
         visible = false
     })
     managers.hud:make_fine_text(peer_2_points)
@@ -567,7 +568,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         name = "peer_2_bg_points",
         visible = false,
         layer = -1,
-        texture = "ui/bloodtrail",
+        texture = "units/pd2_mod_zombies/guis/hud/bloodtrail",
         h = 32,
         w = 128
     })
@@ -591,7 +592,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         text = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
         color = tweak_data.chat_colors[3],
         font_size = tweak_data.menu.pd2_small_font_size + 6,
-        font = "fonts/escom_outline",
+        font = "units/pd2_mod_zombies/fonts/escom_outline",
         visible = false
     })
     managers.hud:make_fine_text(peer_3_points)
@@ -602,7 +603,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         name = "peer_3_bg_points",
         visible = false,
         layer = -1,
-        texture = "ui/bloodtrail",
+        texture = "units/pd2_mod_zombies/guis/hud/bloodtrail",
         h = 32,
         w = 128
     })
@@ -626,7 +627,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         text = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
         color = tweak_data.chat_colors[4],
         font_size = tweak_data.menu.pd2_small_font_size + 6,
-        font = "fonts/escom_outline",
+        font = "units/pd2_mod_zombies/fonts/escom_outline",
         visible = false
     })
     managers.hud:make_fine_text(peer_4_points)
@@ -637,7 +638,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         name = "peer_4_bg_points",
         visible = false,
         layer = -1,
-        texture = "ui/bloodtrail",
+        texture = "units/pd2_mod_zombies/guis/hud/bloodtrail",
         h = 32,
         w = 128
     })
@@ -681,7 +682,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         visible = true,
         color = Color(1, 1, 0),
         font_size = tweak_data.menu.pd2_small_font_size + 6,
-        font = "fonts/escom_outline"
+        font = "units/pd2_mod_zombies/fonts/escom_outline"
     })
     managers.hud:make_fine_text(peer_1_points_gained)
     peer_1_points_gained:set_left(peer_1_avatar:right() + 60)
@@ -697,7 +698,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         visible = true,
         color = Color(1, 1, 0),
         font_size = tweak_data.menu.pd2_small_font_size + 6,
-        font = "fonts/escom_outline"
+        font = "units/pd2_mod_zombies/fonts/escom_outline"
     })
     managers.hud:make_fine_text(peer_2_points_gained)
     peer_2_points_gained:set_left(peer_2_avatar:right() + 60)
@@ -713,7 +714,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         visible = true,
         color = Color(1, 1, 0),
         font_size = tweak_data.menu.pd2_small_font_size + 6,
-        font = "fonts/escom_outline"
+        font = "units/pd2_mod_zombies/fonts/escom_outline"
     })
     managers.hud:make_fine_text(peer_3_points_gained)
     peer_3_points_gained:set_left(peer_3_avatar:right() + 60)
@@ -729,7 +730,7 @@ function HUDZMPoints:_create_zm_hud(parent)
         visible = true,
         color = Color(1, 1, 0),
         font_size = tweak_data.menu.pd2_small_font_size + 6,
-        font = "fonts/escom_outline"
+        font = "units/pd2_mod_zombies/fonts/escom_outline"
     })
     managers.hud:make_fine_text(peer_4_points_gained)
     peer_4_points_gained:set_left(peer_4_avatar:right() + 60)
@@ -871,7 +872,7 @@ function HUDZMPoints:GenerateDuplicates(parent_panel, player_id, proper_id)
         visible = true,
         color = Color(1, 1, 0),
         font_size = tweak_data.menu.pd2_small_font_size + 6,
-        font = "fonts/escom_outline"
+        font = "units/pd2_mod_zombies/fonts/escom_outline"
     }
 
     local dupe_text = parent_panel:text(params)
@@ -962,7 +963,7 @@ function HUDManager:init_ending_screen()
 
     local hud = managers.hud:script(PlayerBase.PLAYER_INFO_HUD_PD2)
     local panel = hud.panel
-    local default_font = "fonts/escom_outline"
+    local default_font = "units/pd2_mod_zombies/fonts/escom_outline"
     local default_font_size = 16
 
     local result_panel = panel:panel({
@@ -1051,7 +1052,7 @@ function HUDManager:_init_result_table(panel)
             end)
 
             local player_name = all_panels[id]:text({
-                font = "fonts/escom_outline",
+                font = "units/pd2_mod_zombies/fonts/escom_outline",
                 font_size = 24,
                 text = "AAAAAAAAAAAAAAAA",
                 color = Color.white
@@ -1063,7 +1064,7 @@ function HUDManager:_init_result_table(panel)
 
             local total_score = all_panels[id]:text({
                 name = "total_score",
-                font = "fonts/escom_outline",
+                font = "units/pd2_mod_zombies/fonts/escom_outline",
                 font_size = 24,
                 text = "9999999",
                 color = Color.white
@@ -1075,7 +1076,7 @@ function HUDManager:_init_result_table(panel)
             total_score:set_text(tostring(player_data.total_score))
 
             local total_score_header = all_panels[id]:text({
-                font = "fonts/escom_outline",
+                font = "units/pd2_mod_zombies/fonts/escom_outline",
                 font_size = 16,
                 text = "SCORE",
                 color = Color(0.4, 0.4, 0.4)
@@ -1086,7 +1087,7 @@ function HUDManager:_init_result_table(panel)
 
             local total_kills = all_panels[id]:text({
                 name = "total_kills",
-                font = "fonts/escom_outline",
+                font = "units/pd2_mod_zombies/fonts/escom_outline",
                 font_size = 24,
                 text = "9999",
                 color = Color.white
@@ -1097,7 +1098,7 @@ function HUDManager:_init_result_table(panel)
             total_kills:set_left(total_score:right() + 40)
 
             local total_kill_header = all_panels[id]:text({
-                font = "fonts/escom_outline",
+                font = "units/pd2_mod_zombies/fonts/escom_outline",
                 font_size = 16,
                 text = "KILLS",
                 color = Color(0.4, 0.4, 0.4)
@@ -1108,7 +1109,7 @@ function HUDManager:_init_result_table(panel)
 
             local total_downs = all_panels[id]:text({
                 name = "total_downs",
-                font = "fonts/escom_outline",
+                font = "units/pd2_mod_zombies/fonts/escom_outline",
                 font_size = 24,
                 text = "9999",
                 color = Color.white
@@ -1119,7 +1120,7 @@ function HUDManager:_init_result_table(panel)
             total_downs:set_left(total_kills:right() + 40)
 
             local total_downs_header = all_panels[id]:text({
-                font = "fonts/escom_outline",
+                font = "units/pd2_mod_zombies/fonts/escom_outline",
                 font_size = 16,
                 text = "DOWNS",
                 color = Color(0.4, 0.4, 0.4)
@@ -1130,7 +1131,7 @@ function HUDManager:_init_result_table(panel)
 
             local total_revives = all_panels[id]:text({
                 name = "total_revives",
-                font = "fonts/escom_outline",
+                font = "units/pd2_mod_zombies/fonts/escom_outline",
                 font_size = 24,
                 text = "9999",
                 color = Color.white
@@ -1141,7 +1142,7 @@ function HUDManager:_init_result_table(panel)
             total_revives:set_left(total_downs:right() + 40)
 
             local total_revives_header = all_panels[id]:text({
-                font = "fonts/escom_outline",
+                font = "units/pd2_mod_zombies/fonts/escom_outline",
                 font_size = 16,
                 text = "REVIVES",
                 color = Color(0.4, 0.4, 0.4)

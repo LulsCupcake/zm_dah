@@ -68,9 +68,9 @@ function ElementAnnouncerGift:on_executed(instigator)
 
         managers.wdu:_element_play_sound({
             name = self._id,
-            file_name = "double_points_loop.ogg",
-            sound_type = "sfx",
-            custom_dir = "sound",
+			file_name = "zm_pwrup_double_points.ogg",
+			sound_type = "sfx",
+			custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
             is_relative = false,
             is_loop = false,
             is_3d = false,
@@ -93,9 +93,9 @@ function ElementAnnouncerGift:on_executed(instigator)
 
         managers.wdu:_element_play_sound({
             name = self._id,
-            file_name = "instakill_loop.ogg",
-            sound_type = "sfx",
-            custom_dir = "sound",
+			file_name = "zm_pwrup_instakill.ogg",
+			sound_type = "sfx",
+			custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
             is_relative = false,
             is_loop = false,
             is_3d = false,

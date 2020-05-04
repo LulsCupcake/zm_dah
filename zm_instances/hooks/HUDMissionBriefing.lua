@@ -5,9 +5,9 @@ Hooks:PostHook(HUDMissionBriefing, "init", "zm_postinit_music", function(self, h
 
     managers.wdu:_element_play_sound({
         name = "pregame_music",
-        file_name = "pregame.ogg",
+        file_name = "zm_gen_pregame.ogg",
         sound_type = "music",
-        custom_dir = "sound",
+        custom_dir = "units/pd2_mod_zombies/sounds/zm_generic",
         is_relative = false,
         is_loop = false,
         is_3d = false,

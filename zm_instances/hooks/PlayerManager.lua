@@ -15,13 +15,6 @@ Hooks:PostHook(PlayerManager, "update", "zm_upd_perk", function(self, t, dt)
 		self._show_point_list = true
 	end
 
-	if self:has_special_equipment("perk_god") then
-		tweak_data.blackmarket.melee_weapons.zdann.stats.min_damage = 90
-		tweak_data.blackmarket.melee_weapons.zdann.stats.max_damage = 120
-		tweak_data.blackmarket.melee_weapons.zdann.stats.charge_time = 1
-		tweak_data.blackmarket.melee_weapons.zdann.stats.range = 300
-	end
-
     local player = self:player_unit()
 
     if self:has_special_equipment("perk_juggernog") then
@@ -37,17 +30,17 @@ Hooks:PostHook(PlayerManager, "update", "zm_upd_perk", function(self, t, dt)
 
 	local GCS = PlayerManager.get_current_state
 	
-	if not self._wunderwaffe_unlocked then
+	if not self._raygun_unlocked then
 		if GCS and type(GCS) == "function" then
 			local current_state = self:get_current_state()
 			if current_state then
 				local current_weapon = current_state:get_equipped_weapon()
 				if current_weapon then
-					if current_weapon.name_id == "wunderwaffe_primary" or current_weapon.name_id == "wunderwaffe_secondary" then
+					if current_weapon.name_id == "raygun_primary" or current_weapon.name_id == "raygun_secondary" then
 						local lip = SoundDevice:create_source("lip")
-						lip:post_event("zm_announcer_wunder")
-						LuaNetworking:SendToPeers( "ZMWunderwaffeUnlocked", "1" )
-						self._wunderwaffe_unlocked = true
+						lip:post_event("zm_announcer_raygun")
+						LuaNetworking:SendToPeers( "ZMRaygunUnlocked", "1" )
+						self._raygun_unlocked = true
 					end
 				end
 			end
@@ -105,7 +98,7 @@ Hooks:PostHook(PlayerManager, "_internal_load", "pm_post_internal_load", functio
 		return
 	end
 
-	player:inventory():set_melee_weapon("zdann")
+	-- player:inventory():set_melee_weapon("zdann")
 end)
 
 function PlayerManager:add_grenade_amount(amount, sync)
@@ -142,9 +135,9 @@ Hooks:Add("NetworkReceivedData", "NetworkReceivedData_Wunderwaffe_unlock", funct
         managers.player._wunderwaffe_unlocked = true
     end
 
-    if id == "ZMRoachUnlocked" then
+    if id == "ZMRaygunUnlocked" then
         local lip = SoundDevice:create_source("lip")
-        lip:post_event("zm_announcer_roach")
+        lip:post_event("zm_announcer_raygun")
         managers.player._roach_unlocked = true
     end
 end)

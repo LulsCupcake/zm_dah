@@ -1,9 +1,9 @@
-local TRAIL_EFFECT = Idstring("effects/particles/weapons/sniper_trail")
+local TRAIL_EFFECT = Idstring("units/pd2_mod_zombies/effects/particles/weapons/sniper_trail")
 local idstr_trail = Idstring("trail")
 local idstr_simulator_length = Idstring("simulator_length")
 local idstr_size = Idstring("size")
 local trail_length
-local new_trail = Idstring("effects/particles/weapons/shovel")
+local new_trail = Idstring("units/pd2_mod_zombies/effects/particles/weapons/shovel")
 
 function SniperGrazeDamage:on_wunderwaffe_fired(weapon_unit, result)
     if not alive(weapon_unit) then
@@ -27,7 +27,7 @@ function SniperGrazeDamage:on_wunderwaffe_fired(weapon_unit, result)
     local timer_between = 0.5
 
     if weapon_unit:base():get_name_id() == "wunderwaffe_dg3_primary" or weapon_unit:base():get_name_id() == "wunderwaffe_dg3_secondary" then
-      new_trail = Idstring("effects/particles/weapons/super_shovel")
+      new_trail = Idstring("units/pd2_mod_zombies/effects/particles/weapons/super_shovel")
       bumps = 15
       timer_between = 0.25
     end

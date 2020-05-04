@@ -1,9 +1,10 @@
-<table global_key="zm_testing" name="zm_instances">
+<table global_key="zm_dah" name="zm_instances">
 	<level ai_group_type="zombie" gamemode_type="3arc_zm" id="zm_mystery_box">
 		<add file="levels/zm_mystery_box/add.xml"/>
 		<hooks directory="hooks">
 			<hook file="Setup.lua" source_file="lib/setups/gamesetup"/>
 			<hook file="AssetsTweakData.lua" source_file="lib/tweak_data/assetstweakdata"/>
+			<hook file="BlackMarketManager.lua" source_file="lib/managers/blackmarketmanager"/>
 			<hook file="CharacterTweakData.lua" source_file="lib/tweak_data/charactertweakdata"/>
 			<hook file="CopBase.lua" source_file="lib/units/enemies/cop/copbase"/>
 			<hook file="CopDamage.lua" source_file="lib/units/enemies/cop/copdamage"/>
@@ -24,6 +25,7 @@
 			<hook file="HuskPlayerMovement.lua" source_file="lib/units/beings/player/huskplayermovement"/>
 			<hook file="InteractionExt.lua" source_file="lib/units/interactions/interactionext"/>
 			<hook file="InteractionTweakData.lua" source_file="lib/tweak_data/interactiontweakdata"/>
+			<hook file="MeleeWeaponsTweakData.lua" source_file="lib/tweak_data/blackmarket/meleeweaponstweakdata"/>
 			<hook file="MissionManager.lua" source_file="lib/managers/missionmanager"/>
 			<hook file="NewRaycastWeaponBase.lua" source_file="lib/units/weapons/newraycastweaponbase"/>
 			<hook file="NPCRaycastWeaponBase.lua" source_file="lib/units/weapons/newnpcraycastweaponbase"/>
@@ -38,11 +40,9 @@
 			<hook file="RaycastWeaponBase.lua" source_file="lib/units/weapons/raycastweaponbase"/>
 			<hook file="SniperGrazeDamage.lua" source_file="lib/managers/player/snipergrazedamage"/>
 			<hook file="StatisticsManager.lua" source_file="lib/managers/statisticsmanager"/>
-			<hook file="WeaponFactoryTweakData.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
-			<hook file="WeaponTweakData.lua" source_file="lib/tweak_data/weapontweakdata"/>
 			<hook file="EnemyManager.lua" source_file="lib/managers/enemymanager"/>
+			<hook file="MusicManager.lua" source_file="lib/managers/musicmanager"/>
 			<hook file="CoreUnit.lua" source_file="core/lib/utils/coreunit"/>
-			<hook file="ProjectileBase.lua" source_file="lib/units/weapons/projectiles/projectilebase"/>
 			<hook file="SentryGunMovement.lua" source_file="lib/units/equipment/sentry_gun/sentrygunmovement"/>
 			<hook file="FPCameraPlayerBase.lua" source_file="lib/units/cameras/fpcameraplayerbase"/>
 			<hook file="IngameWaitingForPlayersState.lua" source_file="lib/states/ingamewaitingforplayers"/>
@@ -52,6 +52,11 @@
 			<hook file="ZM_WeaponSkins.lua" source_file="lib/tweak_data/blackmarket/weaponskinstweakdata"/>
 			<hook file="ZM_PowerUps.lua" source_file="lib/units/pickups/ammoclip"/>
 			<hook file="ZM_TweakData.lua" source_file="lib/tweak_data/tweakdata"/>
+			<hook file="ZM_WeaponFactoryTweakData.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
+			<hook file="ZM_WeaponStatTweakData.lua" source_file="lib/tweak_data/weapontweakdata"/>
+			<hook file="ZM_SkillsTweakData.lua" source_file="lib/tweak_data/skilltreetweakdata"/>
+			<hook file="ZM_UpgradesTweakData.lua" source_file="lib/tweak_data/upgradestweakdata"/>
+			<hook file="ZM_NarrativeTweakData.lua" source_file="lib/tweak_data/narrativetweakdata"/>
 		</hooks>
 		<include directory="levels/zm_mystery_box">
 			<file file="world.world" type="binary"/>
@@ -103,6 +108,7 @@
 			<hook file="HuskPlayerMovement.lua" source_file="lib/units/beings/player/huskplayermovement"/>
 			<hook file="InteractionExt.lua" source_file="lib/units/interactions/interactionext"/>
 			<hook file="InteractionTweakData.lua" source_file="lib/tweak_data/interactiontweakdata"/>
+			<hook file="MeleeWeaponsTweakData.lua" source_file="lib/tweak_data/blackmarket/meleeweaponstweakdata"/>
 			<hook file="MissionManager.lua" source_file="lib/managers/missionmanager"/>
 			<hook file="NewRaycastWeaponBase.lua" source_file="lib/units/weapons/newraycastweaponbase"/>
 			<hook file="NPCRaycastWeaponBase.lua" source_file="lib/units/weapons/newnpcraycastweaponbase"/>
@@ -117,11 +123,9 @@
 			<hook file="RaycastWeaponBase.lua" source_file="lib/units/weapons/raycastweaponbase"/>
 			<hook file="SniperGrazeDamage.lua" source_file="lib/managers/player/snipergrazedamage"/>
 			<hook file="StatisticsManager.lua" source_file="lib/managers/statisticsmanager"/>
-			<hook file="WeaponFactoryTweakData.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
-			<hook file="WeaponTweakData.lua" source_file="lib/tweak_data/weapontweakdata"/>
 			<hook file="EnemyManager.lua" source_file="lib/managers/enemymanager"/>
+			<hook file="MusicManager.lua" source_file="lib/managers/musicmanager"/>
 			<hook file="CoreUnit.lua" source_file="core/lib/utils/coreunit"/>
-			<hook file="ProjectileBase.lua" source_file="lib/units/weapons/projectiles/projectilebase"/>
 			<hook file="SentryGunMovement.lua" source_file="lib/units/equipment/sentry_gun/sentrygunmovement"/>
 			<hook file="FPCameraPlayerBase.lua" source_file="lib/units/cameras/fpcameraplayerbase"/>
 			<hook file="IngameWaitingForPlayersState.lua" source_file="lib/states/ingamewaitingforplayers"/>
@@ -131,6 +135,11 @@
 			<hook file="ZM_WeaponSkins.lua" source_file="lib/tweak_data/blackmarket/weaponskinstweakdata"/>
 			<hook file="ZM_PowerUps.lua" source_file="lib/units/pickups/ammoclip"/>
 			<hook file="ZM_TweakData.lua" source_file="lib/tweak_data/tweakdata"/>
+			<hook file="ZM_WeaponFactoryTweakData.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
+			<hook file="ZM_WeaponStatTweakData.lua" source_file="lib/tweak_data/weapontweakdata"/>
+			<hook file="ZM_SkillsTweakData.lua" source_file="lib/tweak_data/skilltreetweakdata"/>
+			<hook file="ZM_UpgradesTweakData.lua" source_file="lib/tweak_data/upgradestweakdata"/>
+			<hook file="ZM_NarrativeTweakData.lua" source_file="lib/tweak_data/narrativetweakdata"/>
 		</hooks>
 		<include directory="levels/zm_dah">
 			<file file="world.world" type="binary"/>
@@ -177,6 +186,13 @@
 		</script_data_mods>
 		<sounds directory="assets">
 			<sounds directory="units/pd2_mod_zombies/sounds">
+				<sound id="raygun_fire" path="raygun_fire.ogg" prefix="regular"/>
+				<sound id="raygun_out" path="off_open.ogg" prefix="first"/>
+				<sound id="raygun_out" path="off_open.ogg" prefix="third"/>
+				<sound id="raygun_eject" path="eject_battery.ogg" prefix="first"/>
+				<sound id="raygun_eject" path="eject_battery.ogg" prefix="third"/>
+				<sound id="raygun_in" path="on_close.ogg" prefix="first"/>
+				<sound id="raygun_in" path="on_close.ogg" prefix="third"/>
 				<sounds directory="zm_generic">
 					<sound id="zm_gen_wave_new" path="zm_gen_wave_new.ogg"/>
 					<sound id="zm_gen_wave_new_special" path="zm_gen_wave_new_special.ogg"/>
@@ -190,28 +206,30 @@
 					<sound id="zm_gen_magic_interact" path="zm_gen_magic_interact.ogg"/>
 					<sound id="zm_gen_magic_loop" path="zm_gen_magic_loop.ogg"/>
 					<sound id="zm_gen_electricity_short" path="zm_gen_electricity_short.ogg"/>
+					<sound id="zm_gen_ching" path="zm_gen_ching.ogg"/>
 				</sounds>
 				<sounds directory="zm_power_ups">
-					<sound id="zm_pow_float_spawn" path="zm_pow_float_spawn.ogg"/>
-					<sound id="zm_pow_float_idle" path="zm_pow_float_idle.ogg"/>
-					<sound id="zm_pow_float_collect" path="zm_pow_float_collect.ogg"/>
-					<sound id="zm_pow_blood_money" path="zm_pow_blood_money.ogg"/>
-					<sound id="zm_pow_double_points" path="zm_pow_double_points.ogg"/>
-					<sound id="zm_pow_firesale" path="zm_pow_firesale.ogg"/>
-					<sound id="zm_pow_instakill" path="zm_pow_instakill.ogg"/>
-					<sound id="zm_pow_max_ammo" path="zm_pow_max_ammo.ogg"/>
-					<sound id="zm_pow_nuke" path="zm_pow_nuke.ogg"/>
-					<sound id="zm_pow_zombie_blood" path="zm_pow_zombie_blood.ogg"/>
+					<sound id="zm_pwrup_float_spawn" path="zm_pwrup_float_spawn.ogg"/>
+					<sound id="zm_pwrup_float_idle" path="zm_pwrup_float_idle.ogg"/>
+					<sound id="zm_pwrup_float_collect" path="zm_pwrup_float_collect.ogg"/>
+					<sound id="zm_pwrup_blood_money" path="zm_pwrup_blood_money.ogg"/>
+					<sound id="zm_pwrup_double_points" path="zm_pwrup_double_points.ogg"/>
+					<sound id="zm_pwrup_firesale" path="zm_pwrup_firesale.ogg"/>
+					<sound id="zm_pwrup_instakill" path="zm_pwrup_instakill.ogg"/>
+					<sound id="zm_pwrup_max_ammo" path="zm_pwrup_max_ammo.ogg"/>
+					<sound id="zm_pwrup_nuke" path="zm_pwrup_nuke.ogg"/>
+					<sound id="zm_pwrup_zombie_blood" path="zm_pwrup_zombie_blood.ogg"/>
+					<sound id="zm_pwrup_zombie_blood_ambiance" path="zm_pwrup_zombie_blood_ambiance.ogg"/>
 				</sounds>
 				<sounds directory="zm_perks">
 					<sound id="zm_perk_bought" path="zm_perk_bought.ogg"/>
 					<sound id="zm_perk_bumped" path="zm_perk_bumped.ogg" relative="true"/>
 					<sound id="zm_perk_denied" path="zm_perk_denied.ogg" relative="true"/>
 					<sound id="zm_perk_hum" path="zm_perk_hum.ogg" relative="true"/>
-					<sound id="zm_perk_song_deadshot" path="zm_perk_song_deadshot.ogg" relative="true"/>
-					<sound id="zm_perk_song_doubletap" path="zm_perk_song_doubletap.ogg" relative="true"/>
-					<sound id="zm_perk_song_pack_a_punch" path="zm_perk_song_pack_a_punch.ogg" relative="true"/>
-					<sound id="zm_perk_song_staminup" path="zm_perk_song_staminup.ogg" relative="true"/>
+					<sound id="zm_perk_song_deadshot_sting" path="zm_perk_song_deadshot.ogg" relative="true"/>
+					<sound id="zm_perk_song_doubletap_sting" path="zm_perk_song_doubletap.ogg" relative="true"/>
+					<sound id="zm_perk_song_pap_sting" path="zm_perk_song_pack_a_punch.ogg" relative="true"/>
+					<sound id="zm_perk_song_staminup_sting" path="zm_perk_song_staminup.ogg" relative="true"/>
 					<sound id="zm_perk_song_speedcola" path="zm_perk_song_speedcola.ogg" relative="true"/>
 					<sound id="zm_perk_song_speedcola_sting" path="zm_perk_song_speedcola_sting.ogg" relative="true"/>
 					<sound id="zm_perk_song_quickrevive" path="zm_perk_song_quickrevive.ogg" relative="true"/>
@@ -226,37 +244,33 @@
 					<sound id="zm_box_picking" path="zm_box_picking.ogg"/>
 					<sound id="zm_box_shutting" path="zm_box_shutting.ogg"/>
 				</sounds>
-			</sounds>
-			<sounds directory="sound">
-				<sounds directory="deamon">
-					<sound id="zm_blood_ambiance" path="zmblood_ambiance.ogg"/>
+				<sounds directory="zm_announcer">
 					<sound id="zm_sam_laugh" path="demon_sam_laugh.ogg"/>
 					<sound id="zm_announcer_wunder" path="LIGHTNING_IS_POWER.ogg"/>
 					<sound id="zm_announcer_roach" path="demon_sam_present.ogg"/>
-					<sounds directory="sora">
-						<sound id="zm_announcer_max_ammo" path="max_ammo.ogg"/>
-						<sound id="zm_announcer_firesale" path="firesale.ogg"/>
-						<sound id="zm_announcer_double_points" path="double_points.ogg"/>
-						<sound id="zm_announcer_instakill" path="instakill.ogg"/>
-						<sound id="zm_announcer_kaboom" path="kaboom.ogg"/>
-						<sound id="zm_announcer_zombie_blood" path="zombie_blood.ogg"/>
-						<sound id="zm_announcer_blood_money" path="blood_money.ogg"/>
+				</sounds>
+				<sounds directory="zm_weapons">
+					<sounds directory="upg" prefix="regular" use_fix="true">
+						<sound id="zm_pew_global" path="upg_pew_generic.ogg" use_fix="true"/>
+						<sound id="zm_pew_global_npc" path="upg_pew_generic_npc.ogg" use_fix="true"/>
+						<sound id="zm_pew_m1911" path="upg_pew_pis2.ogg" prefix="regular" use_fix="true"/>
+						<sound id="zm_pew_smg" path="upg_pew_smg.ogg" prefix="regular" use_fix="true"/>
+						<sound id="zm_pew_cobra" path="upg_pew_smg2.ogg" prefix="regular" use_fix="true"/>
+						<sound id="zm_pew_rifle" path="upg_pew_dmr.ogg" prefix="regular" use_fix="true"/>
+						<sound id="zm_pew_shta" path="upg_pew_shot_auto.ogg" prefix="regular" use_fix="true"/>
+						<sound id="zm_pew_shts" path="upg_pew_shot_semi.ogg" prefix="regular" use_fix="true"/>
+						<sound id="zm_pew_snp_b" path="upg_pew_snp.ogg" prefix="regular" use_fix="true"/>
+						<sound id="zm_pew_snp_e" path="upg_pew_snp2.ogg" prefix="regular" use_fix="true"/>
+						<sound id="zm_pew_lmg" path="upg_pew_lmg.ogg" prefix="regular" use_fix="true"/>
 					</sounds>
 				</sounds>
-				<sounds directory="pew" prefix="regular" use_fix="true">
-					<sound id="zm_pew_lmg" path="lmg_m240_base.ogg" prefix="regular" use_fix="true"/>
-					<sound id="zm_pew_cobra" path="pis_cobra_base.ogg" prefix="regular" use_fix="true"/>
-					<sound id="zm_pew_m1911" path="pis_m1911_base.ogg" prefix="regular" use_fix="true"/>
-					<sound id="zm_pew_rifle" path="rif_m14_base.ogg" prefix="regular" use_fix="true"/>
-					<sound id="zm_pew_shta" path="shot_auto_base.ogg" prefix="regular" use_fix="true"/>
-					<sound id="zm_pew_shts" path="shot_single_base.ogg" prefix="regular" use_fix="true"/>
-					<sound id="zm_pew_snp_b" path="snp_barret_base.ogg" prefix="regular" use_fix="true"/>
-					<sound id="zm_pew_snp_e" path="snp_ebr_base.ogg" prefix="regular" use_fix="true"/>
-					<sound id="zm_pew_smg" path="smg_mp7_base.ogg" prefix="regular" use_fix="true"/>
-					<sound id="zm_pew_global" path="new_pew_global.ogg" use_fix="true"/>
-					<sound id="zm_pew_global_npc" path="new_pew_global_npc.ogg" use_fix="true"/>
-				</sounds>
-				<sounds directory="zombie">
+				<sounds directory="zm_enemy">
+					<sounds directory="spawning">
+						<sound id="zm_enemy_spawn_electrical" path="zm_enemy_spawn_electrical.ogg"/>
+					</sounds>
+					<sounds directory="shadow">
+						<sound id="zm_ene_shadow_scream_01" path="zm_ene_shadow_scream_01.ogg"/>
+					</sounds>
 					<sounds directory="taunt">
 						<sound id="z1n_g90" path="taunt_00.ogg"/>
 						<sound id="z2n_g90" path="taunt_01.ogg"/>
@@ -357,7 +371,13 @@
 						<sound id="clk_burndeath" path="mdc_immolate.ogg"/>
 					</sounds>
 				</sounds>
-				<sounds directory="zombie" prefix="grass">
+				<sounds directory="zm_enemy" prefix="grass">
+					<sounds directory="spawning">
+						<sound id="zm_enemy_spawn_electrical" path="zm_enemy_spawn_electrical.ogg"/>
+					</sounds>
+					<sounds directory="shadow">
+						<sound id="zm_ene_shadow_scream_01" path="zm_ene_shadow_scream_01.ogg"/>
+					</sounds>
 					<sounds directory="taunt">
 						<sound id="z1n_g90" path="taunt_00.ogg"/>
 						<sound id="z2n_g90" path="taunt_01.ogg"/>
@@ -455,7 +475,13 @@
 						<sound id="clk_burndeath" path="mdc_immolate.ogg"/>
 					</sounds>
 				</sounds>
-				<sounds directory="zombie" prefix="stone">
+				<sounds directory="zm_enemy" prefix="stone">
+					<sounds directory="spawning">
+						<sound id="zm_enemy_spawn_electrical" path="zm_enemy_spawn_electrical.ogg"/>
+					</sounds>
+					<sounds directory="shadow">
+						<sound id="zm_ene_shadow_scream_01" path="zm_ene_shadow_scream_01.ogg"/>
+					</sounds>
 					<sounds directory="taunt">
 						<sound id="z1n_g90" path="taunt_00.ogg"/>
 						<sound id="z2n_g90" path="taunt_01.ogg"/>
@@ -553,7 +579,13 @@
 						<sound id="clk_burndeath" path="mdc_immolate.ogg"/>
 					</sounds>
 				</sounds>
-				<sounds directory="zombie" prefix="no_material">
+				<sounds directory="zm_enemy" prefix="no_material">
+					<sounds directory="spawning">
+						<sound id="zm_enemy_spawn_electrical" path="zm_enemy_spawn_electrical.ogg"/>
+					</sounds>
+					<sounds directory="shadow">
+						<sound id="zm_ene_shadow_scream_01" path="zm_ene_shadow_scream_01.ogg"/>
+					</sounds>
 					<sounds directory="taunt">
 						<sound id="z1n_g90" path="taunt_00.ogg"/>
 						<sound id="z2n_g90" path="taunt_01.ogg"/>
@@ -651,57 +683,6 @@
 						<sound id="clk_burndeath" path="mdc_immolate.ogg"/>
 					</sounds>
 				</sounds>
-				<sounds directory="music">
-					<sound id="zm_wave_end" path="wave_end.ogg"/>
-					<sound id="zm_wave_new_1" path="wave_start.ogg"/>
-					<sound id="zm_wave_new_2" path="wave_start2.ogg"/>
-					<sound id="zm_wave_new_3" path="wave_start3.ogg"/>
-					<sound id="zm_special_wave_end" path="wave_end_special.ogg"/>
-					<sound id="zm_special_wave" path="wave_start_special.ogg"/>
-				</sounds>
-				<sound id="wunderwaffe_fire" path="wunder_fire.ogg" prefix="regular"/>
-				<sound id="lakner_mag_out" path="wunder_clip_out.ogg" prefix="first"/>
-				<sound id="lakner_mag_out" path="wunder_clip_out.ogg" prefix="rb6"/>
-				<sound id="lakner_mag_out" path="wunder_clip_out.ogg" prefix="grass"/>
-				<sound id="lakner_clip_contact_02" path="wunder_clip_contact.ogg" prefix="first"/>
-				<sound id="lakner_clip_contact_02" path="wunder_clip_contact.ogg" prefix="rb6"/>
-				<sound id="lakner_clip_contact_02" path="wunder_clip_contact.ogg" prefix="grass"/>
-				<sound id="lakner_mag_in" path="wunder_clip_in.ogg" prefix="grass"/>
-				<sound id="lakner_mag_in" path="wunder_clip_in.ogg" prefix="rb6"/>
-				<sound id="lakner_mag_in" path="wunder_clip_in.ogg" prefix="first"/>
-				<sound id="wunderwaffe_hit" path="gottem.ogg"/>
-				<sound id="wunderwaffe_spree" path="spree.ogg"/>
-				<sound id="wunderwaffe_spree2" path="spree2.ogg"/>
-				<sound id="zm_firesale" path="firesale.ogg"/>
-				<sound id="zm_dead" path="ded.ogg"/>
-				<sound id="zm_instakill_loop" path="instakill_loop.ogg"/>
-				<sound id="zm_double_points_loop" path="double_points_loop.ogg"/>
-				<sound id="zm_power_on" path="power_on.ogg"/>
-				<sound id="zm_boom" path="boom.ogg"/>
-				<sound id="bar_rescue" path="cashin.ogg"/>
-				<sound id="zm_denied" path="denied.ogg"/>
-				<sound id="zm_hs_1" path="headshot_1.ogg"/>
-				<sound id="zm_hs_2" path="headshot_2.ogg"/>
-				<sound id="zm_hs_3" path="headshot_3.ogg"/>
-				<sound id="bar_thermal_lance_fix" path="box_interact.ogg"/>
-				<sound id="bar_thermal_lance_fix_cancel" path="box_interact_stop.ogg"/>
-				<sound id="cft_hose_cancel" path="Door_buy1.ogg"/>
-				<sound id="zm_box_moved" path="box_move.ogg"/>
-				<sound id="zm_box_moved_laugh" path="box_moved.ogg"/>
-				<sound id="bar_bag_money" path="Door_buy2.ogg"/>
-				<sound id="bar_bag_money_cancel" path="Door_buy3.ogg"/>
-				<sound id="bar_bag_money_finished" path="Drink.ogg"/>
-				<sound id="bar_steal_painting" path="easter_egg_activate.ogg"/>
-				<sound id="pregame" path="pregame.ogg"/>
-				<sound id="power_up_loop" path="power_up_loop.ogg"/>
-				<sound id="akrocket_fire_single" path="bo2_an94_shot.ogg" prefix="regular" use_fix="true"/>
-				<sound id="raygun_fire" path="raygun_fire.ogg" prefix="regular"/>
-				<sound id="raygun_out" path="off_open.ogg" prefix="first"/>
-				<sound id="raygun_out" path="off_open.ogg" prefix="third"/>
-				<sound id="raygun_eject" path="eject_battery.ogg" prefix="first"/>
-				<sound id="raygun_eject" path="eject_battery.ogg" prefix="third"/>
-				<sound id="raygun_in" path="on_close.ogg" prefix="first"/>
-				<sound id="raygun_in" path="on_close.ogg" prefix="third"/>
 			</sounds>
 		</sounds>
 	</level>
@@ -801,28 +782,27 @@
 	</level>
 	<AddFiles file="dynamic_manager.xml"/>
 	<Hooks directory="hooks">
-		<hook file="MeleeWeaponsTweakData.lua" source_file="lib/tweak_data/blackmarket/meleeweaponstweakdata"/>
 		<hook file="UpgradesTweakData.lua" source_file="lib/tweak_data/upgradestweakdata"/>
 		<hook file="DynamicResourceManager.lua" source_file="lib/managers/dynamicresourcemanager"/>
-		<hook file="ContractBrokerHeistItem.lua" source_file="lib/managers/menu/items/contractbrokerheistitem"/>
+		<hook file="ZM_ContractHudManager.lua" source_file="lib/managers/menu/items/contractbrokerheistitem"/>
 	</Hooks>
 	<Localization default="english.txt" directory="loc"/>
 	<contact assets_gui="guis/mission_briefing/preload_contact_bain" desc_id="quest_test_d" id="test" package="packages/contact_bain"/>
 	<narrative contact="custom" id="zm_instances">
+		<>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
+		</>
 		<chain>
 			<table level_id="zm_dah" type="d" type_id="heist_type_assault"/>
 			<table level_id="zm_dah_elevator" type="d" type_id="heist_type_assault"/>
 			<table level_id="zm_mystery_box" type="d" type_id="heist_type_assault"/>
 		</chain>
-		<contract_cost>
-			<value_node value="4000"/>
-			<value_node value="8000"/>
-			<value_node value="20000"/>
-			<value_node value="40000"/>
-			<value_node value="100000"/>
-			<value_node value="100000"/>
-			<value_node value="100000"/>
-		</contract_cost>
 		<crimenet_callouts>
 			<value_node value="nothing"/>
 		</crimenet_callouts>

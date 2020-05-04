@@ -77,7 +77,7 @@ function WDUPowerUps:execute_max_ammo()
     end
 
     self._source = SoundDevice:create_source("max_ammo_announcer")
-    self._source:post_event("zm_announcer_max_ammo")
+    self._source:post_event("zm_pwrup_max_ammo")
 end
 
 function WDUPowerUps:execute_double_points()
@@ -85,13 +85,13 @@ function WDUPowerUps:execute_double_points()
     managers.wdu:_setup_event_state("double_points", true)
 
     self._source = SoundDevice:create_source("double_points_announcer")
-    self._source:post_event("zm_announcer_double_points")
+    self._source:post_event("zm_pwrup_double_points")
 
     managers.wdu:_element_play_sound({
-        name = "double_points_loop",
-        file_name = "double_points_loop.ogg",
+        name = "zm_pwrup_double_points",
+        file_name = "zm_pwrup_double_points.ogg",
         sound_type = "sfx",
-        custom_dir = "sound",
+        custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
         is_relative = false,
         is_loop = false,
         is_3d = false,
@@ -110,14 +110,14 @@ function WDUPowerUps:execute_firesale()
     end
 
     self._source = SoundDevice:create_source("firesale_announcer")
-    self._source:post_event("zm_announcer_firesale")
+    self._source:post_event("zm_pwrup_firesale")
     managers.wdu:_setup_event_state("firesale", true)
 
     managers.wdu:_element_play_sound({
-        name = "firesale_inbound",
-        file_name = "firesale.ogg",
+        name = "zm_pwrup_firesale",
+        file_name = "zm_pwrup_firesale.ogg",
         sound_type = "music",
-        custom_dir = "sound",
+        custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
         is_relative = false,
         is_loop = false,
         is_3d = false,
@@ -135,13 +135,13 @@ function WDUPowerUps:execute_instakill()
     managers.hud._hud_zm_waves:_set_gift_visible("icon_instakill", true)
     managers.wdu:_setup_event_state("instakill", true)
     self._source = SoundDevice:create_source("instakill_announcer")
-    self._source:post_event("zm_announcer_instakill")
+    self._source:post_event("zm_pwrup_instakill")
 
     managers.wdu:_element_play_sound({
-        name = "instakill_loop",
-        file_name = "instakill_loop.ogg",
+        name = "zm_pwrup_instakill",
+        file_name = "zm_pwrup_instakill.ogg",
         sound_type = "sfx",
-        custom_dir = "sound",
+        custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
         is_relative = false,
         is_loop = false,
         is_3d = false,
@@ -165,11 +165,11 @@ function WDUPowerUps:execute_kaboom()
         timer = TimerManager:main()
     }
     
-    self._source = SoundDevice:create_source("announcer_kaboom")
-    self._source:post_event("zm_announcer_kaboom")
+    self._source = SoundDevice:create_source("announcer_nuke")
+    self._source:post_event("zm_pwrup_nuke")
 
-    self._source_boom = SoundDevice:create_source("kaboom_boom")
-    self._source_boom:post_event("zm_boom")
+    self._source_boom = SoundDevice:create_source("nuke_explosion")
+    self._source_boom:post_event("zm_pwrup_nuke_explosion")
 
     managers.overlay_effect:play_effect(overlay_effect)
 
@@ -244,9 +244,9 @@ end
 function WDUPowerUps:execute_blood_money()
     managers.wdu:_element_play_sound({
         name = "blood_money_pickup",
-        file_name = "gift_taken.ogg",
+        file_name = "zm_pwrup_float_collect.ogg",
         sound_type = "sfx",
-        custom_dir = "sound",
+        custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
         is_relative = false,
         is_loop = false,
         is_3d = false,
@@ -254,7 +254,7 @@ function WDUPowerUps:execute_blood_money()
     })
 
     self._source = SoundDevice:create_source("bloodmoney_announcer")
-    self._source:post_event("zm_announcer_blood_money")
+    self._source:post_event("zm_pwrup_blood_money")
 
     local cash_table = {
         50,
@@ -282,9 +282,9 @@ function WDUPowerUps:execute_zombie_blood()
 
     managers.wdu:_element_play_sound({
         name = "zombie_blood_pickup",
-        file_name = "gift_taken.ogg",
+        file_name = "zm_pwrup_float_collect.ogg",
         sound_type = "sfx",
-        custom_dir = "sound",
+        custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
         is_relative = false,
         is_loop = false,
         is_3d = false,
@@ -292,26 +292,10 @@ function WDUPowerUps:execute_zombie_blood()
     })
 
     self._source_ambiance = SoundDevice:create_source("zombieblood_ambiance")
-    self._source_ambiance:post_event("zm_blood_ambiance")
---[[
-    managers.wdu:wait(5, "zombie_blood_secret_hint", function()
-        local steps_hints = {
-            "",
-            "zm_hint_step_2",
-            "zm_hint_step_3",
-            "zm_hint_step_4",
-            "zm_hint_step_5",
-            "zm_hint_step_6",
-            "zm_hint_step_7"
-        }
+    self._source_ambiance:post_event("zm_pwrup_zombie_blood_ambiance")
 
-        local current_step = WDUPowerUps._CURRENT_SECRET_STEP
-
-
-    end)
-]]
     self._source = SoundDevice:create_source("zombieblood_announcer")
-    self._source:post_event("zm_announcer_zombie_blood")
+    self._source:post_event("zm_pwrup_zombie_blood")
 
     managers.hud._hud_zm_waves:_set_gift_visible("icon_zombie_blood", true)
     managers.wdu:_setup_event_state("zombie_blood", true)
@@ -327,30 +311,30 @@ function WDUPowerUps:execute_zombie_blood()
         unit:movement():set_team(team_data_enemy)
     end
 
-    managers.wdu:wait(10, "zombie_blood_secret_hint", function()
-        local current_secret_step = WDUPowerUps._CURRENT_SECRET_STEP
-        if current_secret_step > 1 then
-            if not self._hint_said_for_step[current_secret_step] then
-                local hint_name = "hint_blood_" .. tostring(current_secret_step)
-                local hint_subtitle_id = "zm_hint_blood_sub_" .. tostring(current_secret_step)
-                local duration = self._hint_subtitles_durations[current_secret_step].duration
+    -- managers.wdu:wait(10, "zombie_blood_secret_hint", function()
+        -- local current_secret_step = WDUPowerUps._CURRENT_SECRET_STEP
+        -- if current_secret_step > 1 then
+            -- if not self._hint_said_for_step[current_secret_step] then
+                -- local hint_name = "hint_blood_" .. tostring(current_secret_step)
+                -- local hint_subtitle_id = "zm_hint_blood_sub_" .. tostring(current_secret_step)
+                -- local duration = self._hint_subtitles_durations[current_secret_step].duration
 
-                managers.wdu:_element_play_sound({
-                    name = "zombie_blood_hint",
-                    file_name = hint_name .. ".ogg",
-                    sound_type = "sfx",
-                    custom_dir = "sound/deamon/sora",
-                    is_relative = false,
-                    is_loop = false,
-                    is_3d = false,
-                    use_velocity = false
-                })
+                -- managers.wdu:_element_play_sound({
+                    -- name = "zombie_blood_hint",
+                    -- file_name = hint_name .. ".ogg",
+                    -- sound_type = "sfx",
+                    -- custom_dir = "sound/deamon/sora",
+                    -- is_relative = false,
+                    -- is_loop = false,
+                    -- is_3d = false,
+                    -- use_velocity = false
+                -- })
 
-                DramaExt:play_subtitle(hint_subtitle_id, duration)
-                self._hint_said_for_step[current_secret_step] = true
-            end
-        end
-    end)
+                -- DramaExt:play_subtitle(hint_subtitle_id, duration)
+                -- self._hint_said_for_step[current_secret_step] = true
+            -- end
+        -- end
+    -- end)
 
     managers.wdu:wait(31, "zombie_blood_duration", function()
         -- Revert changes
@@ -373,21 +357,21 @@ function WDUPowerUps:execute_zombie_blood_on(unit)
 
     for id, obj in pairs(self._zombie_blood_obj) do
         World:effect_manager():spawn({
-            effect = Idstring("effects/zm/zm_blood_smoke_distorted"),
+            effect = Idstring("units/pd2_mod_zombies/effects/zm_power_ups/zm_blood_smoke_distorted"),
             parent = unit:get_object(obj)
         })
     end
 
     for id_small, obj_small in pairs(self._zombie_blood_obj_small) do
         World:effect_manager():spawn({
-            effect = Idstring("effects/zm/zm_blood_smoke_distorted_small"),
+            effect = Idstring("units/pd2_mod_zombies/effects/zm_power_ups/zm_blood_smoke_distorted_small"),
             parent = unit:get_object(obj_small)
         })
     end
 
     for id_trail, obj_trail in pairs(self._zombie_blood_obj_trails) do
         World:effect_manager():spawn({
-            effect = Idstring("effects/zm/zm_blood_smoke_trail_small"),
+            effect = Idstring("units/pd2_mod_zombies/effects/zm_power_ups/zm_blood_smoke_trail_small"),
             parent = unit:get_object(obj_trail)
         })
     end

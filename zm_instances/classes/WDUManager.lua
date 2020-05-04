@@ -18,7 +18,7 @@ function WDUManager:init()
 end
 
 function WDUManager:_init_variables()
-    self.project_name = "testing"
+    self.project_name = "dah"
     self.extension = "shovel"
     self.wave_highscore_file = SavePath .. self.project_name .. "_Highscore." .. self.extension
     self.xaudio_initialized = false
@@ -77,14 +77,13 @@ function WDUManager:_init_variables()
         },
         power_up_chance = 5,
         power_up_table = {
-            "zm_pow_max_ammo",
-            "zm_pow_double_points",
-            "zm_pow_instakill",
-            "zm_pow_firesale",
-            "zm_pow_nuke",
-            "zm_pow_blood_money",
-            "zm_pow_zombie_blood",
-            "zm_pow_perk"
+            "zm_pwrup_max_ammo",
+            "zm_pwrup_double_points",
+            "zm_pwrup_instakill",
+            "zm_pwrup_firesale",
+            "zm_pwrup_nuke",
+            "zm_pwrup_blood_money",
+            "zm_pwrup_zombie_blood"
         },
         teleporter = {
             active = true
@@ -306,7 +305,7 @@ function WDUManager:_update_hud_element()
                     managers.hud._hud_zm_points._zmp_points_bg[peer:id()]:set_visible(true)
 
                     if not me then
-                        managers.hud._hud_zm_points._zmp_points_bg[peer:id()]:set_image("ui/bloodtrail_other")
+                        managers.hud._hud_zm_points._zmp_points_bg[peer:id()]:set_image("units/pd2_mod_zombies/guis/hud/bloodtrail_other")
                     end
             end
         end
@@ -347,6 +346,7 @@ function WDUManager:_get_points_amount(category, unit)
 end
 
 function WDUManager:_on_wdu_map()
+
     if Global.editor_mode then
         return true
     end
@@ -354,10 +354,11 @@ function WDUManager:_on_wdu_map()
     if not managers.job then
         return false
     end
-    
-    if managers.job:current_level_id() == "zm_dah" then
+	
+    if managers.job:current_contact_id() == "zombies_mode" then
         return true
     end
+
 
     return false
 end
@@ -442,7 +443,7 @@ function WDUManager:_destroy_source(id)
 end
 
 function WDUManager:_get_mod_path()
-    return zm_testing.ModPath
+    return zm_dah.ModPath
 end
 
 function WDUManager:_setup_video_panel()
@@ -533,38 +534,41 @@ end
 
 function WDUManager:_get_weapons_in_mystery_box()
     return {
-		"wpn_fps_spe_raygun",
-        "wpn_fps_spe_wunderwaffe",
 		"wpn_fps_ass_m14",
-		"wpn_fps_shot_b682",
-		"wpn_fps_smg_mp9",
-		"wpn_fps_snp_m95",
+        "wpn_fps_ass_g3",
+        "wpn_fps_ass_tar21",
 		"wpn_fps_ass_fal",
-		"wpn_fps_pis_deagle",
 		"wpn_fps_ass_aug",
-		"wpn_fps_smg_p90",
-		"wpn_fps_sho_striker",
 		"wpn_fps_ass_amcar",
 		"wpn_fps_ass_m16",
 		"wpn_fps_ass_scar",
-		"wpn_fps_pis_judge",
+		"wpn_fps_ass_flint",
+		"wpn_fps_smg_mp9",
+		"wpn_fps_smg_p90",
 		"wpn_fps_smg_thompson",
+        "wpn_fps_smg_tec9",
+        "wpn_fps_smg_schakal",
+        "wpn_fps_smg_erma",
+		"wpn_fps_pis_lemming",
+		"wpn_fps_pis_deagle",
+		"wpn_fps_pis_rage",
+        "wpn_fps_pis_1911",
+        "wpn_fps_pis_packrat",
+		"wpn_fps_pis_g22c",
+		"wpn_fps_pis_breech",
+		"wpn_fps_pis_judge",
+		"wpn_fps_snp_m95",
+		"wpn_fps_snp_mosin",
 		"wpn_fps_lmg_hk21",
 		"wpn_fps_lmg_m249",
-		"wpn_fps_pis_rage",
-		"wpn_fps_snp_mosin",
-		"wpn_fps_ass_flint",
-		"wpn_fps_pis_breech",
-		"wpn_fps_spe_rpg7",
-        "wpn_fps_smg_tec9",
-        "wpn_fps_sho_deamon",
-        "wpn_fps_spe_ray",
-        "wpn_fps_pis_1911",
-        "wpn_fps_ass_g3",
-        "wpn_fps_ass_tar21",
         "wpn_fps_lmg_par",
-        "wpn_fps_pis_packrat",
-		"wpn_fps_pis_g22c"
+		"wpn_fps_shot_m37",
+		"wpn_fps_shot_r870",
+        "wpn_fps_sho_deamon",
+		"wpn_fps_sho_striker",
+		"wpn_fps_shot_b682",
+		"wpn_fps_spe_rpg7",
+        "wpn_fps_spe_raygun"
     }
 end
 
@@ -614,8 +618,8 @@ function WDUManager:_convert_factory_to_upgrade()
 		wpn_fps_ass_flint_secondary = "wpn_fps_ass_flint_upg_secondary",
 		wpn_fps_pis_breech_primary = "wpn_fps_pis_breech_upg_primary",
 		wpn_fps_pis_breech_secondary = "wpn_fps_pis_breech_upg_secondary",
-		wpn_fps_ass_74_primary = "wpn_fps_ass_akrocket_upg_primary",
-		wpn_fps_ass_74_secondary = "wpn_fps_ass_akrocket_upg_secondary",
+		wpn_fps_ass_74_primary = "wpn_fps_ass_74_upg_primary",
+		wpn_fps_ass_74_secondary = "wpn_fps_ass_74_upg_secondary",
 		wpn_fps_ass_ching_primary = "wpn_fps_ass_ching_upg_primary",
 		wpn_fps_ass_ching_secondary = "wpn_fps_ass_ching_upg_secondary",
 		wpn_fps_pis_lemming_primary = "wpn_fps_pis_lemming_upg_primary",
@@ -652,7 +656,9 @@ function WDUManager:_convert_factory_to_upgrade()
         wpn_fps_pis_packrat_primary = "wpn_fps_pis_packrat_upg_primary",
         wpn_fps_pis_packrat_secondary = "wpn_fps_pis_packrat_upg_secondary",
 		wpn_fps_spe_raygun_primary = "wpn_fps_spe_raygun_upg_primary",
-        wpn_fps_spe_raygun_secondary = "wpn_fps_spe_raygun_upg_secondary"
+        wpn_fps_spe_raygun_secondary = "wpn_fps_spe_raygun_upg_secondary",
+		wpn_fps_gre_ray_primary = "wpn_fps_gre_ray_upg_primary",
+        wpn_fps_gre_ray_secondary = "wpn_fps_gre_ray_upg_secondary"
 	}
 end
 
@@ -689,53 +695,10 @@ end
 function WDUManager:_zm_auto_respawn()
     return
 end
---[[
-    if not Network:is_server() then
-        return
-    end
-
-    local threshold = 4
-    local time_before_respawn = 20
-    local current_total_spawned = self.level.zombies.currently_spawned
-    local total_killed = self.level.zombies.killed
-    local max_spawns = managers.wdu:_is_special_wave() and self.level.zombies.max_spawns or managers.wdu.level.zombies.max_special_wave_total_spawns
-
-    if (max_spawns - total_killed) <= threshold then
-        log("auto respawn initialized")
-        DelayedCalls:Add( "zm_auto_respawn_in", time_before_respawn, function()
-            if current_total_spawned > 0 then
-                local function nukeunit(pawn)
-                    local col_ray = { }
-                    col_ray.ray = Vector3(1, 0, 0)
-                    col_ray.position = pawn.unit:position()
-                
-                    local action_data = {}
-                    action_data.variant = "explosion"
-                    action_data.damage = 1000000
-                    action_data.attacker_unit = nil
-                    action_data.col_ray = col_ray
-                
-                    pawn.unit:character_damage():damage_explosion(action_data)
-                end
-        
-                for u_key,u_data in pairs(managers.enemy:all_enemies()) do
-                    nukeunit(u_data)
-                end
-            end
-
-            log("nuked")
-
-            managers.wdu:_zm_auto_respawn()
-        end)
-    end
-end--]]
 
 function WDUManager:_remove_auto_respawn()
     return
 end
---[[    log("auto respawn removed.")
-    DelayedCalls:Remove( "zm_auto_respawn_in" )
-end--]]
 
 function WDUManager:points_round(points)
     local mult = 10^(-1)
@@ -779,8 +742,8 @@ end
 
 function WDUManager:check_ee_state()
     local keys = {
-        "finsternis_easteregg_completed",
-        "broken_arrow2_easteregg_completed"
+        "blank",
+        "blank2"
     }
 
     local secret_completed = 0
@@ -897,8 +860,8 @@ Hooks:Add("NetworkReceivedData", "NetworkReceivedData_WDUManager_Sync", function
 
         managers.wdu:_element_play_sound({
             name = "play_shadow_spook",
-            custom_dir = "sound/shadowow",
-            file_name = "post_mortem.ogg",
+            custom_dir = "units/pd2_mod_zombies/sounds/zm_enemy/shadow",
+            file_name = "zm_ene_shadow_scream_01.ogg",
             is_loop = false,
             is_relative = false,
             is_3d = true,
@@ -912,15 +875,15 @@ Hooks:Add("NetworkReceivedData", "NetworkReceivedData_WDUManager_Sync", function
 
             if pos then
                 World:effect_manager():spawn({
-                    effect = Idstring("effects/zm/zm_special_spawn"),
+                    effect = Idstring("units/pd2_mod_zombies/effects/zm/zm_special_spawn"),
                     position = pos
                 })
             end
 
             managers.wdu:_element_play_sound({
-                name = "play_sound_spawn",
-                custom_dir = "sound",
-                file_name = "special_spawn.ogg",
+                name = "zm_enemy_spawn_electrical",
+                file_name = "zm_enemy_spawn_electrical.ogg",
+                custom_dir = "units/pd2_mod_zombies/sounds/zm_enemy/spawning",
                 is_loop = false,
                 is_relative = false
             })

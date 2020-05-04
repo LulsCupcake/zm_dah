@@ -6,10 +6,10 @@ function PowerUps:init(unit)
 
     if self._power_up_id then
         managers.wdu:_element_play_sound({
-            name = "power_up_loop" .. self._power_up_id,
-            file_name = "power_up_loop.ogg",
+            name = "zm_pwrup_float_idle" .. self._power_up_id,
+            file_name = "zm_pwrup_float_idle.ogg",
             sound_type = "sfx",
-            custom_dir = "sound",
+            custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
             is_relative = false,
             is_loop = true,
             is_3d = true,
@@ -128,10 +128,10 @@ function PowerUps:_pickup(unit)
 
         if self._power_up_id then
             managers.wdu:_element_play_sound({
-                name = "power_up_taken",
-                file_name = "gift_taken.ogg",
+                name = "zm_pwrup_float_collect",
+                file_name = "zm_pwrup_float_collect.ogg",
                 sound_type = "sfx",
-                custom_dir = "sound",
+                custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
                 is_relative = false,
                 is_loop = false,
                 is_3d = true,
@@ -141,12 +141,6 @@ function PowerUps:_pickup(unit)
         end
 
         self:consume()
-
-        --if self._ammo_box then
-        --	player_manager:send_message(Message.OnAmmoPickup, nil, unit)
-        --end
-        
-        -- ^ unsure what this does.
 
         return true
 	end
@@ -159,6 +153,6 @@ end
 
 Hooks:PostHook(AmmoClip, "consume", "post_init_consume_zm", function(self)
     if self._power_up_id then
-        managers.wdu:_destroy_source("power_up_loop" .. self._power_up_id)
+        managers.wdu:_destroy_source("zm_pwrup_float_idle" .. self._power_up_id)
     end
 end)
