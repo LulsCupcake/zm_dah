@@ -691,6 +691,14 @@
 		<sequence_manager path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch"/>
 		<unit path="units/pd2_mod_zombies/equipment/zom_pack_a_punch/zom_pack_a_punch"/>
 	</add>
+	<add path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" type="unit">
+		<effect load="true" path="units/pd2_mod_zombies/effects/zm_enemy_effects/zm_eyes" unload="true"/>
+		<material_config path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" unload="true"/>
+		<model path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" unload="true"/>
+		<object path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" unload="true"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/zombie_eyes_il" unload="true"/>
+		<unit path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" unload="true"/>
+	</add>
 	<add unload_on_restart="true">
 		<unit path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1"/>
 		<unit path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1_husk"/>
@@ -704,14 +712,6 @@
 		<model path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2"/>
 		<material_config path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2"/>
 		<sequence_manager path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2"/>
-	</add>
-	<add path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" type="unit">
-		<effect load="true" path="units/pd2_mod_zombies/effects/zm_enemy_effects/zm_eyes" unload="true"/>
-		<material_config path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" unload="true"/>
-		<model path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" unload="true"/>
-		<object path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" unload="true"/>
-		<texture path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/zombie_eyes_il" unload="true"/>
-		<unit path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_zombies/characters/ene_bulldozer_hvh_1/ene_bulldozer_hvh_1" type="unit">
 		<bnk path="soundbanks/regular_sfx" unload="true"/>
@@ -757,40 +757,6 @@
 	<add path="units/pd2_mod_zombies/characters/ene_medic_hvh_m4/ene_medic_hvh_m4_husk" type="unit"/>
 	<add path="units/pd2_mod_zombies/characters/ene_medic_hvh_r870/ene_medic_hvh_r870" type="unit"/>
 	<add path="units/pd2_mod_zombies/characters/ene_medic_hvh_r870/ene_medic_hvh_r870_husk" type="unit"/>
-	<add path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1" type="unit">
-		<unit path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1" unload="true"/>
-		<unit path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1_husk" unload="true"/>
-		<effect load="true" path="units/pd2_mod_zombies/effects/zm_enemy_effects/zm_eyes" unload="true"/>
-		<material_config path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1" unload="true"/>
-		<model path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1" unload="true"/>
-		<object path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1" unload="true"/>
-		<sequence_manager path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1" unload="true"/>
-	</add>
-	<add path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1_husk" type="unit">
-		<effect load="true" path="units/pd2_mod_zombies/effects/zm_enemy_effects/zm_eyes" unload="true"/>
-		<material_config path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1" unload="true"/>
-		<model path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1" unload="true"/>
-		<object path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1" unload="true"/>
-		<sequence_manager path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1" unload="true"/>
-		<unit path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1_husk" unload="true"/>
-	</add>
-	<add path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2" type="unit">
-		<unit path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2" unload="true"/>
-		<unit path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2_husk" unload="true"/>
-		<effect load="true" path="units/pd2_mod_zombies/effects/zm_enemy_effects/zm_eyes" unload="true"/>
-		<material_config path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2" unload="true"/>
-		<model path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2" unload="true"/>
-		<object path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2" unload="true"/>
-		<sequence_manager path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2" unload="true"/>
-	</add>
-	<add path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2_husk" type="unit">
-		<effect load="true" path="units/pd2_mod_zombies/effects/zm_enemy_effects/zm_eyes" unload="true"/>
-		<material_config path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2" unload="true"/>
-		<model path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2" unload="true"/>
-		<object path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2" unload="true"/>
-		<sequence_manager path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2" unload="true"/>
-		<unit path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2_husk" unload="true"/>
-	</add>
 	<add path="units/pd2_mod_zombies/characters/ene_shield_hvh_1/ene_shield_hvh_1" type="unit"/>
 	<add path="units/pd2_mod_zombies/characters/ene_shield_hvh_1/ene_shield_hvh_1_husk" type="unit"/>
 	<add path="units/pd2_mod_zombies/characters/ene_shield_hvh_2/ene_shield_hvh_2" type="unit"/>

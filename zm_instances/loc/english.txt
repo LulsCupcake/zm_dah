@@ -1,6 +1,7 @@
 {
 	"heist_zm_instances_name":"[CONFIDENTIAL]",
 	"heist_zm_instances_brief":"[CONFIDENTIAL]",
+	"zombies_mode_name":			"Zombies Mode",
 	"heist_zm_dah_name":"[CONFIDENTIAL]",
 	"heist_zm_dah_brief":"[CONFIDENTIAL]",
 	"heist_zm_dah_elevator_name":"[CONFIDENTIAL]",

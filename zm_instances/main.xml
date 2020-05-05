@@ -806,8 +806,8 @@
 		<hook file="ZM_ContractHudManager.lua" source_file="lib/managers/menu/items/contractbrokerheistitem"/>
 	</Hooks>
 	<Localization default="english.txt" directory="loc"/>
-	<contact assets_gui="guis/mission_briefing/preload_contact_bain" desc_id="quest_test_d" id="test" package="packages/contact_bain"/>
-	<narrative contact="custom" id="zm_instances">
+	<contact assets_gui="guis/dlcs/the_bomb/guis/preload_contact_the_butcher" hidden="false" id="zombies_mode" name_id="zombies_mode_name" package="packages/contact_the_butcher"/>
+	<narrative contact="zombies_mode" id="zm_instances">
 		<>
 			<value_node value="0"/>
 			<value_node value="0"/>

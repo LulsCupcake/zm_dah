@@ -758,7 +758,6 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		zm_interaction = true,
 		pack_a_punch = true,
 		points_cost = 5000,
-		stay_active = true,
 		action_text_id = "zm_upgrade_weapon",
 		start_active = false,
 		sound_done = "zm_gen_ching",
@@ -896,7 +895,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		is_perk_interaction = true,
 		action_text_id = "zm_buy_perk",
 		start_active = false,
-		axis = "y",
+		axis = "x",
 		timer = 0.5,
 		sound_done = "zm_perk_bought",
 		special_equipment_block = "perk_deadshot"
