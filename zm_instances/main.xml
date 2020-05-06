@@ -241,19 +241,18 @@
 				</sounds>
 				<sounds directory="zm_perks">
 					<sound id="zm_perk_bought" path="zm_perk_bought.ogg"/>
-					<sound id="zm_perk_bumped" path="zm_perk_bumped.ogg" relative="true"/>
-					<sound id="zm_perk_denied" path="zm_perk_denied.ogg" relative="true"/>
-					<sound id="zm_perk_hum" path="zm_perk_hum.ogg" relative="true"/>
-					<sound id="zm_perk_song_deadshot_sting" path="zm_perk_song_deadshot.ogg" relative="true"/>
-					<sound id="zm_perk_song_doubletap_sting" path="zm_perk_song_doubletap.ogg" relative="true"/>
-					<sound id="zm_perk_song_pap_sting" path="zm_perk_song_pack_a_punch.ogg" relative="true"/>
-					<sound id="zm_perk_song_staminup_sting" path="zm_perk_song_staminup.ogg" relative="true"/>
-					<sound id="zm_perk_song_speedcola" path="zm_perk_song_speedcola.ogg" relative="true"/>
-					<sound id="zm_perk_song_speedcola_sting" path="zm_perk_song_speedcola_sting.ogg" relative="true"/>
-					<sound id="zm_perk_song_quickrevive" path="zm_perk_song_quickrevive.ogg" relative="true"/>
-					<sound id="zm_perk_song_quickrevive_sting" path="zm_perk_song_quickrevive_sting.ogg" relative="true"/>
-					<sound id="zm_perk_song_juggernog" path="zm_perk_song_juggernog.ogg" relative="true"/>
-					<sound id="zm_perk_song_juggernog_sting" path="zm_perk_song_juggernog_sting.ogg" relative="true"/>
+					<sound id="zm_perk_bumped" path="zm_perk_bumped.ogg"/>
+					<sound id="zm_perk_denied" path="zm_perk_denied.ogg"/>
+					<sound id="zm_perk_song_deadshot_sting" path="zm_perk_song_deadshot.ogg"/>
+					<sound id="zm_perk_song_doubletap_sting" path="zm_perk_song_doubletap.ogg"/>
+					<sound id="zm_perk_song_pap_sting" path="zm_perk_song_pack_a_punch.ogg"/>
+					<sound id="zm_perk_song_staminup_sting" path="zm_perk_song_staminup.ogg"/>
+					<sound id="zm_perk_song_speedcola" path="zm_perk_song_speedcola.ogg"/>
+					<sound id="zm_perk_song_speedcola_sting" path="zm_perk_song_speedcola_sting.ogg"/>
+					<sound id="zm_perk_song_quickrevive" path="zm_perk_song_quickrevive.ogg"/>
+					<sound id="zm_perk_song_quickrevive_sting" path="zm_perk_song_quickrevive_sting.ogg"/>
+					<sound id="zm_perk_song_juggernog" path="zm_perk_song_juggernog.ogg"/>
+					<sound id="zm_perk_song_juggernog_sting" path="zm_perk_song_juggernog_sting.ogg"/>
 				</sounds>
 				<sounds directory="zm_mystery_box">
 					<sound id="zm_box_giggle" path="zm_box_giggle.ogg"/>
