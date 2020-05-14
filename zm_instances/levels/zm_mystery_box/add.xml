@@ -1,4 +1,10 @@
 <table directory="assets">
+		<add unload_on_restart="true">
+		<unit path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
+		<object path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
+		<model path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
+		<material_config path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
+	</add>
 	<add path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" type="unit">
 		<object force="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" unload="true"/>
 		<sequence_manager force="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" unload="true"/>
