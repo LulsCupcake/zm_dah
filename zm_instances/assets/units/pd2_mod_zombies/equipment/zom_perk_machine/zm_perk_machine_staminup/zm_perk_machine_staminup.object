@@ -4,6 +4,7 @@
 	<bodies>
 		<body name="body_static" enabled="true" template="static">
 			<object name="co_culling" collision_type="box" padding="-2.5" />
+			<object name="body" collision_type="mesh_mopp" padding="-2.5" />
 		</body>
 	</bodies>
 	<graphics>

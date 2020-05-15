@@ -405,12 +405,6 @@
 		<object force="true" path="units/pd2_mod_zombies/architecture/zom_dah_roof/zom_dah_rooftop" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_dah_roof/zom_dah_rooftop" unload="true"/>
 	</add>
-	<add path="units/pd2_mod_zombies/architecture/zom_dah_roof/zom_dah_roofhole" type="unit">
-		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_dah_tiles/zom_dah" unload="true"/>
-		<model force="true" path="units/pd2_mod_zombies/architecture/zom_dah_roof/zom_dah_roofhole" unload="true"/>
-		<object force="true" path="units/pd2_mod_zombies/architecture/zom_dah_roof/zom_dah_roofhole" unload="true"/>
-		<unit force="true" path="units/pd2_mod_zombies/architecture/zom_dah_roof/zom_dah_roofhole" unload="true"/>
-	</add>
 	<add path="units/pd2_mod_zombies/architecture/zom_bonus_rooms/zom_room_barn" type="unit">
 		<material_config force="true" path="units/pd2_mod_zombies/architecture/zom_bonus_rooms/zom_room_barn" unload="true"/>
 		<model force="true" path="units/pd2_mod_zombies/architecture/zom_bonus_rooms/zom_room_barn" unload="true"/>
