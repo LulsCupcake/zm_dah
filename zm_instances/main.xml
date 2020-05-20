@@ -119,6 +119,7 @@
 			<hook file="PlayerMovement.lua" source_file="lib/units/beings/player/playermovement"/>
 			<hook file="PlayerTweakData.lua" source_file="lib/tweak_data/playertweakdata"/>
 			<hook file="playerparachuting.lua" source_file="lib/units/beings/player/states/playerparachuting"/>
+			<hook file="playerfreefall.lua" source_file="lib/units/beings/player/states/playerfreefall"/>
 			<hook file="ProjectilesTweakData.lua" source_file="lib/tweak_data/blackmarket/projectilestweakdata"/>
 			<hook file="EnvEffectTweakData.lua" source_file="lib/tweak_data/enveffecttweakdata"/>
 			<hook file="RaycastWeaponBase.lua" source_file="lib/units/weapons/raycastweaponbase"/>
@@ -214,6 +215,7 @@
 				<sound id="wunderwaffe_spree" path="spree.ogg"/>
 				<sound id="wunderwaffe_spree2" path="spree2.ogg"/>
 				<sound id="zm_firesale" path="firesale.ogg"/>
+				<sound id="skydive" path="skydive.ogg"/>
 				<sounds directory="zm_generic">
 					<sound id="zm_gen_wave_new" path="zm_gen_wave_new.ogg"/>
 					<sound id="zm_gen_wave_new_special" path="zm_gen_wave_new_special.ogg"/>
@@ -703,6 +705,7 @@
 						<sound id="clk_burndeath" path="mdc_immolate.ogg"/>
 					</sounds>
 				</sounds>
+				<stop id="skydive_stop" path="skydive.ogg"/>
 			</sounds>
 		</sounds>
 	</level>

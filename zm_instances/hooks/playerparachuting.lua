@@ -20,7 +20,6 @@ function PlayerParachuting:enter(state_data, enter_data)
 	self._original_damping = self._unit:mover():damping()
 
 	self._unit:mover():set_damping(self._tweak_data.gravity / self._tweak_data.terminal_velocity)
-	self._unit:sound():play("flashbang_explode_sfx_player", nil, false)
 
 	self.parachuting = true
 end
