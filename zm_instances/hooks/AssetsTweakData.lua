@@ -4,6 +4,11 @@ Hooks:PostHook(AssetsTweakData, "_init_assets", "zm_init_assets", function(self,
 		texture = "units/pd2_mod_zombies/guis/assets/perk_mechanics",
 		no_mystery = true
 	}
+	self.perk_mechanics2 = {
+		name_id = "zm_perk_mechanics",
+		texture = "units/pd2_mod_zombies/guis/assets/perk_mechanics2",
+		no_mystery = true
+	}
 end)
 
 Hooks:PostHook(AssetsTweakData, "_init_risk_assets", "zm_ignore_risk_asset", function(self, tweak_data)

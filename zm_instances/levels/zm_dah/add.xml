@@ -446,6 +446,7 @@
 		<texture path="units/pd2_mod_zombies/guis/hud/bloodtrail"/>
 		<texture path="units/pd2_mod_zombies/guis/hud/bloodtrail_other"/>
 		<texture path="units/pd2_mod_zombies/guis/assets/perk_mechanics"/>
+		<texture path="units/pd2_mod_zombies/guis/assets/perk_mechanics2"/>
 		<texture path="units/pd2_mod_zombies/guis/perks/perk_sheet"/>
 		<texture path="units/pd2_mod_zombies/guis/power_ups/power_double_points"/>
 		<texture path="units/pd2_mod_zombies/guis/power_ups/power_instakill"/>
