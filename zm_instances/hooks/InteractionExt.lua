@@ -239,6 +239,35 @@ function BaseInteractionExt:selected(player, locator, hand_id)
 				text = "You need " .. points_needed .. " more points to buy a random weapon"
 			end
 		end
+		
+		--Is a ZM Box Weapon Grab Interaction?
+		if self._tweak_data.box_weapon then
+			local item = self._tweak_data.box_weapon
+			local own_weapon = false
+			
+			text = "Hold " .. managers.localization:btn_macro("interact") .. " to grab the " .. item
+			
+			local current_state = managers.player:get_current_state()
+			if current_state then
+				local current_weapon = current_state:get_equipped_weapon()
+				local is_secondary = managers.player:player_unit():inventory():equipped_selection() == 1
+				local is_primary = managers.player:player_unit():inventory():equipped_selection() == 2
+				local suffix = "_primary"
+
+				if is_secondary then
+					suffix = "_secondary"
+				end
+
+				local converted_id_to_new_system = self._tweak_data.weapon_id .. suffix
+
+				if current_weapon.name_id == converted_id_to_new_system then
+					text = "Hold " .. managers.localization:btn_macro("interact") .. " to refill the ammo of the " .. item
+					own_weapon = true
+				end
+			end
+		end
+		
+		
 
 		--Is a ZM Trade Points Interaction?
 		if self._tweak_data.point_giveaway_spot then

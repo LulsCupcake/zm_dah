@@ -249,9 +249,23 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 	
 	self.zm_wall_buy_box_ray = {
         zm_interaction = true,
-        weapon = "Commando 101",
+        box_weapon = "Commando 101",
         weapon_id = "ray",
         points_cost = 0,
+        stay_active = false,
+        action_text_id = "zm_buy_weapon",
+        start_active = false,
+        sound_done = "zm_gen_ching",
+        axis = "y",
+        timer = 0.5
+    }
+	
+	self.zm_wall_buy_box_deamon = {
+        zm_interaction = true,
+        box_weapon = "Breaker 12G",
+        weapon_id = "boot",
+        points_cost = 0,
+        box_box_weapon = true,
         stay_active = false,
         action_text_id = "zm_buy_weapon",
         start_active = false,
@@ -262,7 +276,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_m14 = {
         zm_interaction = true,
-        weapon = "M308 Rifle",
+        box_weapon = "M308 Rifle",
         weapon_id = "new_m14",
         points_cost = 0,
         stay_active = false,
@@ -275,7 +289,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_raygun = {
         zm_interaction = true,
-        weapon = "Raygun",
+        box_weapon = "Raygun",
         weapon_id = "raygun",
         points_cost = 0,
         stay_active = false,
@@ -288,7 +302,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_joceline = {
         zm_interaction = true,
-        weapon = "Joceline Shotgun",
+        box_weapon = "Joceline Shotgun",
         weapon_id = "b682",
         points_cost = 0,
         stay_active = false,
@@ -301,7 +315,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_r870 = {
         zm_interaction = true,
-        weapon = "Reinfeld 880 Shotgun",
+        box_weapon = "Reinfeld 880 Shotgun",
         weapon_id = "r870",
         points_cost = 0,
         stay_active = false,
@@ -314,7 +328,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_57 = {
         zm_interaction = true,
-        weapon = "5/7 Pistol",
+        box_weapon = "5/7 Pistol",
         weapon_id = "lemming",
         points_cost = 0,
         stay_active = false,
@@ -327,7 +341,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_ump45 = {
         zm_interaction = true,
-        weapon = "Jackal SMG",
+        box_weapon = "Jackal SMG",
         weapon_id = "schakal",
         points_cost = 0,
         stay_active = false,
@@ -340,7 +354,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_m37 = {
         zm_interaction = true,
-        weapon = "GSPS Shotgun",
+        box_weapon = "GSPS Shotgun",
         weapon_id = "m37",
         points_cost = 0,
         stay_active = false,
@@ -353,7 +367,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
         self.zm_wall_buy_box_tec9 = {
         zm_interaction = true,
-        weapon = "Blaster 9mm",
+        box_weapon = "Blaster 9mm",
         weapon_id = "tec9",
         points_cost = 0,
         stay_active = false,
@@ -366,7 +380,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_mp9 = {
         zm_interaction = true,
-        weapon = "MP9 Submachine Gun",
+        box_weapon = "MP9 Submachine Gun",
         weapon_id = "mp9",
         points_cost = 0,
         stay_active = false,
@@ -379,7 +393,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_ak47 = {
         zm_interaction = true,
-        weapon = "AK Rifle",
+        box_weapon = "AK Rifle",
         weapon_id = "ak74",
         points_cost = 0,
         stay_active = false,
@@ -392,7 +406,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_fal = {
         zm_interaction = true,
-        weapon = "Falcon",
+        box_weapon = "Falcon",
         weapon_id = "fal",
         points_cost = 0,
         stay_active = false,
@@ -405,7 +419,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_mosin = {
         zm_interaction = true,
-        weapon = "Nagant",
+        box_weapon = "Nagant",
         weapon_id = "mosin",
         points_cost = 0,
         stay_active = false,
@@ -418,7 +432,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_mp40 = {
         zm_interaction = true,
-        weapon = "MP40 SMG",
+        box_weapon = "MP40 SMG",
         weapon_id = "erma",
         points_cost = 0,
         stay_active = false,
@@ -431,7 +445,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_garand = {
         zm_interaction = true,
-        weapon = "Galant Rifle",
+        box_weapon = "Galant Rifle",
         weapon_id = "ching",
         points_cost = 0,
         stay_active = false,
@@ -444,7 +458,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_1911 = {
         zm_interaction = true,
-        weapon = "Colt 1911",
+        box_weapon = "Colt 1911",
         weapon_id = "col_1911",
         points_cost = 0,
         stay_active = false,
@@ -457,7 +471,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_amcar = {
         zm_interaction = true,
-        weapon = "Amcar",
+        box_weapon = "Amcar",
         weapon_id = "amcar",
         points_cost = 0,
         stay_active = false,
@@ -470,7 +484,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_aug = {
         zm_interaction = true,
-        weapon = "UAR",
+        box_weapon = "UAR",
         weapon_id = "aug",
         points_cost = 0,
         stay_active = false,
@@ -483,7 +497,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_breech = {
         zm_interaction = true,
-        weapon = "Parabellum",
+        box_weapon = "Parabellum",
         weapon_id = "breech",
         points_cost = 0,
         stay_active = false,
@@ -496,7 +510,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_deagle = {
         zm_interaction = true,
-        weapon = "Deagle",
+        box_weapon = "Deagle",
         weapon_id = "deagle",
         points_cost = 0,
         stay_active = false,
@@ -509,7 +523,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_flint = {
         zm_interaction = true,
-        weapon = "AK17",
+        box_weapon = "AK17",
         weapon_id = "flint",
         points_cost = 0,
         stay_active = false,
@@ -522,7 +536,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_g3 = {
         zm_interaction = true,
-        weapon = "Gewehr 3",
+        box_weapon = "Gewehr 3",
         weapon_id = "g3",
         points_cost = 0,
         stay_active = false,
@@ -535,7 +549,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_g22c = {
         zm_interaction = true,
-        weapon = "Chimano Custom",
+        box_weapon = "Chimano Custom",
         weapon_id = "g22c",
         points_cost = 0,
         stay_active = false,
@@ -548,7 +562,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_hk21 = {
         zm_interaction = true,
-        weapon = "Brenner 21",
+        box_weapon = "Brenner 21",
         weapon_id = "hk21",
         points_cost = 0,
         stay_active = false,
@@ -561,7 +575,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_judge = {
         zm_interaction = true,
-        weapon = "Judge",
+        box_weapon = "Judge",
         weapon_id = "judge",
         points_cost = 0,
         stay_active = false,
@@ -574,7 +588,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_m16 = {
         zm_interaction = true,
-        weapon = "AMR-16",
+        box_weapon = "AMR-16",
         weapon_id = "m16",
         points_cost = 0,
         stay_active = false,
@@ -587,7 +601,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_m95 = {
         zm_interaction = true,
-        weapon = "Thanatos .50 cal",
+        box_weapon = "Thanatos .50 cal",
         weapon_id = "m95",
         points_cost = 0,
         stay_active = false,
@@ -600,7 +614,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_m249 = {
         zm_interaction = true,
-        weapon = "KSP",
+        box_weapon = "KSP",
         weapon_id = "m249",
         points_cost = 0,
         stay_active = false,
@@ -613,7 +627,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_p90 = {
         zm_interaction = true,
-        weapon = "Kobus 90",
+        box_weapon = "Kobus 90",
         weapon_id = "p90",
         points_cost = 0,
         stay_active = false,
@@ -626,7 +640,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_packrat = {
         zm_interaction = true,
-        weapon = "Contractor",
+        box_weapon = "Contractor",
         weapon_id = "packrat",
         points_cost = 0,
         stay_active = false,
@@ -639,7 +653,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_par = {
         zm_interaction = true,
-        weapon = "KSP 58",
+        box_weapon = "KSP 58",
         weapon_id = "par",
         points_cost = 0,
         stay_active = false,
@@ -652,7 +666,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_rage = {
         zm_interaction = true,
-        weapon = "Bronco .44",
+        box_weapon = "Bronco .44",
         weapon_id = "new_raging_bull",
         points_cost = 0,
         stay_active = false,
@@ -665,7 +679,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_rpg7 = {
         zm_interaction = true,
-        weapon = "HRL-7",
+        box_weapon = "HRL-7",
         weapon_id = "rpg7",
         points_cost = 0,
         stay_active = false,
@@ -678,7 +692,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_scar = {
         zm_interaction = true,
-        weapon = "Eagle Heavy",
+        box_weapon = "Eagle Heavy",
         weapon_id = "scar",
         points_cost = 0,
         stay_active = false,
@@ -691,7 +705,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_tar21 = {
         zm_interaction = true,
-        weapon = "Tempest 21",
+        box_weapon = "Tempest 21",
         weapon_id = "komodo",
         points_cost = 0,
         stay_active = false,
@@ -704,7 +718,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_thompson = {
         zm_interaction = true,
-        weapon = "Chicago Typewriter",
+        box_weapon = "Chicago Typewriter",
         weapon_id = "m1928",
         points_cost = 0,
         stay_active = false,
@@ -717,7 +731,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
     
     self.zm_wall_buy_box_wunderwaffe = {
         zm_interaction = true,
-        weapon = "wunderwaffe DG-2",
+        box_weapon = "wunderwaffe DG-2",
         weapon_id = "wunderwaffe",
         points_cost = 0,
         stay_active = false,
@@ -730,7 +744,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 
     self.zm_wall_buy_box_striker = {
         zm_interaction = true,
-        weapon = "Street Sweeper",
+        box_weapon = "Street Sweeper",
         weapon_id = "striker",
         points_cost = 0,
         stay_active = false,
