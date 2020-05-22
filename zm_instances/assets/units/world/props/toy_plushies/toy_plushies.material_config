@@ -1,0 +1,5 @@
+<materials version="3">
+    <material name="plushie" render_template="generic:DIFFUSE_TEXTURE:VERTEX_COLOR" version="2">
+        <diffuse_texture file="units/world/props/toy_plushies/toy_plushies_df"/>
+    </material>
+</materials>

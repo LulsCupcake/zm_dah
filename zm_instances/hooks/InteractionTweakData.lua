@@ -909,7 +909,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		is_perk_interaction = true,
 		action_text_id = "zm_buy_perk",
 		start_active = false,
-		axis = "x",
+		axis = "z",
 		timer = 0.5,
 		sound_done = "zm_perk_bought",
 		special_equipment_block = "perk_deadshot"
@@ -930,7 +930,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		is_perk_interaction = true,
 		action_text_id = "zm_buy_perk",
 		start_active = false,
-		axis = "x",
+		axis = "z",
 		timer = 0.5,	
 		sound_done = "zm_perk_bought",
 		special_equipment_block = "perk_staminup"

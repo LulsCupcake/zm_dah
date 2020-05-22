@@ -1,0 +1,14 @@
+<dynamic_object>
+    <diesel orientation_object="rp_toy_teddy" materials="units/world/props/toy_plushies/toy_plushies" />
+    
+	<bodies>
+		<body name="static_body" enabled="true" template="editor">
+			<object name="rp_toy_teddy" />
+			<object name="c_editor" collision_type="box" />
+		</body>	
+	</bodies>
+	
+	<graphics>
+        <object enabled="true" name="g_teddy" />
+    </graphics>
+</dynamic_object>

@@ -1,9 +1,9 @@
 <table directory="assets">
-		<add unload_on_restart="true">
-		<unit path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
-		<object path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
-		<model path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
+	<add unload_on_restart="true">
 		<material_config path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
+		<model path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
+		<object path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
+		<unit path="units/pd2_mod_zombies/props/zom_mysterybox_marker/zom_mysterybox_marker"/>
 	</add>
 	<add path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" type="unit">
 		<object force="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" unload="true"/>
@@ -70,14 +70,19 @@
 		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_deagle" unload="true"/>
 		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_m95" unload="true"/>
 		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_wunderwaffe" unload="true"/>
-		<model force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
-		<object force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
-		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
-		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal_glow_blue" unload="true"/>
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal_glow_red" unload="true"/>
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/raygun" unload="true"/>
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/stdwunderwaffe" unload="true"/>
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/komodo" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
+	</add>
+	<add path="units/world/props/toy_plushies/toy_teddy" type="unit">
+		<unit path="units/world/props/toy_plushies/toy_teddy" unload="true"/>
+		<object path="units/world/props/toy_plushies/toy_teddy" unload="true"/>
+		<material_config path="units/world/props/toy_plushies/toy_plushies" unload="true"/>
 	</add>
 </table>

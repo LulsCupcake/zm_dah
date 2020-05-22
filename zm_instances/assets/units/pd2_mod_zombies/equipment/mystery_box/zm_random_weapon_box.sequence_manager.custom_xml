@@ -28,7 +28,6 @@
 			<animation_group enabled="true" from="80/30" name="'anim_open_close'" speed="-2" to="0/30"/>
 			<sound action="'play'" event="'zm_box_shutting'" object="'interact'"/>
 			<effect_spawner enabled="false" name="'glow_01'"/>
-			<interaction enabled="true" start_time="30/30"/>
 		</sequence>
 		<sequence editable_state="true" name="'enable_interaction'" triggable="true">
 			<interaction enabled="true"/>
