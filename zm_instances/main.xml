@@ -187,6 +187,7 @@
 			<value_node value="levels/narratives/classics/dah/world"/>
 			<value_node value="levels/narratives/locke/mex/art2/art2"/>
 			<value_node value="levels/narratives/safehouse/safehouse_worldmesh/safehouse_worldmesh"/>
+			<value_node value="levels/instances/unique/dah/dah_laptop_code/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
@@ -215,7 +216,6 @@
 				<sound id="wunderwaffe_hit" path="gottem.ogg"/>
 				<sound id="wunderwaffe_spree" path="spree.ogg"/>
 				<sound id="wunderwaffe_spree2" path="spree2.ogg"/>
-				<sound id="zm_firesale" path="firesale.ogg"/>
 				<sound id="skydive" path="skydive.ogg"/>
 				<sounds directory="zm_generic">
 					<sound id="zm_gen_wave_new" path="zm_gen_wave_new.ogg"/>
@@ -239,6 +239,7 @@
 					<sound id="zm_pwrup_blood_money" path="zm_pwrup_blood_money.ogg"/>
 					<sound id="zm_pwrup_double_points" path="zm_pwrup_double_points.ogg"/>
 					<sound id="zm_pwrup_firesale" path="zm_pwrup_firesale.ogg"/>
+					<sound id="zm_pwrup_firesale_song" path="zm_pwrup_firesale_song.ogg"/>
 					<sound id="zm_pwrup_instakill" path="zm_pwrup_instakill.ogg"/>
 					<sound id="zm_pwrup_max_ammo" path="zm_pwrup_max_ammo.ogg"/>
 					<sound id="zm_pwrup_nuke" path="zm_pwrup_nuke.ogg"/>
@@ -266,6 +267,7 @@
 					<sound id="zm_box_left" path="zm_box_left.ogg"/>
 					<sound id="zm_box_picking" path="zm_box_picking.ogg"/>
 					<sound id="zm_box_shutting" path="zm_box_shutting.ogg"/>
+					<sound id="zm_box_moving" path="zm_box_moving.ogg"/>
 				</sounds>
 				<sounds directory="zm_announcer">
 					<sound id="zm_sam_laugh" path="demon_sam_laugh.ogg"/>
@@ -792,6 +794,7 @@
 			<value_node value="levels/narratives/elephant/chew/collision/collision"/>
 			<value_node value="levels/narratives/locke/des/editor_only/editor_only"/>
 			<value_node value="levels/instances/unique/hlm_random_right001/world/world"/>
+			<value_node value="levels/instances/unique/shout_card/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

@@ -116,7 +116,18 @@ function WDUPowerUps:execute_firesale()
     managers.wdu:_element_play_sound({
         name = "zm_pwrup_firesale",
         file_name = "zm_pwrup_firesale.ogg",
-        sound_type = "music",
+        sound_type = "sfx",
+        custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
+        is_relative = false,
+        is_loop = false,
+        is_3d = false,
+        use_velocity = false
+    })
+	
+	managers.wdu:_element_play_sound({
+        name = "zm_pwrup_firesale_song",
+        file_name = "zm_pwrup_firesale_song.ogg",
+        sound_type = "sfx",
         custom_dir = "units/pd2_mod_zombies/sounds/zm_power_ups",
         is_relative = false,
         is_loop = false,

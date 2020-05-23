@@ -17,8 +17,6 @@
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_staminup/coil" unload="true"/>
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_staminup/glass" unload="true"/>
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_staminup/light" unload="true"/>
-		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_staminup/light_of" unload="true"/>
-		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_staminup/paint_detail" unload="true"/>
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_staminup/plus" unload="true"/>
 		<texture force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_staminup/wood" unload="true"/>
 		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_perk_machine/zm_perk_machine_staminup/zm_perk_machine_staminup" unload="true"/>

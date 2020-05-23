@@ -936,11 +936,6 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		special_equipment_block = "perk_staminup"
 	}
 	
-	
-	self.zm_key_pku_doubletap = {
-		text_id = "zm_key_doubletap",
-		start_active = false
-	}
 	self.zm_key_use_doubletap = {
 		zm_interaction = true,
 		text_id = "zm_key_use_doubletap",

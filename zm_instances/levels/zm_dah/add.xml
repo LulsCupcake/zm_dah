@@ -1,9 +1,8 @@
 <table directory="assets">
-	<movie path="movies/ascension"/>
 	<unit path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe"/>
-    <unit path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe_secondary"/>
-    <unit path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe_dg3"/>
-    <unit path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe_dg3_secondary"/>
+	<unit path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe_secondary"/>
+	<unit path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe_dg3"/>
+	<unit path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe_dg3_secondary"/>
 	<cooked_physics path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe"/>
 	<model path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe"/>
 	<object path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe"/>
@@ -721,6 +720,39 @@
 		<material_config path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2"/>
 		<sequence_manager path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2"/>
 	</add>
+	<add unload_on_restart="true">
+		<unit path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado"/>
+		<unit path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_husk"/>
+		<material_config path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado"/>
+		<material_config path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_contour"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_body_df" unload="true"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_body_il" unload="true"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_head_df" unload="true"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_head_il" unload="true"/>
+		<model path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado"/>
+		<object path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado"/>
+	</add>
+	<add unload_on_restart="true">
+		<unit path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror"/>
+		<unit path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror_husk"/>
+		<material_config path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror"/>
+		<material_config path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror_contour"/>
+		<model path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror"/>
+		<object path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror"/>
+		<sequence_manager path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror_df" unload="true"/>
+	</add>
+	<add unload_on_restart="true">
+		<unit				path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber" />
+		<unit				path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber_husk" />
+		<object				path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber" />
+		<model				path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber" />
+		<material_config	path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber" />
+		<sequence_manager	path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber" />
+		<texture			path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber_body_df" />
+		<texture			path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber_head_df" />
+		<texture			path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber_head_nm" />
+	</add>
 	<add path="units/pd2_mod_zombies/characters/ene_bulldozer_hvh_1/ene_bulldozer_hvh_1" type="unit">
 		<bnk path="soundbanks/regular_sfx" unload="true"/>
 	</add>
@@ -809,9 +841,9 @@
 	<add path="units/pd2_mod_zombies/equipment/zom_deploy_sentry/zom_sentry_police/zom_sentry_police_placement" type="unit"/>
 	<add path="units/pd2_mod_zombies/equipment/zom_deploy_sentry/zom_sentry_police/zom_sentry_police_silent" type="unit"/>
 	<add path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" type="unit">
-		<unit path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" unload="true"/>
-		<object path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" unload="true"/>
 		<material_config path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" unload="true"/>
+		<object path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" unload="true"/>
+		<unit path="units/pd2_dlc_nmh/props/nmh_prop_corkboardverticle/nmh_prop_corkboardverticle" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" type="unit">
 		<material_config force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_wpn_ray" unload="true"/>
@@ -854,6 +886,14 @@
 		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_security_door/zom_security_door" unload="true"/>
 	</add>
+	<add path="units/pd2_mod_zombies/props/shoot_at_trigger/shoot_at_5x5" type="unit">
+		<cooked_physics force="true" path="units/pd2_mod_zombies/props/shoot_at_trigger/shoot_at_5x5" unload="true"/>
+		<material_config force="true" path="units/pd2_mod_zombies/props/shoot_at_trigger/shoot_at_shared" unload="true"/>
+		<model force="true" path="units/pd2_mod_zombies/props/shoot_at_trigger/shoot_at_5x5" unload="true"/>
+		<object force="true" path="units/pd2_mod_zombies/props/shoot_at_trigger/shoot_at_5x5" unload="true"/>
+		<sequence_manager force="true" path="units/pd2_mod_zombies/props/shoot_at_trigger/shoot_at_shared" unload="true"/>
+		<unit force="true" path="units/pd2_mod_zombies/props/shoot_at_trigger/shoot_at_5x5" unload="true"/>
+	</add>
 	<texture path="units/mods/weapons/wpn_fps_mel_zdann/combat_df"/>
 	<texture path="units/mods/weapons/wpn_fps_mel_zdann/combat_nm"/>
 	<texture path="guis/dlcs/kurumi/textures/pd2/blackmarket/icons/melee_weapons/zdann"/>
@@ -868,4 +908,12 @@
 	<object path="units/mods/weapons/wpn_third_mel_zdann/wpn_third_mel_zdann"/>
 	<unit path="units/mods/weapons/wpn_third_mel_zdann/wpn_third_mel_zdann"/>
 	<material_config path="units/mods/weapons/wpn_third_mel_zdann/wpn_third_mel_zdann"/>
+	<add path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" type="unit">
+		<unit path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_panicroom/mcm_prop_panicroom_controldevice_retinascanner" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" unload="true"/>
+		<bnk path="soundbanks/regular_sfx" unload="true"/>
+	</add>
+	<movie path="movies/ascension"/>
 </table>
