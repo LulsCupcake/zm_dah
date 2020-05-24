@@ -1,6 +1,8 @@
 <unit type="cft" slot="1" >
     <object file="units/world/props/toy_plushies/toy_teddy" />
+    <network sync="spawn"/>
     <extensions>
         <extension class="ScriptUnitData" name="unit_data" />
+        <extension name="damage" class="UnitDamage" />
     </extensions>
 </unit>

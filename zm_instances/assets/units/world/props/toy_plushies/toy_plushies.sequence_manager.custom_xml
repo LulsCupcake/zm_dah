@@ -1,0 +1,10 @@
+<table>
+	<unit>
+		<sequence editable_state="true" name="'state_vis_show'" triggable="true">
+			<object enabled="true" name="'g_teddy'"/>
+		</sequence>
+		<sequence editable_state="true" name="'state_vis_hide'" triggable="true">
+			<object enabled="false" name="'g_teddy'"/>
+		</sequence>
+	</unit>
+</table>

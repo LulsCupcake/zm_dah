@@ -80,9 +80,11 @@
 		<sequence_manager force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/equipment/zom_weapon_decal/zom_weapon_decal" unload="true"/>
 	</add>
-	<add path="units/world/props/toy_plushies/toy_teddy" type="unit">
-		<unit path="units/world/props/toy_plushies/toy_teddy" unload="true"/>
-		<object path="units/world/props/toy_plushies/toy_teddy" unload="true"/>
-		<material_config path="units/world/props/toy_plushies/toy_plushies" unload="true"/>
-	</add>
+	<add unload_on_restart="true">
+        <material_config path="units/world/props/toy_plushies/toy_plushies" unload="true"/>
+        <object path="units/world/props/toy_plushies/toy_teddy" unload="true"/>
+        <unit path="units/world/props/toy_plushies/toy_teddy" unload="true"/>
+        <model path="units/world/props/toy_plushies/toy_teddy" unload="true"/>
+        <sequence_manager path="units/world/props/toy_plushies/toy_plushies"/>
+    </add>
 </table>
