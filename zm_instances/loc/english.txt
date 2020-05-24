@@ -2,13 +2,8 @@
 	"heist_zm_instances_name":"[CONFIDENTIAL]",
 	"heist_zm_instances_brief":"[CONFIDENTIAL]",
 	"zombies_mode_name":			"Zombies Mode",
-	"heist_zm_dah_name":"[CONFIDENTIAL]",
+	"heist_zm_dah_name":"Diamondz",
 	"heist_zm_dah_brief":"[CONFIDENTIAL]",
-	"heist_zm_dah_elevator_name":"[CONFIDENTIAL]",
-	"heist_zm_dah_elevator_brief":"[CONFIDENTIAL]",
-	"heist_zm_cabinflesh_name":"[CONFIDENTIAL]",
-	"heist_zm_cabinflesh_brief":"[CONFIDENTIAL]",
-	"hud_key_doubletap":"Doubletap Elevator Key",
-	"zm_key_doubletap":"Doubletap Elevator Key",
-	"zm_key_use_doubletap":"INTERACT"
+	"zm_place_keycard":"Press $BTN_INTERACT to place the keycard",
+	"zm_open_vent":"Hold $BTN_INTERACT to enter the ventilation"
 }

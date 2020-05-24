@@ -936,14 +936,21 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		special_equipment_block = "perk_staminup"
 	}
 	
-	self.zm_key_use_doubletap = {
-		zm_interaction = true,
-		text_id = "zm_key_use_doubletap",
-		special_equipment = "key_doubletap",
+	self.zm_keycard_place = {
+		text_id = "zm_place_keycard",
+		special_equipment = "bank_manager_key",
+		sound_done = "pick_up_key_card",
 		equipment_consume = true,
 		start_active = false,
-		points_cost = 250,
-		timer = 0.5
+		interact_distance = 500
 	}
 
+	self.zm_open_vent = {
+		text_id = "zm_open_vent",
+		start_active = false,
+		sound_start = "bar_move_vent_panel",
+		sound_interupt = "bar_move_vent_panel_cancel",
+		sound_done = "bar_move_vent_panel_finished",
+		timer = 1
+	}
 end)

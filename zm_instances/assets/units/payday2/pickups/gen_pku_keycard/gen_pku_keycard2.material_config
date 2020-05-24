@@ -1,5 +1,5 @@
 <materials version="3" group="gen_pku_keycard">
     <material name="mtr_card" render_template="generic:DIFFUSE_TEXTURE" version="2">
-        <diffuse_texture file="units/payday2/pickups/gen_pku_keycard/keycard_df"/>
+        <diffuse_texture file="units/payday2/pickups/gen_pku_keycard/keycard2_df"/>
     </material>
 </materials>

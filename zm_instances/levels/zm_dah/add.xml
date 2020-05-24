@@ -928,7 +928,11 @@
 		<unit path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" unload="true"/>
 		<object path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" unload="true"/>
 		<material_config path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" unload="true"/>
-		<texture path="units/payday2/equipment/gen_interactable_door_keycard/keycard_df" unload="true"/>
+		<material_config path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard2" unload="true"/>
+		<material_config path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard3" unload="true"/>
+		<texture path="units/payday2/pickups/gen_pku_keycard/keycard_df" unload="true"/>
+		<texture path="units/payday2/pickups/gen_pku_keycard/keycard2_df" unload="true"/>
+		<texture path="units/payday2/pickups/gen_pku_keycard/keycard3_df" unload="true"/>
 		<sequence_manager path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" unload="true"/>
 		<unit path="units/payday2/characters/civ_acc_keycard_clipped/civ_acc_keycard_clipped" unload="true"/>
 		<object path="units/payday2/characters/civ_acc_keycard_clipped/civ_acc_keycard_clipped" unload="true"/>
