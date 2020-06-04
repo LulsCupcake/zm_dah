@@ -188,6 +188,7 @@
 			<value_node value="levels/narratives/locke/mex/art2/art2"/>
 			<value_node value="levels/narratives/safehouse/safehouse_worldmesh/safehouse_worldmesh"/>
 			<value_node value="levels/instances/unique/dah/dah_laptop_code/world/world"/>
+			<value_node value="levels/instances/unique/kenaz/archives/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
