@@ -1,0 +1,21 @@
+<table>
+	<unit>
+		<sequence editable_state="true" name="'state_hide'" triggable="true">
+			<body enabled="false" name="'body_static'"/>
+			<object enabled="false" name="'g_box'"/>
+		</sequence>
+		<sequence editable_state="true" name="'state_show'" triggable="true">
+			<body enabled="true" name="'body_static'"/>
+			<object enabled="true" name="'g_box'"/>
+		</sequence>
+		<sequence name="'interact'" triggable="true">
+			<run_sequence name="'state_hide'"/>
+		</sequence>
+		<sequence name="'disable_interact'" triggable="true">
+			<interaction enabled="false"/>
+		</sequence>
+		<sequence name="'enable_interact'" triggable="true">
+			<interaction enabled="true"/>
+		</sequence>
+	</unit>
+</table>

@@ -1,6 +1,6 @@
 <dynamic_object>
-	<diesel materials="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_a" orientation_object="rp_dah_prop_roof_antenna_a" />
-	<sequence_manager file="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_a" />
+	<diesel materials="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn" orientation_object="rp_dah_prop_roof_antenna_a" />
+	<sequence_manager file="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn" />
 	<bodies>
 		<body name="body_static" enabled="true" template="static">
 			<object name="rp_dah_prop_roof_antenna_a" />

@@ -953,4 +953,11 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		sound_done = "bar_move_vent_panel_finished",
 		timer = 1
 	}
+
+	self.zm_pickup_antenna_part = {
+		text_id = "zm_pickup_antenna_part",
+		start_active = false,
+		timer = 1
+	}
+
 end)
