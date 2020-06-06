@@ -1,0 +1,15 @@
+<table>
+	<unit>
+		<sequence editable_state="true" name=" 'interaction_disable' " triggable="true">
+			<interaction enabled="false"/>
+			<graphic_group name="'grp_icon'" visibility="false"/>
+		</sequence>
+		<sequence editable_state="true" name=" 'interaction_enable' " triggable="true">
+			<interaction enabled="true"/>
+			<graphic_group name="'grp_icon'" visibility="true"/>
+		</sequence>
+		<sequence editable_state="false" name=" 'interact' " triggable="false">
+		</sequence>
+		<sequence editable_state="false" name="'load'" triggable="false"/>
+	</unit>
+</table>

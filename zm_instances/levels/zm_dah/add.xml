@@ -933,24 +933,30 @@
 		<texture path="units/payday2/pickups/gen_pku_keycard/keycard_df" unload="true"/>
 		<texture path="units/payday2/pickups/gen_pku_keycard/keycard2_df" unload="true"/>
 		<texture path="units/payday2/pickups/gen_pku_keycard/keycard3_df" unload="true"/>
-		<sequence_manager path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" unload="true"/>
 		<unit path="units/payday2/characters/civ_acc_keycard_clipped/civ_acc_keycard_clipped" unload="true"/>
 		<object path="units/payday2/characters/civ_acc_keycard_clipped/civ_acc_keycard_clipped" unload="true"/>
+		<sequence_manager path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" unload="true"/>
 	</add>
 	<add unload_on_restart="true">
-		<unit path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"  />
-		<object path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"  />
-		<cooked_physics path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"  />
-		<sequence_manager path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"  />
-		<model path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"  />
-		<material_config path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"  />
-		<texture path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_df"  />
-		<texture path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_nm"  />
-		<texture path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_gsma"  />
-		<unit path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_pku_antenna"  />
-		<object path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_pku_antenna"  />
-		<sequence_manager path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_pku_antenna"  />
-		<model path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_pku_antenna"  />
+		<unit path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"/>
+		<sequence_manager path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"/>
+		<model path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"/>
+		<texture path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_df"/>
+		<texture path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_nm"/>
+		<texture path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_gsma"/>
+		<unit path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_pku_antenna"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_pku_antenna"/>
+		<sequence_manager path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_pku_antenna"/>
+		<model path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_pku_antenna"/>
+		<cooked_physics path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"/>
+		<material_config path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"/>
+	</add>
+	<add path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" type="unit">
+		<unit path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" unload="true"/>
+		<object path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" unload="true"/>
+		<material_config path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" unload="true"/>
 	</add>
 	<movie path="movies/ascension"/>
 </table>

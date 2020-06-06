@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<unit type="dev" slot="1">
+	<object file="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" />
+	 <network sync="spawn"/>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData"/>
+		<extension name="damage" class="UnitDamage" />
+
+		<extension name="interaction" class="UseInteractionExt">
+			<var name="tweak_data" value="computer_blueprints" />
+		</extension>
+
+	</extensions>
+</unit>
