@@ -959,5 +959,11 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		start_active = false,
 		timer = 1
 	}
+	
+	self.zm_place_antenna_part = {
+		text_id = "zm_place_antenna_part",
+		start_active = false,
+		timer = 1
+	}
 
 end)
