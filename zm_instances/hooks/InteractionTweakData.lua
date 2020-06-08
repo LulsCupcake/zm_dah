@@ -965,5 +965,20 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		start_active = false,
 		timer = 1
 	}
+	
+	self.computer_blueprints = {
+		text_id = "hud_int_search_blueprints",
+		action_text_id = "hud_action_searching_blueprints",
+		timer = 4.5,
+		axis = "x",
+		stay_active = true,
+		contour = "interactable_icon",
+		interact_distance = 200,
+		sound_start = "bar_shuffle_papers",
+		sound_interupt = "bar_shuffle_papers_cancel",
+		sound_done = "bar_shuffle_papers_finished",
+		icon = "equipment_files",
+		special_equipment_block = "blueprints"
+	}
 
 end)

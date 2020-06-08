@@ -8,8 +8,7 @@
 			<interaction enabled="true"/>
 			<graphic_group name="'grp_icon'" visibility="true"/>
 		</sequence>
-		<sequence editable_state="false" name=" 'interact' " triggable="false">
-		</sequence>
+		<sequence editable_state="false" name=" 'interact' " triggable="false"/>
 		<sequence editable_state="false" name="'load'" triggable="false"/>
 	</unit>
 </table>
