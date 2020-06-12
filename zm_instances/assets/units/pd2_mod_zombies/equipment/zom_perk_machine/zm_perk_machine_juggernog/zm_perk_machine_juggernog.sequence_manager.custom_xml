@@ -29,14 +29,14 @@
 		<sequence editable_state="true" name="'enable_interaction'" triggable="true">
 			<set_variables var_powered="1"/>
 			<interaction enabled="true"/>
-			<sound action="'play'" event="'zm_perk_hum'" object="'s_speaker'"/>
+			<sound action="'play'" event="'zm_perk_hum'" object="'g_jugg'"/>
 			<object name="'g_jugg_il'" enabled="true"/>
 		</sequence>
 		
 		<sequence editable_state="true" name="'disable_interaction'" triggable="true">
 			<set_variables var_powered="0"/>
 			<interaction enabled="false"/>
-			<sound action="'play'" event="'cft_radio_stop'" object="'s_speaker'"/>
+			<sound action="'play'" event="'cft_radio_stop'" object="'g_jugg'"/>
 			<object name="'g_jugg_il'" enabled="false"/>
 		</sequence>
 		
@@ -51,15 +51,15 @@
 		
 		<!--AUDIO-->
 		<sequence editable_state="true" name="'sound_bumped'" triggable="true">
-			<sound action="'play'" event="'zm_perk_bumped'" object="'s_speaker'"/>
+			<sound action="'play'" event="'zm_perk_bumped'" object="'g_jugg'"/>
 		</sequence>
 		
 		<sequence editable_state="true" name="'sound_jingle_short'" triggable="true">
-			<sound filter="'filter_powered'" action="'play'" event="'zm_perk_song_juggernog_sting'" object="'s_speaker'"/>
+			<sound filter="'filter_powered'" action="'play'" event="'zm_perk_song_juggernog_sting'" object="'g_jugg'"/>
 		</sequence>
 		
 		<sequence editable_state="true" name="'sound_jingle_full'" triggable="true">
-			<sound filter="'filter_powered'" action="'play'" event="'zm_perk_song_juggernog'" object="'s_speaker'"/>
+			<sound filter="'filter_powered'" action="'play'" event="'zm_perk_song_juggernog'" object="'g_jugg'"/>
 		</sequence>
 		
 		<sequence editable_state="false" name="'interact'" triggable="false"/>
