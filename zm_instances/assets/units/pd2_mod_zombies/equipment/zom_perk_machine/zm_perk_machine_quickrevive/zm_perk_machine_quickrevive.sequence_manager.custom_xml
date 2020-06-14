@@ -20,9 +20,9 @@
 		</sequence>
 		
 		<sequence editable_state="true" name="'visibility_show'" triggable="true">
-			<interaction filter="'filter_powered'" enabled="true"/>
+			<interaction  enabled="true"/>
 			<body enabled="true" name="'body_static'"/>
-			<object filter="'filter_powered'" name="'g_perk_il'" enabled="true"/>
+			<object  name="'g_perk_il'" enabled="true"/>
 			<graphic_group name="'group_perk'" visibility="true"/>
 		</sequence>
 		
@@ -37,7 +37,6 @@
 		<sequence editable_state="true" name="'disable_interaction'" triggable="true">
 			<set_variables var_powered="0"/>
 			<interaction enabled="false"/>
-			<sound action="'play'" event="'cft_radio_stop'" object="'g_perk_il'"/>
 			<object name="'g_perk_il'" enabled="false"/>
 		</sequence>
 		
@@ -59,17 +58,13 @@
 			<function extension="'waypoint'" function="'remove_waypoint'" object="'a_waypoint'"/>
 		</sequence>
 		
-		<!--AUDIO-->
-		<sequence editable_state="true" name="'sound_bumped'" triggable="true">
-			<sound action="'play'" event="'zm_perk_bumped'" object="'g_perk_il'"/>
-		</sequence>
-		
+		<!--AUDIO-->	
 		<sequence editable_state="true" name="'sound_jingle_short'" triggable="true">
-			<sound action="'play'" event="'zm_perk_song_quickrevive_sting'" object="'g_perk_il'"/>
+			<sound filter="'filter_powered'" action="'play'" event="'zm_perk_song_quickrevive_sting'" object="'g_perk_il'"/>
 		</sequence>
 		
 		<sequence editable_state="true" name="'sound_jingle_full'" triggable="true">
-			<sound action="'play'" event="'zm_perk_song_quickrevive'" object="'g_perk_il'"/>
+			<sound filter="'filter_powered'" action="'play'" event="'zm_perk_song_quickrevive'" object="'g_perk'"/>
 		</sequence>
 		
 		<sequence editable_state="false" name="'interact'" triggable="false"/>

@@ -19,9 +19,9 @@
 		</sequence>
 		
 		<sequence editable_state="true" name="'visibility_show'" triggable="true">
-			<interaction filter="'filter_powered'" enabled="true"/>
+			<interaction  enabled="true"/>
 			<body enabled="true" name="'body_static'"/>
-			<object filter="'filter_powered'" name="'g_pap_il'" enabled="true"/>
+			<object  name="'g_pap_il'" enabled="true"/>
 			<graphic_group name="'packapunch'" visibility="true"/>
 		</sequence>
 		
@@ -29,14 +29,12 @@
 		<sequence editable_state="true" name="'enable_interaction'" triggable="true">
 			<set_variables var_powered="1"/>
 			<interaction enabled="true"/>
-			<sound action="'play'" event="'zm_pack_hum'" object="'g_pap'"/>
 			<object name="'g_pap_il'" enabled="true"/>
 		</sequence>
 		
 		<sequence editable_state="true" name="'disable_interaction'" triggable="true">
 			<set_variables var_powered="0"/>
 			<interaction enabled="false"/>
-			<sound action="'play'" event="'cft_radio_stop'" object="'g_pap'"/>
 			<object name="'g_pap_il'" enabled="false"/>
 		</sequence>
 		
@@ -55,7 +53,7 @@
 		</sequence>
 		
 		<sequence editable_state="true" name="'sound_jingle_full'" triggable="true">
-			<sound filter="'filter_powered'" action="'play'" event="'zm_perk_song_pap'" object="'g_pap'"/>
+			<sound filter="'filter_powered'" action="'play'" event="'zm_perk_song_pap'" object="'g_pap_il'"/>
 		</sequence>
 		
 		<sequence editable_state="false" name="'interact'" triggable="false">

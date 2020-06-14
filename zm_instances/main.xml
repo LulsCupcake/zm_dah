@@ -249,8 +249,7 @@
 				</sounds>
 				<sounds directory="zm_perks">
 					<sound id="zm_perk_bought" path="zm_perk_bought.ogg"/>
-					<sound id="zm_perk_bumped" path="zm_perk_bumped.ogg"/>
-					<sound id="zm_perk_denied" path="zm_perk_denied.ogg"/>
+					<sound id="zm_pack_hum" loop="true" path="zm_pack_hum.ogg" volume="0.12"/>
 					<sound id="zm_perk_song_deadshot" path="zm_perk_song_deadshot.ogg"/>
 					<sound id="zm_perk_song_deadshot_sting" path="zm_perk_song_deadshot_sting.ogg"/>
 					<sound id="zm_perk_song_doubletap_sting" path="zm_perk_song_doubletap_sting.ogg"/>
@@ -860,8 +859,7 @@
 				</sounds>
 				<sounds directory="zm_perks">
 					<sound id="zm_perk_bought" path="zm_perk_bought.ogg"/>
-					<sound id="zm_perk_bumped" path="zm_perk_bumped.ogg"/>
-					<sound id="zm_perk_denied" path="zm_perk_denied.ogg"/>
+					<sound id="zm_pack_hum" loop="true" path="zm_pack_hum.ogg" volume="0.12"/>
 					<sound id="zm_perk_song_deadshot" path="zm_perk_song_deadshot.ogg"/>
 					<sound id="zm_perk_song_deadshot_sting" path="zm_perk_song_deadshot_sting.ogg"/>
 					<sound id="zm_perk_song_doubletap_sting" path="zm_perk_song_doubletap_sting.ogg"/>
