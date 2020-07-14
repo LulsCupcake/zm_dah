@@ -12,7 +12,7 @@ Hooks:PostHook(BlackMarketTweakData, "_init_projectiles", "zm_new_nade_amount", 
     self.projectiles.wpn_prj_ace.max_amount = 10
     self.projectiles.wpn_prj_ace.no_cheat_count = true
     self.projectiles.wpn_prj_jav.max_amount = 2
-    self.projectiles.wpn_prj_jav.no_cheat_count = true0
+    self.projectiles.wpn_prj_jav.no_cheat_count = true
     self.projectiles.wpn_prj_hur.max_amount = 3
     self.projectiles.wpn_prj_hur.no_cheat_count = true
     self.projectiles.wpn_prj_hur.throw_allowed_expire_t = 0.1

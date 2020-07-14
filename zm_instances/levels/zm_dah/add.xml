@@ -950,5 +950,21 @@
 		<material_config path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" unload="true"/>
 		<sequence_manager path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" unload="true"/>
 	</add>
+	<add unload_on_restart="true">
+		<model path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
+		<object path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
+		<unit path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
+		<material_config path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
+		<sequence_manager path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
+		<texture path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor_il"/>
+		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_1"/>
+		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_2"/>
+		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_3"/>
+		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_4"/>
+		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_5"/>
+		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_6"/>
+		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_7"/>
+		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_8"/>
+	</add>
 	<movie path="movies/ascension"/>
 </table>

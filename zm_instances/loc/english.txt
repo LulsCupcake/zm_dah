@@ -1,12 +1,10 @@
 {
-	"heist_zm_instances_name":"[CONFIDENTIAL]",
-	"heist_zm_instances_brief":"[CONFIDENTIAL]",
-	"zombies_mode_name":			"Zombies Mode",
-	"heist_zm_dah_name":"Diamondz",
-	"heist_zm_dah_brief":"[CONFIDENTIAL]",
-	
-	"zm_pickup_antenna_part":"Press $BTN_INTERACT to pickup the Antenna part",
 	"zm_place_antenna_part":"Press $BTN_INTERACT to place the part",
-	"zm_place_keycard":"Press $BTN_INTERACT to place the keycard",
-	"zm_open_vent":"Hold $BTN_INTERACT to enter the ventilation"
+	"heist_zm_instances_name":"[CONFIDENTIAL]",
+	"zm_open_vent":"Hold $BTN_INTERACT to enter the ventilation",
+	"heist_zm_instances_brief":"[CONFIDENTIAL]",
+	"zm_pickup_antenna_part":"Press $BTN_INTERACT to pickup the Antenna part",
+	"zombies_mode_name":"Zombies Mode",
+	"heist_zm_dah_brief":"[CONFIDENTIAL]",
+	"zm_place_keycard":"Press $BTN_INTERACT to place the keycard"
 }

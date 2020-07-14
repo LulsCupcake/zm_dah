@@ -127,7 +127,6 @@
 			<hook file="SniperGrazeDamage.lua" source_file="lib/managers/player/snipergrazedamage"/>
 			<hook file="StatisticsManager.lua" source_file="lib/managers/statisticsmanager"/>
 			<hook file="EnemyManager.lua" source_file="lib/managers/enemymanager"/>
-			<hook file="MusicManager.lua" source_file="lib/managers/musicmanager"/>
 			<hook file="CoreUnit.lua" source_file="core/lib/utils/coreunit"/>
 			<hook file="SentryGunMovement.lua" source_file="lib/units/equipment/sentry_gun/sentrygunmovement"/>
 			<hook file="FPCameraPlayerBase.lua" source_file="lib/units/cameras/fpcameraplayerbase"/>
@@ -734,7 +733,7 @@
 		<packages/>
 		<script_data_mods/>
 	</instance>
-	<instance id="zm_dah_elevator">
+	<instance id="zm_dah_elevator" orig_id="zm_dah_elevator">
 		<add file="levels/zm_dah_elevator/add.xml"/>
 		<include directory="levels/zm_dah_elevator">
 			<file file="world/world.continent" type="binary"/>
@@ -775,7 +774,7 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<level ai_group_type="America" briefing_dialog="" id="zm_dah_elevator" intro_event="" max_bags="54" team_ai_off="true">
+	<level ai_group_type="America" briefing_dialog="" id="zm_dah_elevator" intro_event="" max_bags="54" orig_id="zm_dah_elevator" team_ai_off="true">
 		<add file="levels/zm_dah_elevator/add.xml"/>
 		<include directory="levels/zm_dah_elevator">
 			<file file="world.world" type="binary"/>
@@ -1331,7 +1330,9 @@
 		<hook file="DynamicResourceManager.lua" source_file="lib/managers/dynamicresourcemanager"/>
 		<hook file="ZM_ContractHudManager.lua" source_file="lib/managers/menu/items/contractbrokerheistitem"/>
 	</Hooks>
-	<Localization default="english.txt" directory="loc"/>
+	<Localization default="english.txt" directory="loc">
+		<loc file="english.txt" language="english"/>
+	</Localization>
 	<contact assets_gui="guis/dlcs/the_bomb/guis/preload_contact_the_butcher" hidden="false" id="zombies_mode" name_id="zombies_mode_name" package="packages/contact_the_butcher"/>
 	<narrative contact="zombies_mode" id="zm_instances">
 		<>
@@ -1349,6 +1350,7 @@
 			<table level_id="zm_mystery_box" type="d" type_id="heist_type_assault"/>
 			<table level_id="zm_gameplay_controller" type="d" type_id="heist_type_assault"/>
 		</chain>
+		<contract_cost/>
 		<crimenet_callouts>
 			<value_node value="nothing"/>
 		</crimenet_callouts>
