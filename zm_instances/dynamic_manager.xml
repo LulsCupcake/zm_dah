@@ -39,10 +39,8 @@
     <texture			path="units/pd2_mod_zombies/fonts/escom_outline"/>
     <font load="true"	path="units/pd2_mod_zombies/fonts/beyond"/>
     <texture			path="units/pd2_mod_zombies/fonts/beyond"/>
-	<font load="true"	path="fonts/font_vessel"/>
-    <texture			path="fonts/font_vessel"/>
-	<font load="true"	path="fonts/font_vessel_ext"/>
-    <texture			path="fonts/font_vessel_ext"/>
+	<font load="true" path="fonts/font_crypt"/>
+	<texture load="true" path="fonts/font_crypt"/>
 	
 	<effect load="true" path="effects/raygun_glow"/>
     <effect load="true" path="effects/raygun_trail"/>

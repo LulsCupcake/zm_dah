@@ -1,4 +1,5 @@
 {
+	"heist_zm_dah_name":"Diamondz",
 	"zm_place_antenna_part":"Press $BTN_INTERACT to place the part",
 	"heist_zm_instances_name":"[CONFIDENTIAL]",
 	"zm_open_vent":"Hold $BTN_INTERACT to enter the ventilation",
