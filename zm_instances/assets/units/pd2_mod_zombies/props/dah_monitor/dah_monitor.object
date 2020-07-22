@@ -23,5 +23,7 @@
     <object enabled="false" name="g_computer_monitor_display5"/>
     <object enabled="false" name="g_computer_monitor_display6"/>
     <object enabled="false" name="g_computer_monitor_display7"/>
+    <object enabled="false" name="g_computer_monitor_displayoff"/>
+    <object enabled="false" name="g_computer_monitor_displaydesktop"/>
   </graphics>
 </dynamic_object>	

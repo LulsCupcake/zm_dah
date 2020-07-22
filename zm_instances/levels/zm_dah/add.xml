@@ -965,6 +965,7 @@
 		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_6"/>
 		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_7"/>
 		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_8"/>
+		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_desktop"/>
 	</add>
 	<movie path="movies/ascension"/>
 </table>

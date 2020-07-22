@@ -10,6 +10,7 @@
 			<object enabled="false" name=" 'g_computer_monitor_display6' "/>
 			<object enabled="false" name=" 'g_computer_monitor_display7' "/>
 			<object enabled="true" name=" 'g_computer_monitor_displayoff' "/>
+			<object enabled="false" name=" 'g_computer_monitor_displaydesktop' "/>
 		</sequence>
 		<sequence editable_state="true"name=" 'display_1' ">
 			<object enabled="true" name=" 'g_computer_monitor_display0' "/>
@@ -21,6 +22,7 @@
 			<object enabled="false" name=" 'g_computer_monitor_display6' "/>
 			<object enabled="false" name=" 'g_computer_monitor_display7' "/>
 			<object enabled="false" name=" 'g_computer_monitor_displayoff' "/>
+			<object enabled="false" name=" 'g_computer_monitor_displaydesktop' "/>
 		</sequence>
 		<sequence editable_state="true"name=" 'display_2' ">
 			<object enabled="false" name=" 'g_computer_monitor_display0' "/>
@@ -32,6 +34,7 @@
 			<object enabled="false" name=" 'g_computer_monitor_display6' "/>
 			<object enabled="false" name=" 'g_computer_monitor_display7' "/>
 			<object enabled="false" name=" 'g_computer_monitor_displayoff' "/>
+			<object enabled="false" name=" 'g_computer_monitor_displaydesktop' "/>
 		</sequence>
 		<sequence editable_state="true"name=" 'display_3' ">
 			<object enabled="false" name=" 'g_computer_monitor_display0' "/>
@@ -43,6 +46,7 @@
 			<object enabled="false" name=" 'g_computer_monitor_display6' "/>
 			<object enabled="false" name=" 'g_computer_monitor_display7' "/>
 			<object enabled="false" name=" 'g_computer_monitor_displayoff' "/>
+			<object enabled="false" name=" 'g_computer_monitor_displaydesktop' "/>
 		</sequence>
 		<sequence editable_state="true"name=" 'display_4' ">
 			<object enabled="false" name=" 'g_computer_monitor_display0' "/>
@@ -54,6 +58,7 @@
 			<object enabled="false" name=" 'g_computer_monitor_display6' "/>
 			<object enabled="false" name=" 'g_computer_monitor_display7' "/>
 			<object enabled="false" name=" 'g_computer_monitor_displayoff' "/>
+			<object enabled="false" name=" 'g_computer_monitor_displaydesktop' "/>
 		</sequence>
 		<sequence editable_state="true"name=" 'display_5' ">
 			<object enabled="false" name=" 'g_computer_monitor_display0' "/>
@@ -65,6 +70,7 @@
 			<object enabled="false" name=" 'g_computer_monitor_display6' "/>
 			<object enabled="false" name=" 'g_computer_monitor_display7' "/>
 			<object enabled="false" name=" 'g_computer_monitor_displayoff' "/>
+			<object enabled="false" name=" 'g_computer_monitor_displaydesktop' "/>
 		</sequence>
 		<sequence editable_state="true"name=" 'display_6' ">
 			<object enabled="false" name=" 'g_computer_monitor_display0' "/>
@@ -76,6 +82,7 @@
 			<object enabled="false" name=" 'g_computer_monitor_display6' "/>
 			<object enabled="false" name=" 'g_computer_monitor_display7' "/>
 			<object enabled="false" name=" 'g_computer_monitor_displayoff' "/>
+			<object enabled="false" name=" 'g_computer_monitor_displaydesktop' "/>
 		</sequence>
 		<sequence editable_state="true"name=" 'display_7' ">
 			<object enabled="false" name=" 'g_computer_monitor_display0' "/>
@@ -87,6 +94,7 @@
 			<object enabled="true" name=" 'g_computer_monitor_display6' "/>
 			<object enabled="false" name=" 'g_computer_monitor_display7' "/>
 			<object enabled="false" name=" 'g_computer_monitor_displayoff' "/>
+			<object enabled="false" name=" 'g_computer_monitor_displaydesktop' "/>
 		</sequence>
 		<sequence editable_state="true"name=" 'display_8' ">
 			<object enabled="false" name=" 'g_computer_monitor_display0' "/>
@@ -98,6 +106,19 @@
 			<object enabled="false" name=" 'g_computer_monitor_display6' "/>
 			<object enabled="true" name=" 'g_computer_monitor_display7' "/>
 			<object enabled="false" name=" 'g_computer_monitor_displayoff' "/>
+			<object enabled="false" name=" 'g_computer_monitor_displaydesktop' "/>
+		</sequence>
+		<sequence editable_state="true"name=" 'desktop' ">
+			<object enabled="false" name=" 'g_computer_monitor_display0' "/>
+			<object enabled="false" name=" 'g_computer_monitor_display1' "/>
+			<object enabled="false" name=" 'g_computer_monitor_display2' "/>
+			<object enabled="false" name=" 'g_computer_monitor_display3' "/>
+			<object enabled="false" name=" 'g_computer_monitor_display4' "/>
+			<object enabled="false" name=" 'g_computer_monitor_display5' "/>
+			<object enabled="false" name=" 'g_computer_monitor_display6' "/>
+			<object enabled="false" name=" 'g_computer_monitor_display7' "/>
+			<object enabled="false" name=" 'g_computer_monitor_displayoff' "/>
+			<object enabled="true" name=" 'g_computer_monitor_displaydesktop' "/>
 		</sequence>
 	</unit>
 </table>
