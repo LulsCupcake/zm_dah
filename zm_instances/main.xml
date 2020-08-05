@@ -217,6 +217,7 @@
 				<sound id="wunderwaffe_spree" path="spree.ogg"/>
 				<sound id="wunderwaffe_spree2" path="spree2.ogg"/>
 				<sound id="skydive" path="skydive.ogg"/>
+				<sound id="zm_teleport_charge" path="/zm_teleport/zm_teleport_charge.ogg"/>
 				<sounds directory="zm_generic">
 					<sound id="zm_gen_wave_new" path="zm_gen_wave_new.ogg"/>
 					<sound id="zm_gen_wave_new_special" path="zm_gen_wave_new_special.ogg"/>
