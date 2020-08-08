@@ -7293,7 +7293,7 @@
 			<unit_data _prev_pos="354.926 2089.22 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_square_drop_marker_4x15/gen_prop_square_drop_marker_4x15" name_id="gen_prop_square_drop_marker_4x15_001" position="354.926 2089.22 400" rotation="0 0 0 -1" unit_id="102220"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1480.41 219.696 466.722" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_berry/pickups/bry_pku_master_server/bry_pku_master_server" name_id="bry_pku_master_server_001" position="1480.41 219.696 416.722" rotation="0 0 0 -1" unit_id="102221"/>
+			<unit_data _prev_pos="1480.41 219.696 416.722" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="hide" name="units/pd2_dlc_berry/pickups/bry_pku_master_server/bry_pku_master_server" name_id="bry_pku_master_server_001" position="1480.41 219.696 416.722" rotation="-0 0 -0 -1" unit_id="102221"/>
 		</table>
 	</statics>
 	<values>
