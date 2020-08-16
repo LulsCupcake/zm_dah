@@ -1337,6 +1337,9 @@
 	</Localization>
 	<contact assets_gui="guis/dlcs/the_bomb/guis/preload_contact_the_butcher" hidden="false" id="zombies_mode" name_id="zombies_mode_name" package="packages/contact_the_butcher"/>
 	<narrative contact="zombies_mode" id="zm_instances">
+		<chain>
+			<table level_id="zm_dah" type="d" type_id="heist_type_assault"/>
+		</chain>
 		<contract_cost>
 			<value_node value="0"/>
 			<value_node value="0"/>
@@ -1346,9 +1349,6 @@
 			<value_node value="0"/>
 			<value_node value="0"/>
 		</contract_cost>
-		<chain>
-			<table level_id="zm_dah" type="d" type_id="heist_type_assault"/>
-		</chain>
 		<crimenet_callouts>
 			<value_node value="nothing"/>
 		</crimenet_callouts>

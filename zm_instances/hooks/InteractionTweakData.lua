@@ -939,9 +939,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 	
 	self.zm_keycard_place = {
 		text_id = "zm_place_keycard",
-		special_equipment = "bank_manager_key",
 		sound_done = "pick_up_key_card",
-		equipment_consume = true,
 		start_active = false,
 		interact_distance = 500
 	}
