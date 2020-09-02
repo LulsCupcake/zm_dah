@@ -197,6 +197,7 @@
 		</script_data_mods>
 		<sounds directory="assets">
 			<sounds directory="units/pd2_mod_zombies/sounds">
+				<sound id="zm_music_win" path="good_end.ogg"/>
 				<sound id="raygun_fire" path="raygun_fire.ogg" prefix="regular"/>
 				<sound id="raygun_out" path="off_open.ogg" prefix="first"/>
 				<sound id="raygun_out" path="off_open.ogg" prefix="third"/>
