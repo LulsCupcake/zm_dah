@@ -1,0 +1,1 @@
+CopMovement._action_variants.taser_dah = CopMovement._action_variants.taser
