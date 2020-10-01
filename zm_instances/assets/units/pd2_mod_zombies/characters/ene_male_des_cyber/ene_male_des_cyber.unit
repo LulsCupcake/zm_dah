@@ -11,7 +11,7 @@
 		<extension name="unit_data" class="ScriptUnitData" />
 		<extension name="base" class="CopBase" >
 			<var name="can_be_marked" value="true" />
-			<var name="_tweak_table" value="hector_boss" />
+			<var name="_tweak_table" value="tank_hw" />
 			<var name="_default_weapon_id" value="m249" />
 			<var name="_melee_weapon_table" value="helloween" />
 		</extension>
