@@ -6359,6 +6359,24 @@
 		<table>
 			<unit_data _prev_pos="3600 2025 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_4x1" name_id="door_blocker_4x1_014" only_visible_in_editor="true" position="3600 2025 0" rotation="0 0 0.707107 -0.707107" unit_id="100147"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="2267.44 2928.65 -1075" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m" name_id="dev_collision_4m_001" only_visible_in_editor="true" position="2267.44 2928.65 -1075" rotation="0 0 0.707107 -0.707107" unit_id="100148"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3517.44 1703.65 -1075" _prev_rot="0 0 0 -1" continent="world" local_pos="400 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m" name_id="dev_collision_4m_002" only_visible_in_editor="true" position="3517.44 1703.65 -1075" rotation="0 0 0 -1" unit_id="100149"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3117.44 1703.65 -1075" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m" name_id="dev_collision_4m_003" only_visible_in_editor="true" position="3117.44 1703.65 -1075" rotation="0 0 0 -1" unit_id="100150"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3117.44 1703.65 -1075" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m" name_id="dev_collision_4m_004" only_visible_in_editor="true" position="3117.44 3753.65 -1075" rotation="0 0 0 -1" unit_id="100151"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3517.44 1703.65 -1075" _prev_rot="0 0 0 -1" continent="world" local_pos="400 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m" name_id="dev_collision_4m_005" only_visible_in_editor="true" position="3517.44 3753.65 -1075" rotation="0 0 0 -1" unit_id="100338"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2267.44 2928.65 -1075" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_collision_4m" name_id="dev_collision_4m_006" only_visible_in_editor="true" position="4717.44 2928.65 -1075" rotation="0 0 0.707107 -0.707107" unit_id="100485"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
