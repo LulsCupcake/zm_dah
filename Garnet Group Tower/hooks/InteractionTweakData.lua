@@ -12,7 +12,6 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		timer = 0.5
 	}
 	
-	
 	self.zm_unlock_elevator = {
 		zm_interaction = true,
 		zm_elevator = true,
@@ -963,6 +962,12 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		text_id = "zm_place_antenna_part",
 		start_active = false,
 		timer = 1
+	}
+	
+	self.zm_pickup_gum = {
+		text_id = "zm_pickup_gum",
+		start_active = false,
+		interact_distance = 125
 	}
 	
 	self.computer_blueprints = {

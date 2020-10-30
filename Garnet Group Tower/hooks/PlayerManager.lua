@@ -98,7 +98,7 @@ Hooks:PostHook(PlayerManager, "_internal_load", "pm_post_internal_load", functio
 		return
 	end
 
-	-- player:inventory():set_melee_weapon("zdann")
+	player:inventory():set_melee_weapon("zdann")
 end)
 
 function PlayerManager:add_grenade_amount(amount, sync)

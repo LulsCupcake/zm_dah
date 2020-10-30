@@ -1,21 +1,37 @@
 <table directory="assets">
+	<unit_load name="units/pd2_mod_zombies/props/owogum/owogum">
+		<texture path="units/pd2_mod_zombies/props/owogum/owogum_sad"/>
+		<material_config path="units/pd2_mod_zombies/props/owogum/owogum_sad"/>
+		<texture path="units/pd2_mod_zombies/props/owogum/owogum_default"/>
+		<material_config path="units/pd2_mod_zombies/props/owogum/owogum_default"/>
+		<texture path="units/pd2_mod_zombies/props/owogum/owogum_angry"/>
+		<material_config path="units/pd2_mod_zombies/props/owogum/owogum_angry"/>
+		<texture path="units/pd2_mod_zombies/props/owogum/owogum_embarassed"/>
+		<material_config path="units/pd2_mod_zombies/props/owogum/owogum_embarassed"/>
+		<texture path="units/pd2_mod_zombies/props/owogum/owogum_sleep"/>
+		<material_config path="units/pd2_mod_zombies/props/owogum/owogum_sleep"/>
+		<model path="units/pd2_mod_zombies/props/owogum/owogum"/>
+		<object path="units/pd2_mod_zombies/props/owogum/owogum"/>
+		<sequence_manager path="units/pd2_mod_zombies/props/owogum/owogum"/>
+		<unit path="units/pd2_mod_zombies/props/owogum/owogum"/>
+	</unit_load>
 	<unit_load name="units/pd2_mod_zombies/props/zm_shovel/shovel">
+		<texture path="units/pd2_mod_zombies/props/zm_shovel/combat_df"/>
+		<texture path="units/pd2_mod_zombies/props/zm_shovel/combat_nm"/>
 		<cooked_physics path="units/pd2_mod_zombies/props/zm_shovel/shovel"/>
 		<material_config path="units/pd2_mod_zombies/props/zm_shovel/shovel"/>
 		<model path="units/pd2_mod_zombies/props/zm_shovel/shovel"/>
 		<object path="units/pd2_mod_zombies/props/zm_shovel/shovel"/>
 		<unit path="units/pd2_mod_zombies/props/zm_shovel/shovel"/>
-		<texture path="units/pd2_mod_zombies/props/zm_shovel/combat_df"/>
-		<texture path="units/pd2_mod_zombies/props/zm_shovel/combat_nm"/>
 	</unit_load>
 	<unit_load name="units/pd2_mod_zombies/props/ecl_paper_hint/paper_seq/ecl_paper">
 		<material_config force="true" path="units/pd2_mod_zombies/props/ecl_paper_hint/paper_seq/ecl_paper_hint_1" unload="true"/>
 		<material_config force="true" path="units/pd2_mod_zombies/props/ecl_paper_hint/paper_seq/ecl_paper_hint_2" unload="true"/>
-		<texture force="true" path="units/pd2_mod_zombies/props/ecl_paper_hint/paper_seq/textures/ecl_paper_hint_1" unload="true"/>
 		<cooked_physics force="true" path="units/pd2_mod_zombies/props/ecl_paper_hint/paper_seq/ecl_paper" unload="true"/>
 		<model force="true" path="units/pd2_mod_zombies/props/ecl_paper_hint/paper_seq/ecl_paper" unload="true"/>
 		<object force="true" path="units/pd2_mod_zombies/props/ecl_paper_hint/paper_seq/ecl_paper" unload="true"/>
 		<sequence_manager force="true" path="units/pd2_mod_zombies/props/ecl_paper_hint/paper_seq/ecl_paper2" unload="true"/>
+		<texture force="true" path="units/pd2_mod_zombies/props/ecl_paper_hint/paper_seq/textures/ecl_paper_hint_1" unload="true"/>
 		<unit force="true" path="units/pd2_mod_zombies/props/ecl_paper_hint/paper_seq/ecl_paper" unload="true"/>
 	</unit_load>
 	<unit path="units/mods/weapons/wpn_fps_spe_wunderwaffe/wpn_fps_spe_wunderwaffe"/>
@@ -964,17 +980,12 @@
 		<material_config path="units/pd2_dlc_dah/props/dah_prop_roof_antenna/dah_prop_roof_antenna_dyn"/>
 	</add>
 	<add path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" type="unit">
-		<unit path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" unload="true"/>
-		<object path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" unload="true"/>
 		<material_config path="units/dev_tools/invisible_interaction_searching/invisible_interaction_searching" unload="true"/>
+		<object path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" unload="true"/>
 		<sequence_manager path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" unload="true"/>
+		<unit path="units/pd2_dlc_casino/dev/cas_int_blueprints/cas_int_blueprints" unload="true"/>
 	</add>
 	<add unload_on_restart="true">
-		<model path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
-		<object path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
-		<unit path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
-		<material_config path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
-		<sequence_manager path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
 		<texture path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor_il"/>
 		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_1"/>
 		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_2"/>
@@ -985,6 +996,28 @@
 		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_7"/>
 		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_8"/>
 		<texture path="units/pd2_mod_zombies/props/dah_monitor/zm_dah_computer_screen_desktop"/>
+		<material_config path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
+		<model path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
+		<object path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
+		<sequence_manager path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
+		<unit path="units/pd2_mod_zombies/props/dah_monitor/dah_monitor" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_dark/props/drk_prop_hand_radio/drk_prop_hand_radio" type="unit">
+		<material_config path="units/pd2_dlc_dark/props/drk_prop_hand_radio/drk_prop_hand_radio" unload="true"/>
+		<object path="units/pd2_dlc_dark/props/drk_prop_hand_radio/drk_prop_hand_radio" unload="true"/>
+		<unit path="units/pd2_dlc_dark/props/drk_prop_hand_radio/drk_prop_hand_radio" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_run/props/run_prop_sign_overkill_coke_01/run_prop_sign_overkill_coke_01" type="unit">
+		<material_config path="units/pd2_dlc_run/props/run_prop_sign_overkill_coke_01/run_prop_sign_overkill_coke_01" unload="true"/>
+		<object path="units/pd2_dlc_run/props/run_prop_sign_overkill_coke_01/run_prop_sign_overkill_coke_01" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_run/props/run_prop_sign_overkill_coke_01/run_prop_sign_overkill_coke_01" unload="true"/>
+		<unit path="units/pd2_dlc_run/props/run_prop_sign_overkill_coke_01/run_prop_sign_overkill_coke_01" unload="true"/>
+	</add>
+	<add path="units/world/props/iphone/iphone" type="unit">
+		<unit path="units/world/props/iphone/iphone" unload="true"/>
+		<object path="units/world/props/iphone/iphone" unload="true"/>
+		<material_config path="units/world/props/iphone/iphone" unload="true"/>
+		<sequence_manager path="units/world/props/iphone/iphone" unload="true"/>
 	</add>
 	<movie path="movies/ascension"/>
 </table>

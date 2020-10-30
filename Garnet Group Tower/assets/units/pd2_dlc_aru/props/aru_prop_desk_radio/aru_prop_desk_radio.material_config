@@ -1,0 +1,13 @@
+<materials version="3">
+    <material render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" name="mat_aru_desk_radio" version="2">
+        <diffuse_texture file="units/pd2_dlc_aru/props/aru_prop_desk_radio/aru_a_civil_bank_desk_radio_df"/>
+        <bump_normal_texture file="units/pd2_dlc_aru/props/aru_prop_desk_radio/aru_a_civil_bank_desk_radio_nm"/>
+        <material_texture file="units/pd2_dlc_aru/props/aru_prop_desk_radio/aru_a_civil_bank_desk_radio_gsma"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" name="mat_aru_desk_radio_lod" version="2">
+        <diffuse_texture file="units/pd2_dlc_aru/props/aru_prop_desk_radio/aru_a_civil_bank_desk_radio_df" mip="4"/>
+        <bump_normal_texture file="units/pd2_dlc_aru/props/aru_prop_desk_radio/aru_a_civil_bank_desk_radio_nm" mip="4"/>
+        <material_texture file="units/pd2_dlc_aru/props/aru_prop_desk_radio/aru_a_civil_bank_desk_radio_gsma" mip="4"/>
+    </material>
+    <material render_template="shadow_caster_only" name="shadow_caster" version="2"/>
+</materials>

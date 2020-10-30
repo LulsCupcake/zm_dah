@@ -1,0 +1,36 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_run/props/run_prop_sign_overkill_coke_01/run_prop_sign_overkill_coke_01" orientation_object="rp_run_prop_sign_overkill_coke_01" />
+	<sequence_manager file="units/pd2_dlc_run/props/run_prop_sign_overkill_coke_01/run_prop_sign_overkill_coke_01" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_run_prop_sign_overkill_coke_01" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+			<object name="c_box_02" collision_type="box" padding="-2.5" />
+			<object name="c_box_03" collision_type="box" padding="-2.5" />
+			<object name="c_box_04" collision_type="box" padding="-2.5" />
+			<object name="c_box_05" collision_type="box" padding="-2.5" />
+			<object name="c_box_06" collision_type="box" padding="-2.5" />
+			<object name="c_box_07" collision_type="box" padding="-2.5" />
+			<object name="c_box_08" collision_type="box" padding="-2.5" />
+			<object name="c_box_09" collision_type="box" padding="-2.5" />
+		</body>
+		<body name="body_collision_01" enabled="true" template="static">
+			<object name="a_sign" />
+			<object name="c_box_10" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<graphics>
+		<lod_object name="lod_g">
+			<object name="g_lod0" enabled="true" max_distance="9000" />
+			<object name="g_lod1" enabled="true" max_distance="12000" />
+			<object name="g_lod2" enabled="true" />
+		</lod_object>
+		<lod_object name="lod_g_logo">
+			<object name="g_logo_lod0" enabled="true" max_distance="9000" />
+			<object name="g_logo_lod1" enabled="true" max_distance="12000" />
+			<object name="g_logo_lod2" enabled="true" />
+		</lod_object>
+		<object name="s_s" enabled="true" shadow_caster="true" />
+		<object name="s_s1" enabled="true" shadow_caster="true" />
+	</graphics>
+</dynamic_object>

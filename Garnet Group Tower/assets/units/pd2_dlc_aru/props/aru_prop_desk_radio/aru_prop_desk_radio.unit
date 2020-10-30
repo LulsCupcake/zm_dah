@@ -1,0 +1,6 @@
+<unit type="aru" slot="1">
+	<object file="units/pd2_dlc_aru/props/aru_prop_desk_radio/aru_prop_desk_radio" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+	</extensions>
+</unit>

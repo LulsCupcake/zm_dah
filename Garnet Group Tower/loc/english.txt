@@ -9,5 +9,6 @@
 	"heist_zm_dah_brief":"After getting off of Broken Arrow street, the gang finds themselves in a familiar place...\n\nIn order to continue on, the crew must now reactivate the tower to bring themselves closer to salvation.",
 	"zm_place_keycard":"Press $BTN_INTERACT to place the keycard",
 	"menu_jukebox_track_zm_dah":"With your little shovel",
-	"boo" : "BOO!"
+	"boo" : "BOO!",
+	"zm_pickup_gum" : "Press $BTN_INTERACT to pickup the gum"
 }
