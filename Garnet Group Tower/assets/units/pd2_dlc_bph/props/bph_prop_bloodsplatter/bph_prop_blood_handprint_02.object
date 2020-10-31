@@ -1,6 +1,0 @@
-<dynamic_object>
-  <diesel materials="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_footprint_01"  orientation_object="rp_bph_prop_blood_handprint_02" />
-  <graphics>
-    <object name="g_g" enabled="true" instance_struct="world_tm"/>
-  </graphics>
-</dynamic_object> 

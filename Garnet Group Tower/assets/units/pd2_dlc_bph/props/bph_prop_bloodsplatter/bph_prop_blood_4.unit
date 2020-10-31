@@ -1,6 +1,0 @@
-<unit type="gen" slot="1" >
-    <object file="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_4" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>

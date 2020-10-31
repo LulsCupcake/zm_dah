@@ -1,6 +1,0 @@
-<unit type="brush" slot="29">
-	<object file="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_prop_blood_handprint_01" />
-		<mass>
-		<spawn in="2500" method="pool" out="2600" />
-	</mass>
-</unit>

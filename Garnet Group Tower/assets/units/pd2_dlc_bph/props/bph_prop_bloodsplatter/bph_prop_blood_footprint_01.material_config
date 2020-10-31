@@ -1,7 +1,0 @@
-<materials version="3">
-    <material name="mat_blood" render_template="decal:DIFFUSE_TEXTURE:NORMALMAP:OPACITY_TEXTURE:OPACITY_TEXTURE_G" version="2" decal_material="wood">
-        <diffuse_texture file="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_blood_df"/>
-        <opacity_texture file="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_blood_op"/>
-        <bump_normal_texture file="units/pd2_dlc_bph/props/bph_prop_bloodsplatter/bph_blood_nm"/>
-    </material>
-</materials>

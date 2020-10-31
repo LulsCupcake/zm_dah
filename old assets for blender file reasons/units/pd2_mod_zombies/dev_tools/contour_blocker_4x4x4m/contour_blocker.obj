@@ -1,8 +1,0 @@
-# Blender v2.79 (sub 0) OBJ File: 'contour_blocker.obj'
-# www.blender.org
-mtllib contour_blocker.mtl
-o g_contour_blocker
-v 0.000000 0.000000 0.000000
-v 0.000000 0.000000 0.000000
-v 0.000000 0.000000 0.000000
-l 1 2
