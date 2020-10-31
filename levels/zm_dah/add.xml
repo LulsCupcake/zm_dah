@@ -482,6 +482,7 @@
 		<texture path="units/pd2_mod_zombies/guis/assets/perk_mechanics"/>
 		<texture path="units/pd2_mod_zombies/guis/assets/perk_mechanics2"/>
 		<texture path="units/pd2_mod_zombies/guis/perks/perk_sheet"/>
+		<texture path="units/pd2_mod_zombies/guis/perks/god_strength"/>
 		<texture path="units/pd2_mod_zombies/guis/power_ups/power_double_points"/>
 		<texture path="units/pd2_mod_zombies/guis/power_ups/power_instakill"/>
 		<texture path="units/pd2_mod_zombies/guis/power_ups/power_zombie_blood"/>

@@ -67,7 +67,7 @@ Hooks:PostHook(HudIconsTweakData, "init", "init_zm_icons_gui", function(self)
 		}
     }
 	self.perk_god = {
-        texture = "perks/god_strength",
+        texture = "units/pd2_mod_zombies/guis/perks/god_strength",
 		texture_rect = {
 			0,
 			0,
