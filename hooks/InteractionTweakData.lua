@@ -55,7 +55,7 @@ Hooks:PostHook(InteractionTweakData, "init", "zm_init_new_interactions", functio
 		zm_interaction = true,
 		weapon = "Commando 101",
 		weapon_id = "ray",
-		points_cost = 4500,
+		points_cost = 9000,
 		stay_active = true,
 		action_text_id = "zm_buy_weapon",
 		start_active = false,
