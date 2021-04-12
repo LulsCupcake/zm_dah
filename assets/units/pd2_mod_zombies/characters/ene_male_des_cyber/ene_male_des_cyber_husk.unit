@@ -9,19 +9,19 @@
 
 	<extensions>
 		<extension name="unit_data" class="ScriptUnitData" />
-		<extension name="base" class="CopBase" >
+		<extension name="base" class="HuskCopBase" >
 			<var name="can_be_marked" value="true" />
 			<var name="_tweak_table" value="tank_hw" />
 			<var name="_default_weapon_id" value="m249" />
 			<var name="_melee_weapon_table" value="helloween" />
 		</extension>
-		<extension name="inventory" class="CopInventory" />
-		<extension name="brain" class="CopBrain" />
+		<extension name="inventory" class="HuskCopInventory" />
+		<extension name="brain" class="HuskCopBrain" />
 		<extension name="anim_data" class="PlayerAnimationData" />
-		<extension name="character_damage" class="TankCopDamage">
+		<extension name="character_damage" class="HuskTankCopDamage">
 			<var name="_head_body_name" value="head" />
 		</extension>
-		<extension name="movement" class="CopMovement" >
+		<extension name="movement" class="HuskCopMovement" >
 			<var name="_footwear" value="bulldozer" />
 			<var name="_anim_global" value="tank" />
 		</extension>

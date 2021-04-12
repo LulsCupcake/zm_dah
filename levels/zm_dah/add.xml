@@ -742,7 +742,7 @@
 		<texture path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/zombie_eyes_il" unload="true"/>
 		<unit path="units/pd2_mod_zombies/characters/ene_acc_zombie_eyes/ene_acc_zombie_eyes" unload="true"/>
 	</add>
-	<add unload_on_restart="true">
+	<add>
 		<unit load="true" path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1"/>
 		<unit load="true" path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1_husk"/>
 		<object path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_1/ene_shadow_cloaker_1"/>
@@ -756,19 +756,19 @@
 		<material_config path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2"/>
 		<sequence_manager path="units/pd2_mod_zombies/characters/ene_shadow_cloaker_2/ene_shadow_cloaker_2"/>
 	</add>
-	<add unload_on_restart="true">
+	<add>
 		<unit load="true" path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado"/>
 		<unit load="true" path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_husk"/>
 		<material_config path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado"/>
 		<material_config path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_contour"/>
-		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_body_df" unload="true"/>
-		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_body_il" unload="true"/>
-		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_head_df" unload="true"/>
-		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_head_il" unload="true"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_body_df"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_body_il"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_head_df"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado_head_il"/>
 		<model path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado"/>
 		<object path="units/pd2_mod_zombies/characters/ene_boss_avocado/ene_boss_avocado"/>
 	</add>
-	<add unload_on_restart="true">
+	<add>
 		<unit load="true" path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror"/>
 		<unit load="true" path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror_husk"/>
 		<material_config path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror"/>
@@ -776,9 +776,9 @@
 		<model path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror"/>
 		<object path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror"/>
 		<sequence_manager path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror"/>
-		<texture path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror_df" unload="true"/>
+		<texture path="units/pd2_mod_zombies/characters/ene_bulldozer_horror/ene_bulldozer_horror_df"/>
 	</add>
-	<add unload_on_restart="true">
+	<add>
 		<unit load="true" path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber"/>
 		<unit load="true" path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber_husk"/>
 		<texture path="units/pd2_mod_zombies/characters/ene_male_des_cyber/ene_male_des_cyber_body_df"/>
